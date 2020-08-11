@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.2 
+# The lineage dataset is: hypocreales_odb10 (Creation date: 2019-11-20, number of species: 50, number of BUSCOs: 4494)
+# Summarized benchmarking in BUSCO notation for file /home/zack/Desktop/Metarhizium_Brunneum/ForBUSCOHypo/Redone/MbrunneumAbInitioBUSCOs/GeneMarkGensasAA.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:99.0%[S:98.7%,D:0.3%],F:0.5%,M:0.5%,n:4494	   
+	4450	Complete BUSCOs (C)			   
+	4435	Complete and single-copy BUSCOs (S)	   
+	15	Complete and duplicated BUSCOs (D)	   
+	23	Fragmented BUSCOs (F)			   
+	21	Missing BUSCOs (M)			   
+	4494	Total BUSCO groups searched		   

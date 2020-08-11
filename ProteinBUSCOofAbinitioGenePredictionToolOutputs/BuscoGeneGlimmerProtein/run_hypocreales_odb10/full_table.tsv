@@ -1,0 +1,4499 @@
+# BUSCO version is: 4.0.2 
+# The lineage dataset is: hypocreales_odb10 (Creation date: 2019-11-20, number of species: 50, number of BUSCOs: 4494)
+# Busco id	Status	Sequence	Score	Length
+26at5125	Missing
+30at5125	Complete	27712-Mb.00g011380.m01	6606.7	3977	https://www.orthodb.org/v10?query=30at5125	Midasin
+49at5125	Missing
+52at5125	Missing
+78at5125	Complete	27712-Mb.00g007340.m01	4915.0	2573	https://www.orthodb.org/v10?query=78at5125	Vacuolar protein sorting-associated protein
+87at5125	Missing
+102at5125	Missing
+133at5125	Missing
+141at5125	Complete	27712-Mb.00g028570.m01	4099.1	2014	https://www.orthodb.org/v10?query=141at5125	FKBP12-rapamycin binding domain
+142at5125	Missing
+154at5125	Complete	27712-Mb.00g058200.m01	3563.2	1999	https://www.orthodb.org/v10?query=154at5125	Serine/threonine-protein kinase Tel1
+155at5125	Missing
+168at5125	Missing
+171at5125	Complete	27712-Mb.00g016290.m01	3883.6	1994	https://www.orthodb.org/v10?query=171at5125	transcriptional activator leucine zipper
+178at5125	Missing
+194at5125	Missing
+200at5125	Complete	27712-Mb.00g023610.m01	3446.2	1587	https://www.orthodb.org/v10?query=200at5125	Glutamate synthase
+203at5125	Complete	27712-Mb.00g005270.m01	3182.4	1592	https://www.orthodb.org/v10?query=203at5125	fatty acid synthase beta subunit dehydratase
+215at5125	Missing
+246at5125	Complete	27712-Mb.00g032510.m01	3250.3	1768	https://www.orthodb.org/v10?query=246at5125	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+250at5125	Missing
+259at5125	Missing
+270at5125	Missing
+281at5125	Missing
+309at5125	Missing
+314at5125	Complete	27712-Mb.00g017970.m01	3409.5	1565	https://www.orthodb.org/v10?query=314at5125	Activating signal cointegrator 1 complex subunit 3
+322at5125	Missing
+323at5125	Missing
+341at5125	Missing
+343at5125	Missing
+351at5125	Missing
+353at5125	Missing
+380at5125	Missing
+390at5125	Complete	27712-Mb.00g008360.m01	1040.4	1468	https://www.orthodb.org/v10?query=390at5125	Polyketide synthase
+390at5125	Complete	27712-Mb.00g054620.m01	968.5	1444	https://www.orthodb.org/v10?query=390at5125	Polyketide synthase
+407at5125	Missing
+420at5125	Missing
+429at5125	Missing
+434at5125	Complete	27712-Mb.00g005440.m01	2971.2	1448	https://www.orthodb.org/v10?query=434at5125	class V chitin synthase
+446at5125	Missing
+459at5125	Missing
+463at5125	Missing
+481at5125	Missing
+485at5125	Missing
+497at5125	Missing
+499at5125	Missing
+521at5125	Complete	27712-Mb.00g072620.m01	2487.2	1358	https://www.orthodb.org/v10?query=521at5125	Putative response regulator receiver RIM15p
+522at5125	Complete	27712-Mb.00g005450.m01	2672.7	1452	https://www.orthodb.org/v10?query=522at5125	class VII chitin synthase
+527at5125	Missing
+539at5125	Missing
+542at5125	Missing
+569at5125	Complete	27712-Mb.00g040740.m01	2041.6	1071	https://www.orthodb.org/v10?query=569at5125	DNA-directed RNA polymerase subunit
+581at5125	Missing
+616at5125	Complete	27712-Mb.00g058390.m01	2750.5	1567	https://www.orthodb.org/v10?query=616at5125	Nucleoporin
+637at5125	Complete	27712-Mb.00g016400.m01	2049.2	1266	https://www.orthodb.org/v10?query=637at5125	Winged helix-like DNA-binding domain superfamily
+655at5125	Complete	27712-Mb.00g069420.m01	1444.5	815	https://www.orthodb.org/v10?query=655at5125	cellular morphogenesis regulator DopA
+658at5125	Missing
+664at5125	Missing
+672at5125	Missing
+677at5125	Missing
+694at5125	Missing
+707at5125	Missing
+720at5125	Missing
+726at5125	Complete	27712-Mb.00g044340.m01	1736.0	970	https://www.orthodb.org/v10?query=726at5125	Zinc finger, PHD-type
+729at5125	Complete	27712-Mb.00g052870.m01	2458.2	1495	https://www.orthodb.org/v10?query=729at5125	Autophagy-related protein 2
+740at5125	Missing
+742at5125	Missing
+746at5125	Missing
+776at5125	Complete	27712-Mb.00g032730.m01	2526.1	1580	https://www.orthodb.org/v10?query=776at5125	ankyrin repeat containing protein
+782at5125	Complete	27712-Mb.00g057820.m01	2593.3	1305	https://www.orthodb.org/v10?query=782at5125	Multidrug resistance-associated protein 1
+789at5125	Complete	27712-Mb.00g025620.m01	2215.3	1370	https://www.orthodb.org/v10?query=789at5125	endosomal peripheral membrane protein
+794at5125	Missing
+799at5125	Missing
+818at5125	Missing
+824at5125	Complete	27712-Mb.00g027590.m01	1846.7	1111	https://www.orthodb.org/v10?query=824at5125	Ankyrin repeat-containing domain
+854at5125	Complete	27712-Mb.00g003590.m01	2193.7	1263	https://www.orthodb.org/v10?query=854at5125	DNA-directed RNA polymerase subunit
+868at5125	Missing
+874at5125	Complete	27712-Mb.00g028440.m01	2560.9	1279	https://www.orthodb.org/v10?query=874at5125	ATP-binding cassette transporter, PDR-like subfamily G, domain 1
+879at5125	Missing
+923at5125	Missing
+925at5125	Missing
+928at5125	Missing
+940at5125	Missing
+944at5125	Missing
+949at5125	Missing
+982at5125	Missing
+1018at5125	Missing
+1027at5125	Complete	27712-Mb.00g022030.m01	1667.4	1211	https://www.orthodb.org/v10?query=1027at5125	Leucine-rich repeat
+1066at5125	Complete	27712-Mb.00g008070.m01	2134.3	1175	https://www.orthodb.org/v10?query=1066at5125	Phospholipase
+1068at5125	Missing
+1071at5125	Missing
+1079at5125	Missing
+1083at5125	Complete	27712-Mb.00g025070.m01	2412.9	1249	https://www.orthodb.org/v10?query=1083at5125	thyroid hormone receptor interactor 12
+1101at5125	Missing
+1103at5125	Missing
+1128at5125	Complete	27712-Mb.00g007000.m01	1471.1	847	https://www.orthodb.org/v10?query=1128at5125	Putative glyoxal oxidase
+1130at5125	Missing
+1147at5125	Missing
+1179at5125	Complete	27712-Mb.00g021110.m01	1848.4	1115	https://www.orthodb.org/v10?query=1179at5125	kinesin
+1181at5125	Missing
+1182at5125	Missing
+1187at5125	Complete	27712-Mb.00g061550.m01	2249.8	1061	https://www.orthodb.org/v10?query=1187at5125	WD40-repeat-containing domain
+1198at5125	Missing
+1210at5125	Complete	27712-Mb.00g042140.m01	1843.3	1025	https://www.orthodb.org/v10?query=1210at5125	WD40-repeat-containing domain
+1220at5125	Complete	27712-Mb.00g069680.m01	1659.7	778	https://www.orthodb.org/v10?query=1220at5125	Transcription elongation factor Spt6
+1224at5125	Complete	27712-Mb.00g009530.m01	2223.1	1206	https://www.orthodb.org/v10?query=1224at5125	Tricalbin
+1225at5125	Missing
+1240at5125	Complete	27712-Mb.00g051860.m01	912.8	764	https://www.orthodb.org/v10?query=1240at5125	dim2-associated protein 1, variant 1
+1255at5125	Complete	27712-Mb.00g009870.m01	2630.7	1364	https://www.orthodb.org/v10?query=1255at5125	transcription factor SipA3
+1275at5125	Complete	27712-Mb.00g050710.m01	1270.2	645	https://www.orthodb.org/v10?query=1275at5125	5-oxoprolinase
+1276at5125	Complete	27712-Mb.00g005090.m01	1723.5	944	https://www.orthodb.org/v10?query=1276at5125	Lysophospholipase NTE1
+1281at5125	Missing
+1284at5125	Missing
+1287at5125	Complete	27712-Mb.00g018560.m01	1462.6	811	https://www.orthodb.org/v10?query=1287at5125	PhoD-like superfamily
+1299at5125	Missing
+1305at5125	Complete	27712-Mb.00g033620.m01	2016.1	1096	https://www.orthodb.org/v10?query=1305at5125	Putative ABC transporter ATP-binding protein/permease
+1307at5125	Missing
+1318at5125	Missing
+1331at5125	Missing
+1341at5125	Missing
+1361at5125	Complete	27712-Mb.00g073660.m01	1941.0	898	https://www.orthodb.org/v10?query=1361at5125	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+1365at5125	Complete	27712-Mb.00g030690.m01	2000.1	1116	https://www.orthodb.org/v10?query=1365at5125	Tetratricopeptide-like helical
+1370at5125	Missing
+1377at5125	Missing
+1393at5125	Missing
+1400at5125	Missing
+1410at5125	Missing
+1428at5125	Missing
+1438at5125	Complete	27712-Mb.00g051030.m01	1751.7	1013	https://www.orthodb.org/v10?query=1438at5125	Nuclear pore complex subunit Nup133
+1440at5125	Complete	27712-Mb.00g013180.m01	1552.1	858	https://www.orthodb.org/v10?query=1440at5125	nonribosomal peptide synthetase 10
+1447at5125	Missing
+1452at5125	Complete	27712-Mb.00g017730.m01	2358.4	1318	https://www.orthodb.org/v10?query=1452at5125	DNA topoisomerase 2
+1462at5125	Complete	27712-Mb.00g059690.m01	1977.0	1013	https://www.orthodb.org/v10?query=1462at5125	DNA polymerase
+1473at5125	Missing
+1484at5125	Missing
+1485at5125	Missing
+1502at5125	Missing
+1508at5125	Missing
+1510at5125	Missing
+1511at5125	Missing
+1515at5125	Missing
+1528at5125	Complete	27712-Mb.00g010140.m01	1928.1	1014	https://www.orthodb.org/v10?query=1528at5125	Armadillo-type fold protein
+1531at5125	Missing
+1565at5125	Missing
+1566at5125	Missing
+1580at5125	Missing
+1597at5125	Complete	27712-Mb.00g067330.m01	1910.4	1080	https://www.orthodb.org/v10?query=1597at5125	P-type ATPase
+1605at5125	Complete	27712-Mb.00g047340.m01	2096.8	1273	https://www.orthodb.org/v10?query=1605at5125	related to DNA/RNA helicase (DEAD/H box family II)
+1612at5125	Missing
+1613at5125	Complete	27712-Mb.00g059930.m01	919.9	576	https://www.orthodb.org/v10?query=1613at5125	L-aminoadipate-semialdehyde dehydrogenase
+1619at5125	Missing
+1620at5125	Missing
+1630at5125	Missing
+1635at5125	Missing
+1644at5125	Missing
+1676at5125	Complete	27712-Mb.00g005520.m01	1017.1	646	https://www.orthodb.org/v10?query=1676at5125	thermotolerance protein
+1679at5125	Missing
+1721at5125	Complete	27712-Mb.00g072610.m01	460.3	345	https://www.orthodb.org/v10?query=1721at5125	Zinc finger protein
+1729at5125	Complete	27712-Mb.00g025170.m01	1731.4	886	https://www.orthodb.org/v10?query=1729at5125	patched sphingolipid transporter
+1752at5125	Complete	27712-Mb.00g032760.m01	2035.6	1151	https://www.orthodb.org/v10?query=1752at5125	DNA-directed RNA polymerase
+1758at5125	Missing
+1767at5125	Complete	27712-Mb.00g069300.m01	1842.3	891	https://www.orthodb.org/v10?query=1767at5125	Pyruvate carboxylase
+1768at5125	Missing
+1771at5125	Complete	27712-Mb.00g043890.m01	1832.9	900	https://www.orthodb.org/v10?query=1771at5125	P-type ATPase
+1773at5125	Complete	27712-Mb.00g066490.m01	1423.3	1203	https://www.orthodb.org/v10?query=1773at5125	Dbl homology (DH) domain
+1774at5125	Missing
+1779at5125	Complete	27712-Mb.00g040050.m01	270.0	401	https://www.orthodb.org/v10?query=1779at5125	Sterol 3-beta-glucosyltransferase
+1801at5125	Complete	27712-Mb.00g057540.m01	2091.2	1119	https://www.orthodb.org/v10?query=1801at5125	Peroxisomal biogenesis factor 6
+1804at5125	Missing
+1824at5125	Complete	27712-Mb.00g008610.m01	1514.0	858	https://www.orthodb.org/v10?query=1824at5125	Peroxisome biogenesis factor 1
+1827at5125	Missing
+1828at5125	Missing
+1830at5125	Complete	27712-Mb.00g049280.m01	1358.3	657	https://www.orthodb.org/v10?query=1830at5125	class 2 chitin synthase
+1842at5125	Missing
+1848at5125	Missing
+1849at5125	Missing
+1867at5125	Complete	27712-Mb.00g010570.m01	1753.8	895	https://www.orthodb.org/v10?query=1867at5125	ABC transporter type 1, transmembrane domain
+1890at5125	Complete	27712-Mb.00g061090.m01	1757.3	871	https://www.orthodb.org/v10?query=1890at5125	Winged helix-like DNA-binding domain superfamily
+1903at5125	Complete	27712-Mb.00g026790.m01	1160.5	719	https://www.orthodb.org/v10?query=1903at5125	glutathione transferase omega-1
+1907at5125	Missing
+1938at5125	Complete	27712-Mb.00g067610.m01	1621.4	1001	https://www.orthodb.org/v10?query=1938at5125	ATP-dependent DNA helicase
+1950at5125	Missing
+1954at5125	Missing
+1977at5125	Missing
+1991at5125	Complete	27712-Mb.00g040210.m01	2067.6	1003	https://www.orthodb.org/v10?query=1991at5125	myosin-5
+1992at5125	Complete	27712-Mb.00g041300.m01	1826.6	1023	https://www.orthodb.org/v10?query=1992at5125	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain
+2009at5125	Missing
+2010at5125	Missing
+2017at5125	Missing
+2023at5125	Missing
+2038at5125	Missing
+2039at5125	Missing
+2052at5125	Missing
+2072at5125	Complete	27712-Mb.00g030710.m01	2127.8	1342	https://www.orthodb.org/v10?query=2072at5125	mitogen activated protein kinase kinase kinase 3, mapkkk3, mekk3
+2074at5125	Missing
+2076at5125	Complete	27712-Mb.00g068810.m01	1747.4	1148	https://www.orthodb.org/v10?query=2076at5125	Autophagy-related protein 11
+2083at5125	Complete	27712-Mb.00g011160.m01	1271.0	1038	https://www.orthodb.org/v10?query=2083at5125	chromatin-remodeling complex ATPase chain isw-1
+2097at5125	Missing
+2117at5125	Missing
+2135at5125	Missing
+2136at5125	Missing
+2137at5125	Missing
+2140at5125	Complete	27712-Mb.00g006520.m01	1089.5	838	https://www.orthodb.org/v10?query=2140at5125	Dicer dimerisation domain
+2149at5125	Missing
+2150at5125	Complete	27712-Mb.00g064620.m01	1445.9	828	https://www.orthodb.org/v10?query=2150at5125	Endonuclease/Exonuclease/phosphatase
+2163at5125	Missing
+2180at5125	Missing
+2185at5125	Missing
+2195at5125	Complete	27712-Mb.00g065520.m01	1812.7	991	https://www.orthodb.org/v10?query=2195at5125	DNA repair protein RAD51
+2196at5125	Complete	27712-Mb.00g006220.m01	1806.6	945	https://www.orthodb.org/v10?query=2196at5125	Elongator complex protein 1
+2198at5125	Missing
+2203at5125	Missing
+2217at5125	Missing
+2219at5125	Missing
+2221at5125	Complete	27712-Mb.00g048230.m01	1719.0	801	https://www.orthodb.org/v10?query=2221at5125	Exportin-1
+2236at5125	Complete	27712-Mb.00g059280.m01	1525.5	773	https://www.orthodb.org/v10?query=2236at5125	Ras guanine nucleotide exchange factor
+2243at5125	Complete	27712-Mb.00g072410.m01	1503.8	775	https://www.orthodb.org/v10?query=2243at5125	DUF1339 domain protein
+2247at5125	Missing
+2248at5125	Complete	27712-Mb.00g012280.m01	1826.5	1201	https://www.orthodb.org/v10?query=2248at5125	Zinc finger, RING-CH-type
+2250at5125	Complete	27712-Mb.00g011550.m01	1163.9	1051	https://www.orthodb.org/v10?query=2250at5125	Ankyrin repeat-containing domain protein
+2255at5125	Missing
+2266at5125	Complete	27712-Mb.00g036470.m01	1725.0	837	https://www.orthodb.org/v10?query=2266at5125	glycoside hydrolase family 63
+2286at5125	Complete	27712-Mb.00g009710.m01	1124.8	745	https://www.orthodb.org/v10?query=2286at5125	ubiquitin carboxyl-terminal hydrolase
+2290at5125	Missing
+2300at5125	Missing
+2302at5125	Missing
+2318at5125	Missing
+2338at5125	Complete	27712-Mb.00g010830.m01	1434.1	821	https://www.orthodb.org/v10?query=2338at5125	Structural maintenance of chromosomes protein
+2358at5125	Complete	27712-Mb.00g063210.m01	1782.5	862	https://www.orthodb.org/v10?query=2358at5125	DNA mismatch repair protein msh6
+2367at5125	Missing
+2368at5125	Complete	27712-Mb.00g005810.m01	1842.6	864	https://www.orthodb.org/v10?query=2368at5125	2-oxoglutarate dehydrogenase E1 component
+2371at5125	Complete	27712-Mb.00g022870.m01	1258.6	711	https://www.orthodb.org/v10?query=2371at5125	jumonji family transcription factor
+2373at5125	Missing
+2374at5125	Complete	27712-Mb.00g007830.m01	1704.3	847	https://www.orthodb.org/v10?query=2374at5125	P-type ATPase
+2392at5125	Missing
+2395at5125	Complete	27712-Mb.00g021780.m01	1428.6	827	https://www.orthodb.org/v10?query=2395at5125	Calcium permease
+2402at5125	Complete	27712-Mb.00g031400.m01	1133.0	686	https://www.orthodb.org/v10?query=2402at5125	Tetratricopeptide-like helical
+2434at5125	Missing
+2458at5125	Missing
+2463at5125	Complete	27712-Mb.00g013860.m01	1044.3	784	https://www.orthodb.org/v10?query=2463at5125	Tetratricopeptide-like helical
+2478at5125	Complete	27712-Mb.00g001880.m01	1426.7	752	https://www.orthodb.org/v10?query=2478at5125	Glycine cleavage system P protein
+2487at5125	Missing
+2522at5125	Missing
+2523at5125	Missing
+2530at5125	Missing
+2551at5125	Missing
+2554at5125	Missing
+2558at5125	Complete	27712-Mb.00g031270.m01	1305.0	873	https://www.orthodb.org/v10?query=2558at5125	ubiquitin carboxyl-terminal hydrolase
+2564at5125	Missing
+2580at5125	Complete	27712-Mb.00g025850.m01	303.2	464	https://www.orthodb.org/v10?query=2580at5125	cytochrome oxidase subunit II-like protein
+2593at5125	Missing
+2608at5125	Complete	27712-Mb.00g015560.m01	1663.7	934	https://www.orthodb.org/v10?query=2608at5125	DNA damage-binding protein 1
+2624at5125	Missing
+2629at5125	Missing
+2665at5125	Missing
+2702at5125	Missing
+2707at5125	Missing
+2715at5125	Missing
+2728at5125	Missing
+2749at5125	Complete	27712-Mb.00g003360.m01	1831.5	987	https://www.orthodb.org/v10?query=2749at5125	Serine/threonine kinase IREI
+2753at5125	Missing
+2761at5125	Missing
+2778at5125	Missing
+2794at5125	Missing
+2822at5125	Missing
+2826at5125	Missing
+2857at5125	Missing
+2864at5125	Missing
+2870at5125	Missing
+2871at5125	Missing
+2906at5125	Missing
+2921at5125	Missing
+2945at5125	Missing
+2952at5125	Complete	27712-Mb.00g031760.m01	1603.2	1024	https://www.orthodb.org/v10?query=2952at5125	Anucleate primary sterigmata protein B
+2962at5125	Missing
+2970at5125	Missing
+2975at5125	Missing
+2998at5125	Missing
+3001at5125	Missing
+3005at5125	Missing
+3012at5125	Complete	27712-Mb.00g025090.m01	1757.5	1157	https://www.orthodb.org/v10?query=3012at5125	Exocyst complex, component Exoc1
+3023at5125	Complete	27712-Mb.00g029680.m01	1973.6	979	https://www.orthodb.org/v10?query=3023at5125	Importin beta-3 subunit
+3027at5125	Missing
+3034at5125	Missing
+3043at5125	Complete	27712-Mb.00g014760.m01	1483.0	881	https://www.orthodb.org/v10?query=3043at5125	Phosphoinositide phospholipase C
+3067at5125	Missing
+3074at5125	Missing
+3083at5125	Missing
+3087at5125	Missing
+3125at5125	Missing
+3126at5125	Missing
+3141at5125	Missing
+3144at5125	Complete	27712-Mb.00g043100.m01	1682.7	875	https://www.orthodb.org/v10?query=3144at5125	Probable ECM16-putative DEAH-box RNA helicase
+3158at5125	Missing
+3167at5125	Missing
+3173at5125	Missing
+3198at5125	Missing
+3211at5125	Complete	27712-Mb.00g016340.m01	1333.4	692	https://www.orthodb.org/v10?query=3211at5125	Importin-beta domain containing protein
+3224at5125	Missing
+3258at5125	Missing
+3281at5125	Missing
+3284at5125	Missing
+3303at5125	Missing
+3319at5125	Missing
+3331at5125	Complete	27712-Mb.00g030170.m01	1318.7	836	https://www.orthodb.org/v10?query=3331at5125	Nrap protein
+3332at5125	Missing
+3340at5125	Missing
+3342at5125	Complete	27712-Mb.00g061590.m01	1474.0	819	https://www.orthodb.org/v10?query=3342at5125	alpha-1,2-Mannosidase
+3346at5125	Missing
+3351at5125	Complete	27712-Mb.00g056820.m01	1137.6	1028	https://www.orthodb.org/v10?query=3351at5125	Methyltransferase type 11
+3356at5125	Complete	27712-Mb.00g068070.m01	1597.9	841	https://www.orthodb.org/v10?query=3356at5125	DNA helicase
+3373at5125	Missing
+3376at5125	Complete	27712-Mb.00g065750.m01	1560.0	794	https://www.orthodb.org/v10?query=3376at5125	mitotic control protein dis3
+3379at5125	Missing
+3392at5125	Missing
+3397at5125	Complete	27712-Mb.00g040980.m01	943.1	650	https://www.orthodb.org/v10?query=3397at5125	WD40-repeat-containing domain
+3404at5125	Missing
+3406at5125	Missing
+3408at5125	Missing
+3419at5125	Complete	27712-Mb.00g017690.m01	1551.5	990	https://www.orthodb.org/v10?query=3419at5125	cation channel family transporter, putative
+3424at5125	Missing
+3429at5125	Missing
+3431at5125	Missing
+3435at5125	Missing
+3453at5125	Missing
+3460at5125	Missing
+3471at5125	Complete	27712-Mb.00g030820.m01	832.6	634	https://www.orthodb.org/v10?query=3471at5125	prefoldin subunit 3
+3489at5125	Missing
+3495at5125	Complete	27712-Mb.00g020410.m01	1270.3	672	https://www.orthodb.org/v10?query=3495at5125	elongation factor 2
+3510at5125	Complete	27712-Mb.00g021800.m01	1025.4	556	https://www.orthodb.org/v10?query=3510at5125	WD40/YVTN repeat-like-containing domain superfamily
+3520at5125	Complete	27712-Mb.00g023650.m01	1674.1	880	https://www.orthodb.org/v10?query=3520at5125	nucleoporin-interacting protein NIC96
+3521at5125	Missing
+3522at5125	Missing
+3554at5125	Missing
+3561at5125	Missing
+3565at5125	Complete	27712-Mb.00g010630.m01	1097.8	630	https://www.orthodb.org/v10?query=3565at5125	Zinc finger, RING/FYVE/PHD-type
+3582at5125	Complete	27712-Mb.00g031100.m01	1044.4	570	https://www.orthodb.org/v10?query=3582at5125	Lethal giant larvae (Lgl)-lik
+3587at5125	Missing
+3598at5125	Missing
+3632at5125	Complete	27712-Mb.00g015200.m01	1543.5	799	https://www.orthodb.org/v10?query=3632at5125	glucosidase II alpha subunit
+3633at5125	Missing
+3646at5125	Complete	27712-Mb.00g030130.m01	1540.4	1146	https://www.orthodb.org/v10?query=3646at5125	Spindle associated
+3650at5125	Missing
+3651at5125	Missing
+3656at5125	Missing
+3672at5125	Missing
+3683at5125	Missing
+3689at5125	Missing
+3690at5125	Missing
+3697at5125	Missing
+3699at5125	Complete	27712-Mb.00g051460.m01	1603.4	744	https://www.orthodb.org/v10?query=3699at5125	Chitin synthase 1
+3705at5125	Missing
+3709at5125	Complete	27712-Mb.00g068490.m01	1445.6	688	https://www.orthodb.org/v10?query=3709at5125	pre-mRNA splicing factor ATP-dependent RNA helicase prp16
+3714at5125	Missing
+3717at5125	Missing
+3741at5125	Missing
+3744at5125	Missing
+3746at5125	Missing
+3766at5125	Missing
+3772at5125	Missing
+3789at5125	Missing
+3798at5125	Missing
+3803at5125	Missing
+3804at5125	Missing
+3805at5125	Missing
+3814at5125	Missing
+3817at5125	Complete	27712-Mb.00g068580.m01	794.3	584	https://www.orthodb.org/v10?query=3817at5125	Protein kinase domain
+3821at5125	Missing
+3844at5125	Complete	27712-Mb.00g060160.m01	1199.0	873	https://www.orthodb.org/v10?query=3844at5125	Protein EFR3
+3863at5125	Missing
+3868at5125	Missing
+3875at5125	Missing
+3888at5125	Missing
+3892at5125	Missing
+3897at5125	Missing
+3900at5125	Complete	27712-Mb.00g061130.m01	1160.9	621	https://www.orthodb.org/v10?query=3900at5125	Phosphatidylinositol 3-kinase VPS34
+3906at5125	Missing
+3909at5125	Missing
+3918at5125	Complete	27712-Mb.00g045270.m01	511.8	613	https://www.orthodb.org/v10?query=3918at5125	dipeptidyl aminopeptidase
+3926at5125	Missing
+3928at5125	Complete	27712-Mb.00g061040.m01	1317.1	688	https://www.orthodb.org/v10?query=3928at5125	Rab-GTPase-TBC domain
+3974at5125	Missing
+3983at5125	Complete	27712-Mb.00g017380.m01	1150.4	599	https://www.orthodb.org/v10?query=3983at5125	Spindle pole body component
+3985at5125	Missing
+3987at5125	Missing
+3991at5125	Missing
+4000at5125	Missing
+4005at5125	Complete	27712-Mb.00g010190.m01	1234.8	717	https://www.orthodb.org/v10?query=4005at5125	Pumilio homology domain
+4024at5125	Complete	27712-Mb.00g018180.m01	1063.5	566	https://www.orthodb.org/v10?query=4024at5125	glycogen phosphorylase
+4029at5125	Complete	27712-Mb.00g041430.m01	223.8	379	https://www.orthodb.org/v10?query=4029at5125	related to TOB3 (member of AAA-ATPase family)
+4032at5125	Missing
+4056at5125	Missing
+4068at5125	Missing
+4070at5125	Missing
+4073at5125	Missing
+4081at5125	Complete	27712-Mb.00g022070.m01	1085.6	684	https://www.orthodb.org/v10?query=4081at5125	Protein kinase domain
+4093at5125	Missing
+4108at5125	Complete	27712-Mb.00g016060.m01	1198.3	730	https://www.orthodb.org/v10?query=4108at5125	Rho GTPase activation protein
+4116at5125	Missing
+4133at5125	Missing
+4134at5125	Complete	27712-Mb.00g017660.m01	1495.2	832	https://www.orthodb.org/v10?query=4134at5125	ribosome biogenesis protein
+4153at5125	Missing
+4168at5125	Missing
+4170at5125	Complete	27712-Mb.00g016640.m01	1481.3	745	https://www.orthodb.org/v10?query=4170at5125	Phosphatidylethanolamine N-methyltransferase
+4173at5125	Complete	27712-Mb.00g069350.m01	1192.7	652	https://www.orthodb.org/v10?query=4173at5125	F-box domain protein
+4177at5125	Missing
+4187at5125	Complete	27712-Mb.00g002560.m01	1365.9	730	https://www.orthodb.org/v10?query=4187at5125	Small nucleolar ribonucleoprotein complex subunit
+4196at5125	Missing
+4213at5125	Missing
+4222at5125	Missing
+4223at5125	Missing
+4239at5125	Missing
+4253at5125	Complete	27712-Mb.00g052040.m01	1587.9	820	https://www.orthodb.org/v10?query=4253at5125	Pre-mRNA splicing factor
+4260at5125	Missing
+4267at5125	Complete	27712-Mb.00g069280.m01	400.2	270	https://www.orthodb.org/v10?query=4267at5125	R3H domain
+4282at5125	Missing
+4303at5125	Missing
+4312at5125	Missing
+4314at5125	Complete	27712-Mb.00g050400.m01	1288.9	740	https://www.orthodb.org/v10?query=4314at5125	PX domain-containing protein
+4336at5125	Complete	27712-Mb.00g020840.m01	1044.5	696	https://www.orthodb.org/v10?query=4336at5125	10TM putative phosphate transporter, cytosolic domain
+4363at5125	Complete	27712-Mb.00g009550.m01	1079.0	825	https://www.orthodb.org/v10?query=4363at5125	tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+4376at5125	Missing
+4381at5125	Missing
+4390at5125	Complete	27712-Mb.00g022050.m01	1286.5	768	https://www.orthodb.org/v10?query=4390at5125	Rab-GTPase-TBC domain
+4397at5125	Missing
+4402at5125	Missing
+4426at5125	Missing
+4428at5125	Complete	27712-Mb.00g020140.m01	1409.2	834	https://www.orthodb.org/v10?query=4428at5125	kinesin
+4452at5125	Missing
+4465at5125	Missing
+4483at5125	Complete	27712-Mb.00g018300.m01	1412.7	743	https://www.orthodb.org/v10?query=4483at5125	Armadillo-type fold protein
+4506at5125	Missing
+4515at5125	Missing
+4525at5125	Missing
+4538at5125	Missing
+4541at5125	Complete	27712-Mb.00g043440.m01	276.0	226	https://www.orthodb.org/v10?query=4541at5125	Zn(2)-C6 fungal-type DNA-binding domain
+4552at5125	Complete	27712-Mb.00g011580.m01	1276.8	822	https://www.orthodb.org/v10?query=4552at5125	Zinc finger, PHD-type
+4563at5125	Missing
+4586at5125	Missing
+4587at5125	Missing
+4601at5125	Missing
+4603at5125	Complete	27712-Mb.00g024620.m01	1467.0	752	https://www.orthodb.org/v10?query=4603at5125	WD40-repeat-containing domain
+4613at5125	Missing
+4629at5125	Missing
+4632at5125	Complete	27712-Mb.00g027450.m01	1279.1	818	https://www.orthodb.org/v10?query=4632at5125	P-type ATPase
+4643at5125	Missing
+4653at5125	Missing
+4658at5125	Missing
+4661at5125	Missing
+4673at5125	Missing
+4684at5125	Missing
+4705at5125	Missing
+4742at5125	Missing
+4744at5125	Missing
+4753at5125	Missing
+4762at5125	Missing
+4766at5125	Missing
+4771at5125	Missing
+4780at5125	Complete	27712-Mb.00g072150.m01	1081.8	603	https://www.orthodb.org/v10?query=4780at5125	Serine/threonine-protein kinase
+4782at5125	Missing
+4784at5125	Missing
+4785at5125	Missing
+4792at5125	Missing
+4795at5125	Missing
+4797at5125	Missing
+4815at5125	Complete	27712-Mb.00g061270.m01	1034.0	643	https://www.orthodb.org/v10?query=4815at5125	Helicase-like protein
+4816at5125	Missing
+4822at5125	Missing
+4827at5125	Missing
+4828at5125	Complete	27712-Mb.00g047500.m01	1358.1	670	https://www.orthodb.org/v10?query=4828at5125	Coatomer subunit beta'
+4829at5125	Complete	27712-Mb.00g013540.m01	1169.9	685	https://www.orthodb.org/v10?query=4829at5125	ribonuclease Z
+4832at5125	Missing
+4840at5125	Missing
+4848at5125	Missing
+4862at5125	Missing
+4866at5125	Missing
+4882at5125	Complete	27712-Mb.00g052860.m01	1500.7	660	https://www.orthodb.org/v10?query=4882at5125	Chitin synthase 3
+4887at5125	Complete	27712-Mb.00g041460.m01	1053.4	745	https://www.orthodb.org/v10?query=4887at5125	Chromosome segregation protein
+4897at5125	Missing
+4903at5125	Missing
+4925at5125	Missing
+4944at5125	Missing
+4945at5125	Missing
+4960at5125	Complete	27712-Mb.00g034670.m01	1287.6	589	https://www.orthodb.org/v10?query=4960at5125	DENN domain-containing protein
+4978at5125	Missing
+5016at5125	Complete	27712-Mb.00g036090.m01	1177.3	599	https://www.orthodb.org/v10?query=5016at5125	Protein SEY1
+5033at5125	Missing
+5041at5125	Missing
+5050at5125	Missing
+5058at5125	Missing
+5069at5125	Complete	27712-Mb.00g071460.m01	1145.6	839	https://www.orthodb.org/v10?query=5069at5125	proteinrelated to ser/arg-related nuclear matrix protein
+5075at5125	Missing
+5086at5125	Complete	27712-Mb.00g066530.m01	1367.9	785	https://www.orthodb.org/v10?query=5086at5125	DNA repair protein REV1
+5092at5125	Missing
+5109at5125	Missing
+5110at5125	Complete	27712-Mb.00g016240.m01	489.8	789	https://www.orthodb.org/v10?query=5110at5125	Serine/threonine protein kinase
+5142at5125	Missing
+5150at5125	Complete	27712-Mb.00g018480.m01	919.4	566	https://www.orthodb.org/v10?query=5150at5125	WD40-repeat-containing domain
+5153at5125	Complete	27712-Mb.00g017290.m01	1061.5	597	https://www.orthodb.org/v10?query=5153at5125	Zn(2)-C6 fungal-type DNA-binding domain
+5174at5125	Missing
+5188at5125	Missing
+5192at5125	Complete	27712-Mb.00g040910.m01	1438.8	791	https://www.orthodb.org/v10?query=5192at5125	XPG/Rad2 endonuclease
+5193at5125	Complete	27712-Mb.00g043260.m01	857.8	475	https://www.orthodb.org/v10?query=5193at5125	Mitochondrial protein Pet127
+5208at5125	Missing
+5217at5125	Missing
+5226at5125	Missing
+5236at5125	Missing
+5240at5125	Complete	27712-Mb.00g059410.m01	1152.8	544	https://www.orthodb.org/v10?query=5240at5125	Protein transport protein SEC23
+5250at5125	Complete	27712-Mb.00g063590.m01	1264.9	653	https://www.orthodb.org/v10?query=5250at5125	Dynamin GTPase
+5266at5125	Missing
+5312at5125	Missing
+5317at5125	Complete	27712-Mb.00g061980.m01	1097.8	716	https://www.orthodb.org/v10?query=5317at5125	Protein kinase-like domain protein
+5318at5125	Missing
+5331at5125	Missing
+5355at5125	Missing
+5362at5125	Missing
+5399at5125	Missing
+5404at5125	Complete	27712-Mb.00g063390.m01	1586.3	1099	https://www.orthodb.org/v10?query=5404at5125	ABC transporter type 1, transmembrane domain
+5412at5125	Complete	27712-Mb.00g064260.m01	975.5	774	https://www.orthodb.org/v10?query=5412at5125	Zn(2)-C6 fungal-type DNA-binding domain
+5421at5125	Missing
+5423at5125	Missing
+5429at5125	Missing
+5450at5125	Missing
+5460at5125	Missing
+5462at5125	Missing
+5467at5125	Complete	27712-Mb.00g058690.m01	1119.1	691	https://www.orthodb.org/v10?query=5467at5125	tyrosine-protein phosphatase non-receptor type 6
+5473at5125	Complete	27712-Mb.00g016040.m01	1167.1	857	https://www.orthodb.org/v10?query=5473at5125	Tetratricopeptide-like helical
+5481at5125	Missing
+5495at5125	Missing
+5496at5125	Missing
+5524at5125	Missing
+5526at5125	Missing
+5527at5125	Missing
+5530at5125	Missing
+5532at5125	Complete	27712-Mb.00g041590.m01	695.3	687	https://www.orthodb.org/v10?query=5532at5125	upf0183 domain containing protein
+5552at5125	Missing
+5563at5125	Missing
+5573at5125	Missing
+5597at5125	Complete	27712-Mb.00g072780.m01	1096.9	723	https://www.orthodb.org/v10?query=5597at5125	nuclear pore complex protein Nup107
+5601at5125	Missing
+5604at5125	Complete	27712-Mb.00g042540.m01	1292.1	808	https://www.orthodb.org/v10?query=5604at5125	SNF2-related protein
+5618at5125	Complete	27712-Mb.00g032240.m01	537.7	408	https://www.orthodb.org/v10?query=5618at5125	Retinoic acid induced 16-like protein
+5659at5125	Missing
+5663at5125	Missing
+5680at5125	Missing
+5697at5125	Missing
+5716at5125	Missing
+5731at5125	Missing
+5747at5125	Missing
+5760at5125	Complete	27712-Mb.00g024060.m01	1048.0	573	https://www.orthodb.org/v10?query=5760at5125	Ras guanine nucleotide exchange factor domain superfamily
+5765at5125	Missing
+5770at5125	Missing
+5773at5125	Missing
+5782at5125	Complete	27712-Mb.00g048300.m01	1171.7	615	https://www.orthodb.org/v10?query=5782at5125	vesicle fusion factor NSFI
+5792at5125	Missing
+5795at5125	Missing
+5802at5125	Missing
+5804at5125	Missing
+5814at5125	Complete	27712-Mb.00g027050.m01	787.3	545	https://www.orthodb.org/v10?query=5814at5125	dihydrodipicolinate synthase
+5819at5125	Missing
+5820at5125	Complete	27712-Mb.00g058290.m01	1143.6	522	https://www.orthodb.org/v10?query=5820at5125	ATPase, AAA-type, conserved site
+5825at5125	Complete	27712-Mb.00g041220.m01	1429.9	728	https://www.orthodb.org/v10?query=5825at5125	Histidine biosynthesis trifunctional protein
+5831at5125	Missing
+5839at5125	Complete	27712-Mb.00g016430.m01	1217.3	659	https://www.orthodb.org/v10?query=5839at5125	ATP-dependent RNA helicase DBP10
+5856at5125	Missing
+5867at5125	Missing
+5876at5125	Missing
+5910at5125	Missing
+5911at5125	Complete	27712-Mb.00g057900.m01	1294.4	730	https://www.orthodb.org/v10?query=5911at5125	WD40 repeat-like-containing domain protein
+5912at5125	Complete	27712-Mb.00g073270.m01	1090.4	690	https://www.orthodb.org/v10?query=5912at5125	Transferrin receptor-like, dimerisation domain
+5913at5125	Missing
+5916at5125	Missing
+5918at5125	Missing
+5919at5125	Complete	27712-Mb.00g025840.m01	906.9	770	https://www.orthodb.org/v10?query=5919at5125	C7Z5A2_NECH7
+5925at5125	Complete	27712-Mb.00g036000.m01	1127.9	668	https://www.orthodb.org/v10?query=5925at5125	Mitochondrial escape protein 2
+5938at5125	Missing
+5942at5125	Missing
+5944at5125	Missing
+5954at5125	Complete	27712-Mb.00g010440.m01	1228.5	647	https://www.orthodb.org/v10?query=5954at5125	Dynamin superfamily
+5956at5125	Missing
+5961at5125	Complete	27712-Mb.00g067110.m01	904.5	605	https://www.orthodb.org/v10?query=5961at5125	intracellular protein transport-like protein
+5962at5125	Missing
+5965at5125	Missing
+5975at5125	Missing
+5978at5125	Missing
+5988at5125	Complete	27712-Mb.00g006240.m01	1508.8	823	https://www.orthodb.org/v10?query=5988at5125	Actin interacting protein 3
+5992at5125	Missing
+6021at5125	Complete	27712-Mb.00g067220.m01	1146.8	581	https://www.orthodb.org/v10?query=6021at5125	dolichyl-phosphate-mannose-protein mannosyltransferase
+6061at5125	Complete	27712-Mb.00g042490.m01	1168.5	546	https://www.orthodb.org/v10?query=6061at5125	ferric reductase transmembrane component 7
+6066at5125	Missing
+6075at5125	Missing
+6081at5125	Complete	27712-Mb.00g009730.m01	910.9	476	https://www.orthodb.org/v10?query=6081at5125	Phosphodiesterase
+6122at5125	Missing
+6136at5125	Missing
+6140at5125	Missing
+6150at5125	Complete	27712-Mb.00g021010.m01	391.2	526	https://www.orthodb.org/v10?query=6150at5125	Zinc finger C2H2 superfamily
+6153at5125	Missing
+6166at5125	Missing
+6190at5125	Complete	27712-Mb.00g038860.m01	669.0	350	https://www.orthodb.org/v10?query=6190at5125	Carbohydrate esterase family 9 protein
+6208at5125	Missing
+6222at5125	Missing
+6223at5125	Missing
+6231at5125	Complete	27712-Mb.00g072750.m01	1191.4	544	https://www.orthodb.org/v10?query=6231at5125	dynamin-2
+6233at5125	Complete	27712-Mb.00g066890.m01	1543.4	875	https://www.orthodb.org/v10?query=6233at5125	Pre-mRNA-processing ATP-dependent RNA helicase PRP5
+6258at5125	Complete	27712-Mb.00g072210.m01	540.5	349	https://www.orthodb.org/v10?query=6258at5125	SNF2-related, N-terminal domain
+6262at5125	Complete	27712-Mb.00g023820.m01	797.7	692	https://www.orthodb.org/v10?query=6262at5125	RNA polymerase I-specific transcription initiation factor RRN6-like protein
+6267at5125	Missing
+6290at5125	Missing
+6293at5125	Missing
+6310at5125	Missing
+6314at5125	Missing
+6318at5125	Complete	27712-Mb.00g052470.m01	985.9	517	https://www.orthodb.org/v10?query=6318at5125	Zn(2)-C6 fungal-type DNA-binding domain
+6332at5125	Missing
+6334at5125	Missing
+6364at5125	Missing
+6377at5125	Missing
+6383at5125	Missing
+6387at5125	Complete	27712-Mb.00g007230.m01	1157.0	594	https://www.orthodb.org/v10?query=6387at5125	WD40-repeat-containing domain
+6390at5125	Missing
+6428at5125	Missing
+6432at5125	Missing
+6434at5125	Missing
+6456at5125	Missing
+6468at5125	Missing
+6477at5125	Missing
+6490at5125	Missing
+6534at5125	Missing
+6539at5125	Complete	27712-Mb.00g018160.m01	1311.9	641	https://www.orthodb.org/v10?query=6539at5125	Cullin-1
+6549at5125	Complete	27712-Mb.00g073130.m01	1030.7	574	https://www.orthodb.org/v10?query=6549at5125	tRNA ligase
+6552at5125	Missing
+6553at5125	Complete	27712-Mb.00g052540.m01	1196.3	895	https://www.orthodb.org/v10?query=6553at5125	Zinc finger, CCCH-type
+6577at5125	Missing
+6582at5125	Complete	27712-Mb.00g029700.m01	958.6	477	https://www.orthodb.org/v10?query=6582at5125	white collar 1
+6589at5125	Missing
+6593at5125	Missing
+6594at5125	Complete	27712-Mb.00g040660.m01	494.5	268	https://www.orthodb.org/v10?query=6594at5125	Related to GRIP1 associated protein 1
+6599at5125	Missing
+6609at5125	Complete	27712-Mb.00g068080.m01	1148.3	599	https://www.orthodb.org/v10?query=6609at5125	Vacuolar transporter chaperone 4
+6627at5125	Missing
+6665at5125	Complete	27712-Mb.00g034290.m01	1126.3	649	https://www.orthodb.org/v10?query=6665at5125	phosphatase family protein
+6666at5125	Missing
+6669at5125	Missing
+6674at5125	Missing
+6701at5125	Missing
+6702at5125	Missing
+6703at5125	Missing
+6712at5125	Missing
+6718at5125	Complete	27712-Mb.00g058380.m01	695.0	335	https://www.orthodb.org/v10?query=6718at5125	Multifunctional tryptophan biosynthesis protein
+6728at5125	Complete	27712-Mb.00g029120.m01	926.1	627	https://www.orthodb.org/v10?query=6728at5125	U3 small nucleolar RNA-associated protein 8
+6767at5125	Complete	27712-Mb.00g054890.m01	945.9	505	https://www.orthodb.org/v10?query=6767at5125	Zn(2)-C6 fungal-type DNA-binding domain
+6784at5125	Missing
+6786at5125	Missing
+6794at5125	Missing
+6801at5125	Missing
+6830at5125	Missing
+6834at5125	Missing
+6849at5125	Complete	27712-Mb.00g014800.m01	1284.6	966	https://www.orthodb.org/v10?query=6849at5125	inositol polyphosphate phosphatase
+6871at5125	Missing
+6872at5125	Missing
+6874at5125	Complete	27712-Mb.00g044190.m01	850.1	436	https://www.orthodb.org/v10?query=6874at5125	Terpene cyclase/mutase family member
+6875at5125	Missing
+6876at5125	Complete	27712-Mb.00g040690.m01	1020.8	551	https://www.orthodb.org/v10?query=6876at5125	Transferrin receptor-like, dimerisation domain
+6878at5125	Missing
+6884at5125	Missing
+6889at5125	Complete	27712-Mb.00g069030.m01	1153.7	691	https://www.orthodb.org/v10?query=6889at5125	serine/threonine protein kinase
+6900at5125	Complete	27712-Mb.00g009240.m01	1421.6	781	https://www.orthodb.org/v10?query=6900at5125	Topoisomerase I
+6908at5125	Missing
+6912at5125	Missing
+6918at5125	Complete	27712-Mb.00g013160.m01	974.9	573	https://www.orthodb.org/v10?query=6918at5125	Zn(2)-C6 fungal-type DNA-binding domain
+6926at5125	Missing
+6944at5125	Missing
+6988at5125	Missing
+6996at5125	Missing
+7014at5125	Complete	27712-Mb.00g041370.m01	856.2	726	https://www.orthodb.org/v10?query=7014at5125	WD40-repeat-containing domain
+7024at5125	Missing
+7026at5125	Missing
+7033at5125	Complete	27712-Mb.00g034700.m01	1539.8	1002	https://www.orthodb.org/v10?query=7033at5125	EF hand domain protein
+7038at5125	Complete	27712-Mb.00g006010.m01	509.1	646	https://www.orthodb.org/v10?query=7038at5125	Chromo domain-containing protein
+7039at5125	Missing
+7047at5125	Complete	27712-Mb.00g074270.m01	1426.8	691	https://www.orthodb.org/v10?query=7047at5125	DNA helicase
+7081at5125	Complete	27712-Mb.00g067190.m01	1019.5	554	https://www.orthodb.org/v10?query=7081at5125	mannosyl-oligosaccharide 1,2-alpha-mannosidase
+7096at5125	Complete	27712-Mb.00g029350.m01	741.5	629	https://www.orthodb.org/v10?query=7096at5125	prolipoprotein diacylglyceryl transferase
+7105at5125	Missing
+7108at5125	Complete	27712-Mb.00g027400.m01	1297.6	703	https://www.orthodb.org/v10?query=7108at5125	Ataxin-10 domain protein
+7112at5125	Missing
+7122at5125	Missing
+7123at5125	Missing
+7128at5125	Missing
+7134at5125	Missing
+7143at5125	Complete	27712-Mb.00g005290.m01	1234.7	672	https://www.orthodb.org/v10?query=7143at5125	Chromosome transmission fidelity protein 18
+7151at5125	Missing
+7154at5125	Missing
+7157at5125	Missing
+7161at5125	Missing
+7179at5125	Missing
+7182at5125	Missing
+7189at5125	Missing
+7192at5125	Missing
+7210at5125	Missing
+7246at5125	Missing
+7249at5125	Missing
+7254at5125	Complete	27712-Mb.00g069160.m01	1135.9	639	https://www.orthodb.org/v10?query=7254at5125	Fanconi-associated nuclease
+7262at5125	Missing
+7265at5125	Missing
+7280at5125	Missing
+7285at5125	Missing
+7294at5125	Missing
+7299at5125	Missing
+7370at5125	Missing
+7396at5125	Missing
+7400at5125	Complete	27712-Mb.00g020260.m01	1063.3	670	https://www.orthodb.org/v10?query=7400at5125	EF hand domain protein
+7403at5125	Complete	27712-Mb.00g022080.m01	936.4	477	https://www.orthodb.org/v10?query=7403at5125	Zn(2)-C6 fungal-type DNA-binding domain
+7407at5125	Missing
+7414at5125	Missing
+7434at5125	Complete	27712-Mb.00g013820.m01	1166.3	600	https://www.orthodb.org/v10?query=7434at5125	Actin-related protein 8
+7441at5125	Missing
+7443at5125	Missing
+7457at5125	Missing
+7475at5125	Missing
+7495at5125	Missing
+7500at5125	Missing
+7501at5125	Missing
+7530at5125	Missing
+7586at5125	Complete	27712-Mb.00g041580.m01	1116.0	562	https://www.orthodb.org/v10?query=7586at5125	phosphoinositide phosphatase
+7590at5125	Missing
+7615at5125	Complete	27712-Mb.00g003900.m01	740.2	455	https://www.orthodb.org/v10?query=7615at5125	DNA mismatch repair protein MutS, core
+7635at5125	Missing
+7653at5125	Missing
+7658at5125	Missing
+7661at5125	Missing
+7670at5125	Missing
+7674at5125	Missing
+7696at5125	Missing
+7698at5125	Missing
+7709at5125	Missing
+7710at5125	Missing
+7737at5125	Missing
+7743at5125	Missing
+7747at5125	Complete	27712-Mb.00g021330.m01	1071.6	600	https://www.orthodb.org/v10?query=7747at5125	BRO1 domain
+7776at5125	Missing
+7799at5125	Missing
+7811at5125	Missing
+7814at5125	Missing
+7816at5125	Complete	27712-Mb.00g067600.m01	1067.4	820	https://www.orthodb.org/v10?query=7816at5125	Muc1 extracellular alpha--glucan glucosidase
+7822at5125	Missing
+7841at5125	Missing
+7852at5125	Missing
+7865at5125	Missing
+7877at5125	Complete	27712-Mb.00g002580.m01	1176.7	593	https://www.orthodb.org/v10?query=7877at5125	DNA replication licensing factor mcm5
+7894at5125	Complete	27712-Mb.00g058760.m01	1121.2	629	https://www.orthodb.org/v10?query=7894at5125	Stress activated MAP kinase interacting protein Sin1
+7910at5125	Complete	27712-Mb.00g029110.m01	1121.5	816	https://www.orthodb.org/v10?query=7910at5125	Telomere length regulation protein elg1
+7924at5125	Missing
+7931at5125	Missing
+7951at5125	Missing
+7955at5125	Missing
+7956at5125	Missing
+7961at5125	Missing
+7995at5125	Missing
+7997at5125	Missing
+7998at5125	Missing
+8014at5125	Missing
+8032at5125	Missing
+8045at5125	Complete	27712-Mb.00g008990.m01	1310.1	730	https://www.orthodb.org/v10?query=8045at5125	DNA mismatch repair protein MutS, core
+8048at5125	Complete	27712-Mb.00g032680.m01	1164.0	636	https://www.orthodb.org/v10?query=8048at5125	RNA helicase
+8055at5125	Missing
+8058at5125	Missing
+8078at5125	Missing
+8085at5125	Missing
+8088at5125	Complete	27712-Mb.00g069910.m01	823.2	475	https://www.orthodb.org/v10?query=8088at5125	Major facilitator superfamily transporter
+8089at5125	Missing
+8099at5125	Missing
+8100at5125	Complete	27712-Mb.00g012650.m01	1112.1	592	https://www.orthodb.org/v10?query=8100at5125	Palmitoyltransferase
+8110at5125	Missing
+8118at5125	Missing
+8133at5125	Missing
+8137at5125	Missing
+8139at5125	Complete	27712-Mb.00g064230.m01	903.5	684	https://www.orthodb.org/v10?query=8139at5125	Spindle pole body component
+8140at5125	Missing
+8168at5125	Missing
+8176at5125	Missing
+8185at5125	Missing
+8201at5125	Missing
+8231at5125	Complete	27712-Mb.00g049910.m01	655.8	322	https://www.orthodb.org/v10?query=8231at5125	5'-nucleotidase
+8235at5125	Missing
+8237at5125	Missing
+8246at5125	Missing
+8252at5125	Missing
+8274at5125	Missing
+8298at5125	Missing
+8301at5125	Missing
+8323at5125	Complete	27712-Mb.00g008200.m01	1160.2	584	https://www.orthodb.org/v10?query=8323at5125	glutamate-cysteine ligase catalytic subunit
+8364at5125	Missing
+8381at5125	Complete	27712-Mb.00g049130.m01	634.9	398	https://www.orthodb.org/v10?query=8381at5125	Vesicle tethering protein p115-like protein
+8390at5125	Missing
+8397at5125	Missing
+8410at5125	Missing
+8417at5125	Missing
+8422at5125	Missing
+8423at5125	Missing
+8429at5125	Complete	27712-Mb.00g069550.m01	1006.2	513	https://www.orthodb.org/v10?query=8429at5125	Non-specific serine/threonine protein kinase
+8436at5125	Missing
+8437at5125	Missing
+8449at5125	Missing
+8456at5125	Missing
+8460at5125	Missing
+8474at5125	Missing
+8491at5125	Missing
+8497at5125	Missing
+8509at5125	Complete	27712-Mb.00g002130.m01	728.8	355	https://www.orthodb.org/v10?query=8509at5125	Phosphatidate cytidylyltransferase
+8521at5125	Complete	27712-Mb.00g017590.m01	952.2	497	https://www.orthodb.org/v10?query=8521at5125	Putative mitochondrial ATP-dependent helicase irc3
+8524at5125	Missing
+8525at5125	Missing
+8533at5125	Missing
+8534at5125	Complete	27712-Mb.00g057830.m01	1230.9	803	https://www.orthodb.org/v10?query=8534at5125	HEAT repeat protein
+8535at5125	Complete	27712-Mb.00g002750.m01	896.5	584	https://www.orthodb.org/v10?query=8535at5125	DNA ligase, ATP-dependent, N-terminal
+8555at5125	Missing
+8558at5125	Missing
+8561at5125	Complete	27712-Mb.00g064330.m01	998.1	500	https://www.orthodb.org/v10?query=8561at5125	Mitochondrial carrier domain protein
+8565at5125	Missing
+8567at5125	Missing
+8579at5125	Missing
+8590at5125	Complete	27712-Mb.00g067430.m01	1100.5	596	https://www.orthodb.org/v10?query=8590at5125	related to calcium-related spray protein
+8595at5125	Missing
+8597at5125	Complete	27712-Mb.00g065160.m01	913.0	525	https://www.orthodb.org/v10?query=8597at5125	dipeptidyl peptidase
+8604at5125	Missing
+8610at5125	Missing
+8615at5125	Complete	27712-Mb.00g063760.m01	823.4	424	https://www.orthodb.org/v10?query=8615at5125	Winged helix-like DNA-binding domain superfamily
+8652at5125	Missing
+8653at5125	Missing
+8682at5125	Missing
+8701at5125	Missing
+8728at5125	Complete	27712-Mb.00g042400.m01	984.7	528	https://www.orthodb.org/v10?query=8728at5125	urea active transporter
+8751at5125	Complete	27712-Mb.00g057740.m01	190.0	350	https://www.orthodb.org/v10?query=8751at5125	serine/threonine protein kinase
+8752at5125	Missing
+8753at5125	Complete	27712-Mb.00g059420.m01	835.4	629	https://www.orthodb.org/v10?query=8753at5125	Secretory pathway Sec39
+8760at5125	Missing
+8771at5125	Missing
+8813at5125	Missing
+8834at5125	Missing
+8842at5125	Complete	27712-Mb.00g018030.m01	634.8	481	https://www.orthodb.org/v10?query=8842at5125	Transcription factor IIIC, 90kDa subunit, N-terminal
+8849at5125	Missing
+8875at5125	Missing
+8906at5125	Missing
+8910at5125	Missing
+8916at5125	Complete	27712-Mb.00g070230.m01	1299.7	785	https://www.orthodb.org/v10?query=8916at5125	Winged helix-like DNA-binding domain superfamily
+8932at5125	Missing
+8941at5125	Missing
+8942at5125	Missing
+8960at5125	Missing
+8997at5125	Complete	27712-Mb.00g066740.m01	1108.6	652	https://www.orthodb.org/v10?query=8997at5125	kinesin
+9000at5125	Missing
+9013at5125	Missing
+9022at5125	Missing
+9047at5125	Complete	27712-Mb.00g025640.m01	869.2	483	https://www.orthodb.org/v10?query=9047at5125	Flavoprotein
+9059at5125	Missing
+9069at5125	Missing
+9080at5125	Missing
+9105at5125	Missing
+9110at5125	Missing
+9113at5125	Complete	27712-Mb.00g058060.m01	617.6	345	https://www.orthodb.org/v10?query=9113at5125	Carbohydrate kinase, FGGY
+9123at5125	Complete	27712-Mb.00g061770.m01	1002.3	502	https://www.orthodb.org/v10?query=9123at5125	Tyrosine--tRNA ligase
+9144at5125	Complete	27712-Mb.00g049090.m01	1002.3	527	https://www.orthodb.org/v10?query=9144at5125	Protein kinase domain
+9146at5125	Missing
+9149at5125	Complete	27712-Mb.00g039700.m01	644.4	495	https://www.orthodb.org/v10?query=9149at5125	Glutathione S-transferase
+9154at5125	Missing
+9166at5125	Missing
+9167at5125	Missing
+9171at5125	Missing
+9196at5125	Complete	27712-Mb.00g008880.m01	734.0	495	https://www.orthodb.org/v10?query=9196at5125	Condensin complex subunit 2
+9198at5125	Complete	27712-Mb.00g049250.m01	1089.9	536	https://www.orthodb.org/v10?query=9198at5125	FAD/NAD(P)-binding domain
+9202at5125	Missing
+9207at5125	Missing
+9208at5125	Missing
+9219at5125	Missing
+9243at5125	Missing
+9245at5125	Missing
+9270at5125	Missing
+9271at5125	Missing
+9277at5125	Missing
+9278at5125	Missing
+9281at5125	Missing
+9284at5125	Complete	27712-Mb.00g072870.m01	767.6	389	https://www.orthodb.org/v10?query=9284at5125	Origin recognition complex subunit 1
+9293at5125	Missing
+9303at5125	Missing
+9308at5125	Missing
+9310at5125	Missing
+9318at5125	Missing
+9340at5125	Missing
+9348at5125	Complete	27712-Mb.00g014350.m01	518.1	349	https://www.orthodb.org/v10?query=9348at5125	Flavin monooxygenase-like protein
+9350at5125	Missing
+9353at5125	Missing
+9359at5125	Complete	27712-Mb.00g004600.m01	1003.2	489	https://www.orthodb.org/v10?query=9359at5125	Methylenetetrahydrofolate reductase
+9374at5125	Missing
+9398at5125	Missing
+9407at5125	Missing
+9409at5125	Missing
+9410at5125	Missing
+9469at5125	Missing
+9481at5125	Complete	27712-Mb.00g027900.m01	980.3	655	https://www.orthodb.org/v10?query=9481at5125	Casein kinase II subunit beta
+9485at5125	Missing
+9495at5125	Missing
+9500at5125	Complete	27712-Mb.00g025280.m01	960.3	536	https://www.orthodb.org/v10?query=9500at5125	kinetochore protein NDC80
+9511at5125	Missing
+9534at5125	Missing
+9541at5125	Missing
+9546at5125	Missing
+9556at5125	Missing
+9593at5125	Complete	27712-Mb.00g031420.m01	1173.8	874	https://www.orthodb.org/v10?query=9593at5125	ARID DNA-binding domain
+9596at5125	Missing
+9606at5125	Missing
+9617at5125	Missing
+9618at5125	Missing
+9622at5125	Complete	27712-Mb.00g059370.m01	829.8	460	https://www.orthodb.org/v10?query=9622at5125	Protein VTS1
+9630at5125	Complete	27712-Mb.00g014110.m01	990.6	525	https://www.orthodb.org/v10?query=9630at5125	Transmembrane 9 superfamily member
+9638at5125	Missing
+9643at5125	Missing
+9654at5125	Missing
+9657at5125	Missing
+9663at5125	Missing
+9665at5125	Missing
+9670at5125	Missing
+9683at5125	Missing
+9693at5125	Missing
+9698at5125	Missing
+9712at5125	Missing
+9718at5125	Missing
+9720at5125	Missing
+9721at5125	Missing
+9731at5125	Missing
+9740at5125	Missing
+9758at5125	Missing
+9777at5125	Missing
+9778at5125	Missing
+9779at5125	Missing
+9780at5125	Missing
+9812at5125	Missing
+9818at5125	Complete	27712-Mb.00g030250.m01	1390.4	822	https://www.orthodb.org/v10?query=9818at5125	Translation initiation factor aIF-2, bacterial-like protein
+9843at5125	Missing
+9853at5125	Complete	27712-Mb.00g003720.m01	530.7	422	https://www.orthodb.org/v10?query=9853at5125	serine/threonine protein kinase
+9856at5125	Missing
+9876at5125	Missing
+9877at5125	Complete	27712-Mb.00g006310.m01	1054.8	509	https://www.orthodb.org/v10?query=9877at5125	Serine/threonine-protein kinase nrc-2
+9880at5125	Complete	27712-Mb.00g011030.m01	836.1	455	https://www.orthodb.org/v10?query=9880at5125	Transcription factor steA
+9891at5125	Complete	27712-Mb.00g014790.m01	601.7	278	https://www.orthodb.org/v10?query=9891at5125	Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit
+9909at5125	Missing
+9917at5125	Missing
+9918at5125	Missing
+9944at5125	Missing
+9954at5125	Missing
+9958at5125	Missing
+9965at5125	Missing
+9966at5125	Missing
+9976at5125	Missing
+9983at5125	Missing
+9989at5125	Complete	27712-Mb.00g033960.m01	681.4	418	https://www.orthodb.org/v10?query=9989at5125	Glycosyltransferase family 90 protein
+9994at5125	Complete	27712-Mb.00g030330.m01	874.5	512	https://www.orthodb.org/v10?query=9994at5125	CP2 transcription factor
+10002at5125	Missing
+10007at5125	Complete	27712-Mb.00g058470.m01	1010.1	656	https://www.orthodb.org/v10?query=10007at5125	oligomeric golgi complex component
+10011at5125	Missing
+10012at5125	Complete	27712-Mb.00g048640.m01	808.7	443	https://www.orthodb.org/v10?query=10012at5125	Zn(2)-C6 fungal-type DNA-binding domain
+10018at5125	Complete	27712-Mb.00g039360.m01	1014.2	722	https://www.orthodb.org/v10?query=10018at5125	C7Z9Q7_NECH7
+10029at5125	Complete	27712-Mb.00g051430.m01	683.6	343	https://www.orthodb.org/v10?query=10029at5125	replication factor-A protein 1
+10042at5125	Complete	27712-Mb.00g017520.m01	948.6	539	https://www.orthodb.org/v10?query=10042at5125	Thioredoxin-like fold protein
+10046at5125	Missing
+10056at5125	Missing
+10058at5125	Missing
+10061at5125	Missing
+10062at5125	Missing
+10086at5125	Missing
+10109at5125	Missing
+10123at5125	Missing
+10132at5125	Missing
+10143at5125	Complete	27712-Mb.00g068860.m01	783.2	476	https://www.orthodb.org/v10?query=10143at5125	Multicopper oxidase, type 1
+10152at5125	Missing
+10163at5125	Missing
+10164at5125	Missing
+10167at5125	Missing
+10177at5125	Missing
+10181at5125	Missing
+10185at5125	Missing
+10188at5125	Missing
+10190at5125	Missing
+10241at5125	Missing
+10245at5125	Complete	27712-Mb.00g052100.m01	740.2	479	https://www.orthodb.org/v10?query=10245at5125	Cadherin-like protein
+10250at5125	Missing
+10256at5125	Missing
+10280at5125	Missing
+10290at5125	Complete	27712-Mb.00g010860.m01	818.4	447	https://www.orthodb.org/v10?query=10290at5125	related to capsular associated protein
+10303at5125	Missing
+10317at5125	Missing
+10320at5125	Missing
+10325at5125	Complete	27712-Mb.00g024040.m01	751.2	451	https://www.orthodb.org/v10?query=10325at5125	RNA polymerase III subunit RPC82
+10345at5125	Missing
+10356at5125	Complete	27712-Mb.00g027680.m01	1115.4	512	https://www.orthodb.org/v10?query=10356at5125	Phosphoenolpyruvate carboxykinase
+10365at5125	Missing
+10380at5125	Missing
+10381at5125	Missing
+10385at5125	Complete	27712-Mb.00g023620.m01	872.4	574	https://www.orthodb.org/v10?query=10385at5125	SPX domain protein
+10422at5125	Missing
+10442at5125	Complete	27712-Mb.00g072760.m01	1031.7	663	https://www.orthodb.org/v10?query=10442at5125	Related to hydrogen peroxide-inducible protein hic-5
+10453at5125	Missing
+10490at5125	Complete	27712-Mb.00g035070.m01	789.2	437	https://www.orthodb.org/v10?query=10490at5125	Pumilio, RNA binding domain
+10507at5125	Missing
+10535at5125	Missing
+10538at5125	Missing
+10546at5125	Missing
+10558at5125	Complete	27712-Mb.00g059390.m01	717.3	408	https://www.orthodb.org/v10?query=10558at5125	xaa-pro aminopeptidase
+10563at5125	Missing
+10565at5125	Complete	27712-Mb.00g069430.m01	740.6	400	https://www.orthodb.org/v10?query=10565at5125	RNA polymerase I specific transcription initiation factor RRN3
+10579at5125	Complete	27712-Mb.00g028940.m01	852.6	504	https://www.orthodb.org/v10?query=10579at5125	Sorting nexin mvp-1
+10595at5125	Complete	27712-Mb.00g071510.m01	1036.0	505	https://www.orthodb.org/v10?query=10595at5125	Malic enzyme, N-terminal domain
+10597at5125	Missing
+10599at5125	Missing
+10614at5125	Missing
+10624at5125	Missing
+10627at5125	Missing
+10629at5125	Complete	27712-Mb.00g027160.m01	1179.6	538	https://www.orthodb.org/v10?query=10629at5125	Electron-transferring-flavoprotein dehydrogenase
+10646at5125	Missing
+10652at5125	Complete	27712-Mb.00g049980.m01	773.2	579	https://www.orthodb.org/v10?query=10652at5125	related to uvs-3-
+10667at5125	Missing
+10669at5125	Missing
+10686at5125	Missing
+10718at5125	Missing
+10798at5125	Missing
+10825at5125	Missing
+10860at5125	Missing
+10864at5125	Missing
+10879at5125	Missing
+10880at5125	Missing
+10896at5125	Missing
+10898at5125	Missing
+10908at5125	Missing
+10912at5125	Complete	27712-Mb.00g009200.m01	1143.8	549	https://www.orthodb.org/v10?query=10912at5125	Pre-mRNA-splicing ATP-dependent RNA helicase PRP28
+10921at5125	Missing
+10923at5125	Complete	27712-Mb.00g001660.m01	764.1	437	https://www.orthodb.org/v10?query=10923at5125	Related to long-chain fatty-acid-CoA ligase
+10941at5125	Missing
+10946at5125	Missing
+10959at5125	Missing
+10960at5125	Complete	27712-Mb.00g008970.m01	707.0	471	https://www.orthodb.org/v10?query=10960at5125	CAP Gly-rich domain
+10999at5125	Complete	27712-Mb.00g017790.m01	1052.0	633	https://www.orthodb.org/v10?query=10999at5125	Pre-mRNA splicing factor CEF1
+11007at5125	Missing
+11010at5125	Complete	27712-Mb.00g033860.m01	877.6	545	https://www.orthodb.org/v10?query=11010at5125	WD40/YVTN repeat-like-containing domain superfamily
+11017at5125	Complete	27712-Mb.00g015220.m01	603.7	711	https://www.orthodb.org/v10?query=11017at5125	Brct domain containing protein
+11019at5125	Missing
+11029at5125	Complete	27712-Mb.00g035620.m01	860.3	447	https://www.orthodb.org/v10?query=11029at5125	Protein phosphatase inhibitor
+11036at5125	Complete	27712-Mb.00g005110.m01	836.3	494	https://www.orthodb.org/v10?query=11036at5125	MoeA, C-terminal, domain IV
+11039at5125	Missing
+11041at5125	Complete	27712-Mb.00g005540.m01	1156.0	592	https://www.orthodb.org/v10?query=11041at5125	Chitin synthase D
+11048at5125	Missing
+11086at5125	Missing
+11105at5125	Missing
+11116at5125	Complete	27712-Mb.00g072340.m01	991.9	520	https://www.orthodb.org/v10?query=11116at5125	2-isopropylmalate synthase
+11131at5125	Missing
+11148at5125	Missing
+11162at5125	Missing
+11163at5125	Missing
+11172at5125	Missing
+11177at5125	Missing
+11247at5125	Missing
+11253at5125	Missing
+11279at5125	Missing
+11307at5125	Missing
+11316at5125	Missing
+11320at5125	Missing
+11326at5125	Complete	27712-Mb.00g011200.m01	941.7	668	https://www.orthodb.org/v10?query=11326at5125	sulfite exporter TauE/SafE family protein
+11338at5125	Missing
+11342at5125	Complete	27712-Mb.00g052680.m01	812.8	477	https://www.orthodb.org/v10?query=11342at5125	Methionyl-tRNA synthetase
+11358at5125	Missing
+11365at5125	Missing
+11367at5125	Complete	27712-Mb.00g027340.m01	1233.1	575	https://www.orthodb.org/v10?query=11367at5125	Mitochondrial Rho GTPase
+11369at5125	Complete	27712-Mb.00g005680.m01	1057.0	538	https://www.orthodb.org/v10?query=11369at5125	Carnitine O-acetyltransferase
+11382at5125	Missing
+11383at5125	Missing
+11392at5125	Complete	27712-Mb.00g015770.m01	273.8	134	https://www.orthodb.org/v10?query=11392at5125	Origin recognition complex subunit 4
+11423at5125	Missing
+11431at5125	Missing
+11443at5125	Missing
+11454at5125	Missing
+11461at5125	Missing
+11467at5125	Missing
+11471at5125	Complete	27712-Mb.00g004180.m01	960.5	605	https://www.orthodb.org/v10?query=11471at5125	F-box domain
+11477at5125	Missing
+11481at5125	Missing
+11498at5125	Missing
+11513at5125	Missing
+11517at5125	Missing
+11525at5125	Complete	27712-Mb.00g011790.m01	755.5	550	https://www.orthodb.org/v10?query=11525at5125	Zinc finger, FYVE/PHD-type
+11536at5125	Missing
+11537at5125	Missing
+11604at5125	Complete	27712-Mb.00g012070.m01	1175.3	598	https://www.orthodb.org/v10?query=11604at5125	Patatin-like phospholipase domain-containing protein
+11608at5125	Complete	27712-Mb.00g016740.m01	985.3	588	https://www.orthodb.org/v10?query=11608at5125	ABC transporter-like protein
+11622at5125	Complete	27712-Mb.00g005960.m01	772.2	541	https://www.orthodb.org/v10?query=11622at5125	Zinc finger, PHD-type
+11669at5125	Missing
+11700at5125	Missing
+11704at5125	Missing
+11707at5125	Missing
+11752at5125	Missing
+11758at5125	Complete	27712-Mb.00g065120.m01	1086.1	550	https://www.orthodb.org/v10?query=11758at5125	arsenite resistance protein Ars2
+11795at5125	Complete	27712-Mb.00g059590.m01	518.0	238	https://www.orthodb.org/v10?query=11795at5125	RING finger protein
+11807at5125	Missing
+11809at5125	Complete	27712-Mb.00g042560.m01	878.9	535	https://www.orthodb.org/v10?query=11809at5125	ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+11812at5125	Missing
+11888at5125	Missing
+11898at5125	Missing
+11902at5125	Complete	27712-Mb.00g028210.m01	603.3	363	https://www.orthodb.org/v10?query=11902at5125	Biotin--acetyl-CoA-carboxylase ligase
+11908at5125	Missing
+11937at5125	Missing
+11947at5125	Complete	27712-Mb.00g051300.m01	709.7	713	https://www.orthodb.org/v10?query=11947at5125	C7YRT5_NECH7
+11953at5125	Missing
+11955at5125	Missing
+11960at5125	Missing
+11961at5125	Missing
+11969at5125	Missing
+11971at5125	Missing
+11992at5125	Missing
+11997at5125	Missing
+12010at5125	Missing
+12046at5125	Missing
+12091at5125	Complete	27712-Mb.00g052010.m01	1026.2	679	https://www.orthodb.org/v10?query=12091at5125	phospholipid metabolism enzyme regulator
+12092at5125	Complete	27712-Mb.00g026410.m01	807.4	452	https://www.orthodb.org/v10?query=12092at5125	Translation elongation factor EFTu/EF1A, C-terminal
+12112at5125	Missing
+12153at5125	Missing
+12154at5125	Missing
+12162at5125	Missing
+12169at5125	Missing
+12190at5125	Missing
+12196at5125	Missing
+12199at5125	Complete	27712-Mb.00g051120.m01	729.5	429	https://www.orthodb.org/v10?query=12199at5125	WD40 repeat
+12207at5125	Missing
+12220at5125	Missing
+12239at5125	Missing
+12271at5125	Missing
+12295at5125	Complete	27712-Mb.00g002010.m01	912.7	423	https://www.orthodb.org/v10?query=12295at5125	Serine/threonine-protein phosphatase
+12301at5125	Missing
+12311at5125	Missing
+12321at5125	Missing
+12325at5125	Missing
+12360at5125	Missing
+12363at5125	Missing
+12395at5125	Missing
+12396at5125	Missing
+12398at5125	Complete	27712-Mb.00g065580.m01	478.1	391	https://www.orthodb.org/v10?query=12398at5125	C7YKG9_NECH7
+12400at5125	Missing
+12416at5125	Missing
+12437at5125	Missing
+12438at5125	Missing
+12441at5125	Missing
+12460at5125	Missing
+12464at5125	Complete	27712-Mb.00g030310.m01	1106.7	593	https://www.orthodb.org/v10?query=12464at5125	Eukaryotic translation initiation factor 2A
+12479at5125	Missing
+12491at5125	Missing
+12515at5125	Complete	27712-Mb.00g023350.m01	418.2	211	https://www.orthodb.org/v10?query=12515at5125	Telomere repeat-binding factor, dimerisation domain
+12522at5125	Missing
+12543at5125	Missing
+12559at5125	Missing
+12560at5125	Complete	27712-Mb.00g066180.m01	847.8	500	https://www.orthodb.org/v10?query=12560at5125	ubiquitin hydrolase CreB
+12567at5125	Missing
+12650at5125	Missing
+12665at5125	Missing
+12666at5125	Complete	27712-Mb.00g068790.m01	788.5	380	https://www.orthodb.org/v10?query=12666at5125	Alpha-D-phosphohexomutase, alpha/beta/alpha domain I
+12677at5125	Missing
+12687at5125	Missing
+12690at5125	Missing
+12694at5125	Missing
+12749at5125	Complete	27712-Mb.00g026440.m01	977.8	566	https://www.orthodb.org/v10?query=12749at5125	Zinc finger, CHY-type
+12761at5125	Missing
+12776at5125	Complete	27712-Mb.00g059770.m01	979.7	473	https://www.orthodb.org/v10?query=12776at5125	Sulfate adenylyltransferase
+12778at5125	Complete	27712-Mb.00g018170.m01	776.8	428	https://www.orthodb.org/v10?query=12778at5125	LAlv9 family protein
+12787at5125	Complete	27712-Mb.00g022760.m01	1054.8	548	https://www.orthodb.org/v10?query=12787at5125	Hormone-sensitive lipase
+12818at5125	Missing
+12845at5125	Missing
+12868at5125	Missing
+12871at5125	Missing
+12884at5125	Complete	27712-Mb.00g066340.m01	791.0	392	https://www.orthodb.org/v10?query=12884at5125	delta 1-pyrroline-5-carboxylate dehydrogenase
+12920at5125	Missing
+12934at5125	Missing
+12935at5125	Missing
+12958at5125	Missing
+12960at5125	Missing
+12971at5125	Missing
+12981at5125	Missing
+12991at5125	Complete	27712-Mb.00g047510.m01	1048.4	500	https://www.orthodb.org/v10?query=12991at5125	Glucose-6-phosphate isomerase
+13019at5125	Missing
+13030at5125	Complete	27712-Mb.00g040790.m01	849.4	496	https://www.orthodb.org/v10?query=13030at5125	transmembrane and coiled-coil domains 4
+13033at5125	Complete	27712-Mb.00g039180.m01	836.2	538	https://www.orthodb.org/v10?query=13033at5125	conserved fungal protein
+13055at5125	Missing
+13059at5125	Missing
+13061at5125	Missing
+13063at5125	Missing
+13064at5125	Missing
+13066at5125	Missing
+13067at5125	Missing
+13089at5125	Complete	27712-Mb.00g061240.m01	913.5	548	https://www.orthodb.org/v10?query=13089at5125	Zinc finger, RING/FYVE/PHD-type
+13100at5125	Complete	27712-Mb.00g005710.m01	734.3	404	https://www.orthodb.org/v10?query=13100at5125	Exocyst complex protein EXO70
+13117at5125	Missing
+13122at5125	Missing
+13138at5125	Missing
+13158at5125	Missing
+13183at5125	Missing
+13206at5125	Complete	27712-Mb.00g046630.m01	1107.3	587	https://www.orthodb.org/v10?query=13206at5125	Transcription factor TFIIB
+13209at5125	Missing
+13216at5125	Missing
+13219at5125	Missing
+13220at5125	Missing
+13241at5125	Complete	27712-Mb.00g067920.m01	827.1	412	https://www.orthodb.org/v10?query=13241at5125	Patatin-like serine hydrolase
+13244at5125	Missing
+13255at5125	Missing
+13290at5125	Complete	27712-Mb.00g002620.m01	730.8	347	https://www.orthodb.org/v10?query=13290at5125	Anaphase-promoting complex subunit CDC23
+13297at5125	Missing
+13299at5125	Missing
+13300at5125	Complete	27712-Mb.00g016720.m01	998.6	554	https://www.orthodb.org/v10?query=13300at5125	tRNA (guanine(26)-N(2))-dimethyltransferase
+13302at5125	Missing
+13308at5125	Missing
+13328at5125	Missing
+13339at5125	Missing
+13372at5125	Complete	27712-Mb.00g056660.m01	782.4	473	https://www.orthodb.org/v10?query=13372at5125	Zn(2)-C6 fungal-type DNA-binding domain
+13381at5125	Missing
+13399at5125	Missing
+13405at5125	Missing
+13416at5125	Missing
+13421at5125	Missing
+13430at5125	Complete	27712-Mb.00g006350.m01	684.2	387	https://www.orthodb.org/v10?query=13430at5125	flap structure-specific endonuclease
+13450at5125	Missing
+13461at5125	Missing
+13473at5125	Missing
+13485at5125	Missing
+13511at5125	Missing
+13516at5125	Missing
+13543at5125	Complete	27712-Mb.00g032350.m01	931.3	474	https://www.orthodb.org/v10?query=13543at5125	dihydroxy-acid dehydratase
+13548at5125	Missing
+13555at5125	Complete	27712-Mb.00g072690.m01	833.2	564	https://www.orthodb.org/v10?query=13555at5125	Actin binding protein
+13598at5125	Missing
+13603at5125	Complete	27712-Mb.00g062950.m01	910.1	493	https://www.orthodb.org/v10?query=13603at5125	probable 3-ketosteroid-delta-1-dehydrogenase
+13619at5125	Missing
+13625at5125	Complete	27712-Mb.00g040320.m01	888.6	495	https://www.orthodb.org/v10?query=13625at5125	Protein kinase-like domain protein
+13664at5125	Complete	27712-Mb.00g063560.m01	736.6	449	https://www.orthodb.org/v10?query=13664at5125	related to samB
+13666at5125	Complete	27712-Mb.00g063340.m01	815.6	446	https://www.orthodb.org/v10?query=13666at5125	Cytochrome b5-like heme/steroid binding domain
+13691at5125	Missing
+13703at5125	Missing
+13708at5125	Missing
+13710at5125	Missing
+13711at5125	Complete	27712-Mb.00g040010.m01	672.8	341	https://www.orthodb.org/v10?query=13711at5125	Sulfatase
+13712at5125	Complete	27712-Mb.00g066950.m01	620.0	320	https://www.orthodb.org/v10?query=13712at5125	Cell division control protein
+13762at5125	Missing
+13803at5125	Missing
+13805at5125	Missing
+13808at5125	Missing
+13816at5125	Missing
+13820at5125	Missing
+13824at5125	Missing
+13829at5125	Complete	27712-Mb.00g029450.m01	833.4	399	https://www.orthodb.org/v10?query=13829at5125	Probable NDE1-mitochondrial cytosolically directed NADH dehydrogenase
+13845at5125	Missing
+13873at5125	Complete	27712-Mb.00g039950.m01	913.1	460	https://www.orthodb.org/v10?query=13873at5125	serine/threonine protein kinase
+13898at5125	Missing
+13949at5125	Missing
+13959at5125	Missing
+13960at5125	Missing
+13974at5125	Missing
+13977at5125	Missing
+13985at5125	Complete	27712-Mb.00g049180.m01	757.6	418	https://www.orthodb.org/v10?query=13985at5125	GDA1/CD39 family protein
+13987at5125	Missing
+13988at5125	Missing
+13998at5125	Complete	27712-Mb.00g029740.m01	814.8	498	https://www.orthodb.org/v10?query=13998at5125	related to GPI-anchor transamidase GAA1
+14000at5125	Missing
+14002at5125	Missing
+14030at5125	Missing
+14053at5125	Missing
+14058at5125	Missing
+14063at5125	Missing
+14093at5125	Complete	27712-Mb.00g027350.m01	464.8	252	https://www.orthodb.org/v10?query=14093at5125	WD40-repeat-containing domain
+14099at5125	Missing
+14140at5125	Missing
+14152at5125	Complete	27712-Mb.00g028120.m01	501.9	260	https://www.orthodb.org/v10?query=14152at5125	Plastidic glucose transporter 4
+14158at5125	Missing
+14165at5125	Missing
+14169at5125	Missing
+14183at5125	Missing
+14194at5125	Missing
+14213at5125	Missing
+14217at5125	Missing
+14243at5125	Missing
+14278at5125	Missing
+14281at5125	Missing
+14313at5125	Missing
+14319at5125	Missing
+14334at5125	Complete	27712-Mb.00g020070.m01	516.3	364	https://www.orthodb.org/v10?query=14334at5125	C7YJ35_NECH7
+14337at5125	Missing
+14344at5125	Missing
+14368at5125	Missing
+14369at5125	Missing
+14370at5125	Missing
+14373at5125	Complete	27712-Mb.00g067480.m01	735.6	451	https://www.orthodb.org/v10?query=14373at5125	Zn(2)-C6 fungal-type DNA-binding domain
+14388at5125	Missing
+14389at5125	Missing
+14401at5125	Missing
+14403at5125	Missing
+14411at5125	Complete	27712-Mb.00g033870.m01	783.5	660	https://www.orthodb.org/v10?query=14411at5125	C7Z132_NECH7
+14426at5125	Missing
+14434at5125	Missing
+14438at5125	Missing
+14440at5125	Complete	27712-Mb.00g059610.m01	637.5	307	https://www.orthodb.org/v10?query=14440at5125	Zinc finger C2H2 superfamily
+14448at5125	Complete	27712-Mb.00g027700.m01	1009.3	543	https://www.orthodb.org/v10?query=14448at5125	Eukaryotic peptide chain release factor GTP-binding subunit
+14449at5125	Complete	27712-Mb.00g039820.m01	982.6	581	https://www.orthodb.org/v10?query=14449at5125	RNA recognition motif containing protein
+14490at5125	Missing
+14507at5125	Missing
+14514at5125	Complete	27712-Mb.00g038870.m01	971.9	646	https://www.orthodb.org/v10?query=14514at5125	Bactericidal permeability-increasing protein, alpha/beta domain protein
+14516at5125	Missing
+14536at5125	Missing
+14562at5125	Missing
+14592at5125	Missing
+14617at5125	Complete	27712-Mb.00g029950.m01	576.3	414	https://www.orthodb.org/v10?query=14617at5125	Regulatory factor Sgt1
+14618at5125	Missing
+14620at5125	Missing
+14632at5125	Complete	27712-Mb.00g070040.m01	750.7	433	https://www.orthodb.org/v10?query=14632at5125	Lipopolysaccharide-modifying protein
+14639at5125	Missing
+14671at5125	Complete	27712-Mb.00g018950.m01	1001.8	507	https://www.orthodb.org/v10?query=14671at5125	Deoxyribodipyrimidine photo-lyase
+14679at5125	Missing
+14726at5125	Missing
+14736at5125	Missing
+14737at5125	Missing
+14748at5125	Missing
+14763at5125	Complete	27712-Mb.00g041270.m01	520.4	382	https://www.orthodb.org/v10?query=14763at5125	Ribosomal protein L36
+14797at5125	Missing
+14810at5125	Missing
+14811at5125	Missing
+14816at5125	Complete	27712-Mb.00g069500.m01	864.1	676	https://www.orthodb.org/v10?query=14816at5125	Pre-mRNA-processing protein prp40
+14818at5125	Missing
+14852at5125	Missing
+14858at5125	Missing
+14922at5125	Missing
+14924at5125	Missing
+14931at5125	Missing
+14934at5125	Complete	27712-Mb.00g054540.m01	768.0	461	https://www.orthodb.org/v10?query=14934at5125	flavin-containing monooxygenase
+15009at5125	Complete	27712-Mb.00g004960.m01	343.3	207	https://www.orthodb.org/v10?query=15009at5125	Phosphoinositide phospholipase C
+15062at5125	Missing
+15063at5125	Missing
+15093at5125	Missing
+15095at5125	Complete	27712-Mb.00g043360.m01	564.8	341	https://www.orthodb.org/v10?query=15095at5125	methyltransferase
+15099at5125	Missing
+15118at5125	Missing
+15129at5125	Missing
+15136at5125	Missing
+15137at5125	Complete	27712-Mb.00g059820.m01	835.0	444	https://www.orthodb.org/v10?query=15137at5125	WD40-repeat-containing domain
+15141at5125	Missing
+15142at5125	Complete	27712-Mb.00g067260.m01	812.3	456	https://www.orthodb.org/v10?query=15142at5125	Zinc finger transcription factor ace1
+15144at5125	Missing
+15148at5125	Complete	27712-Mb.00g017480.m01	732.3	443	https://www.orthodb.org/v10?query=15148at5125	DUF500 domain protein
+15168at5125	Missing
+15175at5125	Missing
+15188at5125	Missing
+15212at5125	Missing
+15219at5125	Missing
+15220at5125	Complete	27712-Mb.00g059730.m01	679.5	368	https://www.orthodb.org/v10?query=15220at5125	AP endonuclease 1
+15255at5125	Complete	27712-Mb.00g023040.m01	362.9	167	https://www.orthodb.org/v10?query=15255at5125	Phosphatidylinositol N-acetylglucosaminyltransferase GPI3 subunit
+15277at5125	Missing
+15301at5125	Complete	27712-Mb.00g068340.m01	739.2	362	https://www.orthodb.org/v10?query=15301at5125	WD40-repeat-containing domain
+15304at5125	Missing
+15318at5125	Missing
+15369at5125	Complete	27712-Mb.00g000730.m01	930.8	614	https://www.orthodb.org/v10?query=15369at5125	Cytoplasm to vacuole targeting Vps64
+15387at5125	Missing
+15392at5125	Complete	27712-Mb.00g050380.m01	764.7	426	https://www.orthodb.org/v10?query=15392at5125	sugar transporter
+15397at5125	Complete	27712-Mb.00g005500.m01	823.8	417	https://www.orthodb.org/v10?query=15397at5125	Vps52 / Sac2 family protein
+15401at5125	Missing
+15412at5125	Missing
+15413at5125	Missing
+15432at5125	Missing
+15448at5125	Missing
+15454at5125	Missing
+15464at5125	Missing
+15476at5125	Missing
+15483at5125	Missing
+15491at5125	Missing
+15516at5125	Complete	27712-Mb.00g049490.m01	493.2	445	https://www.orthodb.org/v10?query=15516at5125	Amino acid permease, conserved site
+15558at5125	Missing
+15565at5125	Missing
+15618at5125	Missing
+15626at5125	Missing
+15628at5125	Complete	27712-Mb.00g026300.m01	859.6	475	https://www.orthodb.org/v10?query=15628at5125	D-3-phosphoglycerate dehydrogenase
+15635at5125	Missing
+15656at5125	Missing
+15657at5125	Missing
+15674at5125	Complete	27712-Mb.00g026250.m01	669.1	440	https://www.orthodb.org/v10?query=15674at5125	Armadillo-type fold protein
+15676at5125	Missing
+15682at5125	Missing
+15691at5125	Missing
+15707at5125	Missing
+15719at5125	Missing
+15727at5125	Missing
+15737at5125	Missing
+15743at5125	Missing
+15758at5125	Missing
+15765at5125	Missing
+15770at5125	Missing
+15772at5125	Missing
+15786at5125	Missing
+15789at5125	Missing
+15797at5125	Missing
+15803at5125	Missing
+15812at5125	Missing
+15816at5125	Missing
+15817at5125	Missing
+15836at5125	Missing
+15850at5125	Missing
+15899at5125	Missing
+15903at5125	Missing
+15909at5125	Complete	27712-Mb.00g029470.m01	391.7	243	https://www.orthodb.org/v10?query=15909at5125	Putative hydroxymethylpyrimidine/phosphomethylpyrimidine kinase 2
+15937at5125	Missing
+15939at5125	Missing
+15955at5125	Complete	27712-Mb.00g051090.m01	701.8	391	https://www.orthodb.org/v10?query=15955at5125	Aldehyde dehydrogenase
+15960at5125	Missing
+15972at5125	Missing
+15973at5125	Missing
+15976at5125	Missing
+15981at5125	Missing
+16010at5125	Missing
+16042at5125	Missing
+16058at5125	Missing
+16071at5125	Complete	27712-Mb.00g034310.m01	511.8	369	https://www.orthodb.org/v10?query=16071at5125	Zn(2)-C6 fungal-type DNA-binding domain
+16076at5125	Missing
+16085at5125	Missing
+16100at5125	Missing
+16122at5125	Complete	27712-Mb.00g035020.m01	674.4	581	https://www.orthodb.org/v10?query=16122at5125	involucrin repeat protein
+16123at5125	Complete	27712-Mb.00g072580.m01	920.8	528	https://www.orthodb.org/v10?query=16123at5125	protein family UPF0171
+16124at5125	Complete	27712-Mb.00g015980.m01	755.7	449	https://www.orthodb.org/v10?query=16124at5125	Protein kinase domain
+16145at5125	Missing
+16159at5125	Complete	27712-Mb.00g029730.m01	819.8	393	https://www.orthodb.org/v10?query=16159at5125	Pyridoxal phosphate-dependent transferase
+16186at5125	Missing
+16230at5125	Missing
+16243at5125	Missing
+16248at5125	Missing
+16254at5125	Complete	27712-Mb.00g002500.m01	920.4	485	https://www.orthodb.org/v10?query=16254at5125	Zinc finger, RanBP2-type
+16267at5125	Complete	27712-Mb.00g073040.m01	948.7	422	https://www.orthodb.org/v10?query=16267at5125	Histone deacetylase
+16269at5125	Missing
+16289at5125	Missing
+16330at5125	Missing
+16348at5125	Missing
+16349at5125	Missing
+16350at5125	Complete	27712-Mb.00g070050.m01	780.9	358	https://www.orthodb.org/v10?query=16350at5125	Rab-GTPase-TBC domain
+16359at5125	Complete	27712-Mb.00g017210.m01	785.5	434	https://www.orthodb.org/v10?query=16359at5125	ATP-dependent RNA helicase mss116
+16361at5125	Missing
+16393at5125	Missing
+16406at5125	Complete	27712-Mb.00g028480.m01	870.4	594	https://www.orthodb.org/v10?query=16406at5125	topoisomerase ii-associated
+16422at5125	Missing
+16430at5125	Missing
+16434at5125	Missing
+16471at5125	Missing
+16481at5125	Missing
+16482at5125	Missing
+16505at5125	Missing
+16515at5125	Missing
+16538at5125	Complete	27712-Mb.00g022690.m01	551.0	376	https://www.orthodb.org/v10?query=16538at5125	Alpha/Beta hydrolase fold
+16543at5125	Complete	27712-Mb.00g067160.m01	413.5	312	https://www.orthodb.org/v10?query=16543at5125	NTF2-like domain superfamily
+16589at5125	Missing
+16616at5125	Complete	27712-Mb.00g020860.m01	278.4	429	https://www.orthodb.org/v10?query=16616at5125	Succinate semialdehyde dehydrogenase
+16616at5125	Complete	27712-Mb.00g023100.m01	278.0	397	https://www.orthodb.org/v10?query=16616at5125	Succinate semialdehyde dehydrogenase
+16623at5125	Missing
+16640at5125	Missing
+16641at5125	Missing
+16643at5125	Missing
+16649at5125	Missing
+16660at5125	Missing
+16692at5125	Complete	27712-Mb.00g030520.m01	733.8	418	https://www.orthodb.org/v10?query=16692at5125	kinesin
+16694at5125	Complete	27712-Mb.00g065470.m01	749.6	436	https://www.orthodb.org/v10?query=16694at5125	Endopolyphosphatase
+16717at5125	Missing
+16718at5125	Missing
+16723at5125	Missing
+16738at5125	Missing
+16744at5125	Complete	27712-Mb.00g066700.m01	912.7	440	https://www.orthodb.org/v10?query=16744at5125	Cytochrome P450
+16750at5125	Missing
+16763at5125	Missing
+16764at5125	Missing
+16783at5125	Missing
+16794at5125	Missing
+16797at5125	Missing
+16825at5125	Missing
+16850at5125	Missing
+16864at5125	Missing
+16868at5125	Missing
+16879at5125	Missing
+16883at5125	Missing
+16893at5125	Missing
+16941at5125	Missing
+16952at5125	Missing
+16977at5125	Missing
+16980at5125	Missing
+16988at5125	Missing
+16999at5125	Missing
+17005at5125	Missing
+17006at5125	Complete	27712-Mb.00g066120.m01	703.3	364	https://www.orthodb.org/v10?query=17006at5125	Autophagy-related protein
+17011at5125	Missing
+17013at5125	Complete	27712-Mb.00g074570.m01	651.1	455	https://www.orthodb.org/v10?query=17013at5125	C7ZA84_NECH7
+17015at5125	Missing
+17042at5125	Missing
+17057at5125	Missing
+17082at5125	Missing
+17084at5125	Missing
+17087at5125	Missing
+17133at5125	Missing
+17134at5125	Missing
+17138at5125	Missing
+17151at5125	Complete	27712-Mb.00g041190.m01	733.9	381	https://www.orthodb.org/v10?query=17151at5125	probable UDP-N-acetylglucosamine pyrophosphorylase
+17163at5125	Missing
+17187at5125	Complete	27712-Mb.00g023190.m01	428.4	317	https://www.orthodb.org/v10?query=17187at5125	Pentatricopeptide repeat domain-containing protein
+17191at5125	Missing
+17213at5125	Missing
+17255at5125	Missing
+17265at5125	Missing
+17273at5125	Missing
+17306at5125	Missing
+17318at5125	Complete	27712-Mb.00g063420.m01	864.5	467	https://www.orthodb.org/v10?query=17318at5125	Protein kinase
+17327at5125	Missing
+17357at5125	Missing
+17400at5125	Missing
+17409at5125	Missing
+17423at5125	Missing
+17466at5125	Missing
+17467at5125	Complete	27712-Mb.00g030630.m01	956.1	460	https://www.orthodb.org/v10?query=17467at5125	T-complex protein 1 subunit zeta
+17479at5125	Missing
+17530at5125	Missing
+17589at5125	Missing
+17590at5125	Missing
+17621at5125	Missing
+17636at5125	Complete	27712-Mb.00g060650.m01	732.4	481	https://www.orthodb.org/v10?query=17636at5125	6-phosphogluconate dehydrogenase, domain 2
+17653at5125	Missing
+17680at5125	Complete	27712-Mb.00g048530.m01	480.0	255	https://www.orthodb.org/v10?query=17680at5125	pseudouridylate synthase 3
+17725at5125	Complete	27712-Mb.00g002690.m01	729.1	382	https://www.orthodb.org/v10?query=17725at5125	3-hydroxyisobutyryl-CoA hydrolase, mitochondrial
+17772at5125	Missing
+17794at5125	Complete	27712-Mb.00g061000.m01	439.4	320	https://www.orthodb.org/v10?query=17794at5125	Ribosomal protein L24E
+17804at5125	Complete	27712-Mb.00g063990.m01	735.4	346	https://www.orthodb.org/v10?query=17804at5125	Serine/threonine-protein phosphatase
+17836at5125	Complete	27712-Mb.00g010460.m01	394.5	225	https://www.orthodb.org/v10?query=17836at5125	Rab-GTPase-TBC domain
+17848at5125	Missing
+17866at5125	Missing
+17871at5125	Missing
+17873at5125	Missing
+17896at5125	Missing
+17898at5125	Missing
+17900at5125	Complete	27712-Mb.00g063770.m01	506.8	358	https://www.orthodb.org/v10?query=17900at5125	calcium channel subunit Mid1
+17903at5125	Missing
+17951at5125	Missing
+17955at5125	Missing
+17956at5125	Complete	27712-Mb.00g060480.m01	743.2	422	https://www.orthodb.org/v10?query=17956at5125	Heat shock 70 kd protein cognate 1
+17957at5125	Missing
+17976at5125	Missing
+18032at5125	Missing
+18041at5125	Missing
+18065at5125	Missing
+18072at5125	Missing
+18074at5125	Missing
+18078at5125	Missing
+18111at5125	Missing
+18121at5125	Missing
+18123at5125	Complete	27712-Mb.00g067360.m01	921.9	512	https://www.orthodb.org/v10?query=18123at5125	oxidoreductase
+18141at5125	Missing
+18162at5125	Missing
+18175at5125	Missing
+18192at5125	Missing
+18196at5125	Missing
+18224at5125	Complete	27712-Mb.00g028200.m01	625.9	458	https://www.orthodb.org/v10?query=18224at5125	Armadillo-type fold protein
+18259at5125	Missing
+18283at5125	Missing
+18304at5125	Missing
+18321at5125	Complete	27712-Mb.00g073380.m01	618.0	341	https://www.orthodb.org/v10?query=18321at5125	Zinc finger, C2H2-like protein
+18324at5125	Missing
+18356at5125	Complete	27712-Mb.00g030780.m01	826.7	468	https://www.orthodb.org/v10?query=18356at5125	mitochondrial protein Fmp25
+18357at5125	Missing
+18365at5125	Missing
+18412at5125	Missing
+18417at5125	Missing
+18418at5125	Missing
+18437at5125	Missing
+18478at5125	Missing
+18485at5125	Complete	27712-Mb.00g043970.m01	495.6	307	https://www.orthodb.org/v10?query=18485at5125	tRNA modification GTPase MnmE
+18498at5125	Missing
+18500at5125	Missing
+18552at5125	Missing
+18615at5125	Missing
+18617at5125	Missing
+18627at5125	Missing
+18633at5125	Complete	27712-Mb.00g044700.m01	637.6	415	https://www.orthodb.org/v10?query=18633at5125	clock controlled protein
+18648at5125	Complete	27712-Mb.00g035830.m01	1008.6	504	https://www.orthodb.org/v10?query=18648at5125	tRNA (cytosine-5-)-methyltransferase NCL1
+18673at5125	Missing
+18685at5125	Missing
+18686at5125	Complete	27712-Mb.00g041650.m01	1056.5	564	https://www.orthodb.org/v10?query=18686at5125	Pescadillo homolog
+18697at5125	Complete	27712-Mb.00g034650.m01	742.5	358	https://www.orthodb.org/v10?query=18697at5125	Pyridoxal phosphate-dependent transferase
+18708at5125	Missing
+18723at5125	Missing
+18744at5125	Missing
+18746at5125	Missing
+18764at5125	Missing
+18765at5125	Missing
+18768at5125	Missing
+18782at5125	Missing
+18818at5125	Missing
+18822at5125	Missing
+18825at5125	Missing
+18831at5125	Missing
+18849at5125	Complete	27712-Mb.00g026970.m01	671.2	373	https://www.orthodb.org/v10?query=18849at5125	acid phosphatase (PhoG)
+18855at5125	Missing
+18868at5125	Complete	27712-Mb.00g006100.m01	340.0	204	https://www.orthodb.org/v10?query=18868at5125	Peptidase A1
+18880at5125	Missing
+18894at5125	Missing
+18902at5125	Complete	27712-Mb.00g024730.m01	884.8	448	https://www.orthodb.org/v10?query=18902at5125	GPI transamidase component GPI16
+18921at5125	Missing
+18940at5125	Missing
+18941at5125	Complete	27712-Mb.00g063490.m01	721.1	371	https://www.orthodb.org/v10?query=18941at5125	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding domain
+18968at5125	Complete	27712-Mb.00g004100.m01	746.1	442	https://www.orthodb.org/v10?query=18968at5125	Major facilitator superfamily
+18973at5125	Missing
+18978at5125	Missing
+18986at5125	Complete	27712-Mb.00g066940.m01	546.0	439	https://www.orthodb.org/v10?query=18986at5125	Arrestin, C-terminal
+19034at5125	Missing
+19054at5125	Missing
+19057at5125	Missing
+19079at5125	Missing
+19088at5125	Missing
+19090at5125	Missing
+19128at5125	Missing
+19159at5125	Complete	27712-Mb.00g013840.m01	537.4	308	https://www.orthodb.org/v10?query=19159at5125	conserved fungal protein
+19176at5125	Missing
+19182at5125	Complete	27712-Mb.00g011170.m01	646.8	436	https://www.orthodb.org/v10?query=19182at5125	Glutathione synthetase
+19240at5125	Complete	27712-Mb.00g004530.m01	719.6	414	https://www.orthodb.org/v10?query=19240at5125	Related to histone-lysine N-methyltransferase
+19245at5125	Missing
+19258at5125	Missing
+19268at5125	Missing
+19301at5125	Missing
+19318at5125	Missing
+19357at5125	Missing
+19388at5125	Missing
+19425at5125	Complete	27712-Mb.00g050840.m01	754.1	439	https://www.orthodb.org/v10?query=19425at5125	SWR1-complex protein 4
+19436at5125	Missing
+19452at5125	Complete	27712-Mb.00g015870.m01	659.3	397	https://www.orthodb.org/v10?query=19452at5125	Squalene epoxidase
+19464at5125	Missing
+19476at5125	Missing
+19477at5125	Complete	27712-Mb.00g012730.m01	808.9	420	https://www.orthodb.org/v10?query=19477at5125	chitin synthase
+19485at5125	Missing
+19507at5125	Complete	27712-Mb.00g024000.m01	892.4	383	https://www.orthodb.org/v10?query=19507at5125	Tubulin alpha chain
+19519at5125	Missing
+19566at5125	Missing
+19575at5125	Missing
+19584at5125	Missing
+19601at5125	Missing
+19604at5125	Missing
+19615at5125	Missing
+19618at5125	Complete	27712-Mb.00g060720.m01	747.3	395	https://www.orthodb.org/v10?query=19618at5125	Chitin synthase activator (Chs3)
+19629at5125	Missing
+19631at5125	Missing
+19641at5125	Complete	27712-Mb.00g008400.m01	917.1	418	https://www.orthodb.org/v10?query=19641at5125	Cysteine desulfurase
+19651at5125	Missing
+19665at5125	Missing
+19669at5125	Complete	27712-Mb.00g015600.m01	793.8	431	https://www.orthodb.org/v10?query=19669at5125	Ion transport
+19682at5125	Missing
+19720at5125	Complete	27712-Mb.00g009220.m01	312.3	231	https://www.orthodb.org/v10?query=19720at5125	v-type c subunit family protein
+19727at5125	Missing
+19740at5125	Missing
+19741at5125	Missing
+19755at5125	Missing
+19756at5125	Missing
+19801at5125	Complete	27712-Mb.00g028050.m01	722.8	418	https://www.orthodb.org/v10?query=19801at5125	topoisomerase family protein TRF4
+19837at5125	Missing
+19869at5125	Missing
+19874at5125	Missing
+19896at5125	Missing
+19905at5125	Missing
+19912at5125	Missing
+19924at5125	Missing
+19928at5125	Complete	27712-Mb.00g000420.m01	613.5	347	https://www.orthodb.org/v10?query=19928at5125	MFS transporter
+19930at5125	Missing
+19931at5125	Missing
+19939at5125	Missing
+19964at5125	Missing
+19968at5125	Complete	27712-Mb.00g065730.m01	430.4	333	https://www.orthodb.org/v10?query=19968at5125	SET domain protein
+19971at5125	Missing
+19980at5125	Missing
+20000at5125	Complete	27712-Mb.00g001740.m01	684.2	390	https://www.orthodb.org/v10?query=20000at5125	Related to E.coli molybdopterin-converting factor chlN
+20014at5125	Missing
+20019at5125	Complete	27712-Mb.00g012130.m01	427.3	380	https://www.orthodb.org/v10?query=20019at5125	guanine nucleotide exchange factor-like protein
+20021at5125	Missing
+20045at5125	Missing
+20048at5125	Missing
+20053at5125	Missing
+20064at5125	Complete	27712-Mb.00g068160.m01	911.6	477	https://www.orthodb.org/v10?query=20064at5125	calreticulin
+20075at5125	Complete	27712-Mb.00g061210.m01	517.4	402	https://www.orthodb.org/v10?query=20075at5125	EGF-like, conserved site
+20076at5125	Complete	27712-Mb.00g058850.m01	824.6	478	https://www.orthodb.org/v10?query=20076at5125	phosphatidylcholine-sterol O-acyltransferase-like protein
+20079at5125	Missing
+20082at5125	Complete	27712-Mb.00g018470.m01	699.1	371	https://www.orthodb.org/v10?query=20082at5125	Nicotinate phosphoribosyltransferase
+20105at5125	Missing
+20107at5125	Missing
+20117at5125	Missing
+20120at5125	Missing
+20134at5125	Missing
+20140at5125	Complete	27712-Mb.00g025100.m01	871.6	440	https://www.orthodb.org/v10?query=20140at5125	Alcohol dehydrogenase, iron-type
+20143at5125	Missing
+20162at5125	Missing
+20180at5125	Complete	27712-Mb.00g018040.m01	507.6	283	https://www.orthodb.org/v10?query=20180at5125	Beta-1,4-mannosyltransferase
+20193at5125	Missing
+20216at5125	Missing
+20228at5125	Missing
+20250at5125	Missing
+20279at5125	Missing
+20282at5125	Complete	27712-Mb.00g006360.m01	824.0	434	https://www.orthodb.org/v10?query=20282at5125	DNA replication ATPase
+20287at5125	Missing
+20289at5125	Missing
+20302at5125	Missing
+20304at5125	Complete	27712-Mb.00g060210.m01	747.0	364	https://www.orthodb.org/v10?query=20304at5125	Elongation factor 1-alpha
+20349at5125	Missing
+20351at5125	Missing
+20402at5125	Missing
+20406at5125	Missing
+20429at5125	Complete	27712-Mb.00g028630.m01	270.7	201	https://www.orthodb.org/v10?query=20429at5125	ubiquitin fusion degradation protein (Ufd1), putative
+20447at5125	Missing
+20462at5125	Missing
+20486at5125	Missing
+20488at5125	Missing
+20495at5125	Missing
+20503at5125	Missing
+20506at5125	Missing
+20544at5125	Complete	27712-Mb.00g048000.m01	884.5	443	https://www.orthodb.org/v10?query=20544at5125	Phosphatidic acid phosphatase type 2/haloperoxidase
+20554at5125	Missing
+20556at5125	Missing
+20558at5125	Missing
+20576at5125	Complete	27712-Mb.00g041700.m01	599.6	359	https://www.orthodb.org/v10?query=20576at5125	UPF0183 domain-containing protein
+20592at5125	Missing
+20611at5125	Missing
+20614at5125	Missing
+20628at5125	Missing
+20648at5125	Missing
+20652at5125	Missing
+20658at5125	Missing
+20678at5125	Missing
+20682at5125	Missing
+20687at5125	Missing
+20689at5125	Missing
+20692at5125	Missing
+20696at5125	Missing
+20698at5125	Complete	27712-Mb.00g057610.m01	479.2	436	https://www.orthodb.org/v10?query=20698at5125	Cytochrome b561/ferric reductase transmembrane
+20719at5125	Missing
+20732at5125	Missing
+20736at5125	Complete	27712-Mb.00g051900.m01	425.9	474	https://www.orthodb.org/v10?query=20736at5125	Arf GTPase activating protein
+20740at5125	Missing
+20762at5125	Missing
+20763at5125	Complete	27712-Mb.00g057750.m01	674.2	369	https://www.orthodb.org/v10?query=20763at5125	WD40/YVTN repeat-like-containing domain protein
+20781at5125	Missing
+20791at5125	Missing
+20795at5125	Missing
+20798at5125	Missing
+20805at5125	Missing
+20806at5125	Missing
+20807at5125	Missing
+20814at5125	Missing
+20836at5125	Complete	27712-Mb.00g053030.m01	845.3	455	https://www.orthodb.org/v10?query=20836at5125	high-affinity nicotinic acid plasma membrane permease
+20847at5125	Missing
+20923at5125	Complete	27712-Mb.00g073220.m01	688.5	419	https://www.orthodb.org/v10?query=20923at5125	sialidase
+20942at5125	Missing
+20946at5125	Missing
+20952at5125	Missing
+20985at5125	Missing
+21010at5125	Complete	27712-Mb.00g065230.m01	458.9	417	https://www.orthodb.org/v10?query=21010at5125	C7YKN7_NECH7
+21030at5125	Complete	27712-Mb.00g047280.m01	634.7	291	https://www.orthodb.org/v10?query=21030at5125	Mandelate racemase/muconate lactonizing enzyme, C-terminal
+21033at5125	Complete	27712-Mb.00g057360.m01	802.4	359	https://www.orthodb.org/v10?query=21033at5125	Adenosylhomocysteinase
+21052at5125	Complete	27712-Mb.00g016940.m01	873.3	430	https://www.orthodb.org/v10?query=21052at5125	60S ribosomal export protein NMD3
+21066at5125	Missing
+21116at5125	Missing
+21120at5125	Missing
+21127at5125	Complete	27712-Mb.00g015750.m01	758.9	402	https://www.orthodb.org/v10?query=21127at5125	Bystin
+21129at5125	Missing
+21136at5125	Missing
+21143at5125	Missing
+21147at5125	Missing
+21155at5125	Missing
+21175at5125	Missing
+21180at5125	Complete	27712-Mb.00g013530.m01	529.6	368	https://www.orthodb.org/v10?query=21180at5125	Cyclic-AMP phosphodiesterase, class-II
+21187at5125	Missing
+21190at5125	Missing
+21192at5125	Missing
+21193at5125	Complete	27712-Mb.00g005970.m01	692.6	457	https://www.orthodb.org/v10?query=21193at5125	Leucine-rich repeat domain superfamily
+21210at5125	Missing
+21224at5125	Missing
+21244at5125	Missing
+21245at5125	Complete	27712-Mb.00g054910.m01	1051.2	753	https://www.orthodb.org/v10?query=21245at5125	grip
+21255at5125	Complete	27712-Mb.00g073150.m01	734.7	392	https://www.orthodb.org/v10?query=21255at5125	Sphingosine kinase
+21278at5125	Missing
+21288at5125	Missing
+21315at5125	Complete	27712-Mb.00g067440.m01	547.6	342	https://www.orthodb.org/v10?query=21315at5125	Guanine nucleotide exchange factor Vps9
+21318at5125	Missing
+21332at5125	Missing
+21339at5125	Missing
+21340at5125	Missing
+21365at5125	Complete	27712-Mb.00g059490.m01	340.3	310	https://www.orthodb.org/v10?query=21365at5125	Signal recognition particle subunit SRP72
+21385at5125	Missing
+21392at5125	Missing
+21396at5125	Missing
+21398at5125	Missing
+21409at5125	Missing
+21412at5125	Complete	27712-Mb.00g069010.m01	692.1	326	https://www.orthodb.org/v10?query=21412at5125	Probable ubiquitin-activating enzyme
+21460at5125	Complete	27712-Mb.00g058100.m01	791.0	464	https://www.orthodb.org/v10?query=21460at5125	Sodium/hydrogen exchanger
+21464at5125	Missing
+21495at5125	Missing
+21503at5125	Missing
+21528at5125	Missing
+21542at5125	Missing
+21549at5125	Missing
+21553at5125	Complete	27712-Mb.00g006190.m01	631.5	378	https://www.orthodb.org/v10?query=21553at5125	NUDIX hydrolase domain-like protein
+21565at5125	Missing
+21566at5125	Missing
+21596at5125	Missing
+21623at5125	Missing
+21635at5125	Missing
+21660at5125	Missing
+21681at5125	Complete	27712-Mb.00g059560.m01	556.6	241	https://www.orthodb.org/v10?query=21681at5125	Glycogenin
+21705at5125	Missing
+21715at5125	Missing
+21738at5125	Complete	27712-Mb.00g043640.m01	588.3	301	https://www.orthodb.org/v10?query=21738at5125	Putative D-galacturonic acid reductase
+21744at5125	Missing
+21747at5125	Missing
+21769at5125	Missing
+21796at5125	Missing
+21799at5125	Missing
+21814at5125	Missing
+21850at5125	Missing
+21852at5125	Complete	27712-Mb.00g058810.m01	622.9	387	https://www.orthodb.org/v10?query=21852at5125	DUF1941 family protein
+21857at5125	Missing
+21876at5125	Missing
+21880at5125	Missing
+21885at5125	Complete	27712-Mb.00g016800.m01	414.6	258	https://www.orthodb.org/v10?query=21885at5125	7,8-Dihydro-6-hydroxymethylpterin-pyrophosphokinase, HPPK
+21899at5125	Missing
+21900at5125	Missing
+21902at5125	Missing
+21905at5125	Missing
+21916at5125	Missing
+21928at5125	Missing
+21942at5125	Missing
+21952at5125	Missing
+21990at5125	Missing
+21994at5125	Missing
+22004at5125	Missing
+22014at5125	Complete	27712-Mb.00g044300.m01	520.5	330	https://www.orthodb.org/v10?query=22014at5125	Urg3
+22018at5125	Complete	27712-Mb.00g045680.m01	759.2	385	https://www.orthodb.org/v10?query=22018at5125	Signal recognition particle 54 kDa protein
+22025at5125	Complete	27712-Mb.00g011960.m01	419.9	292	https://www.orthodb.org/v10?query=22025at5125	Zinc finger C2H2 superfamily
+22029at5125	Complete	27712-Mb.00g026630.m01	680.9	489	https://www.orthodb.org/v10?query=22029at5125	C7YM14_NECH7
+22069at5125	Missing
+22081at5125	Complete	27712-Mb.00g014690.m01	541.2	292	https://www.orthodb.org/v10?query=22081at5125	Ornithine decarboxylase
+22088at5125	Missing
+22091at5125	Missing
+22103at5125	Missing
+22144at5125	Missing
+22154at5125	Missing
+22157at5125	Missing
+22162at5125	Missing
+22167at5125	Complete	27712-Mb.00g048560.m01	685.1	357	https://www.orthodb.org/v10?query=22167at5125	Ribose-phosphate pyrophosphokinase
+22178at5125	Missing
+22201at5125	Missing
+22202at5125	Missing
+22209at5125	Missing
+22228at5125	Missing
+22241at5125	Complete	27712-Mb.00g015640.m01	514.7	293	https://www.orthodb.org/v10?query=22241at5125	SAC3/GANP domain protein
+22273at5125	Missing
+22284at5125	Missing
+22293at5125	Complete	27712-Mb.00g048490.m01	552.3	310	https://www.orthodb.org/v10?query=22293at5125	Threonine synthase
+22299at5125	Missing
+22301at5125	Missing
+22310at5125	Missing
+22316at5125	Missing
+22325at5125	Complete	27712-Mb.00g028920.m01	597.2	355	https://www.orthodb.org/v10?query=22325at5125	cell cycle control protein
+22330at5125	Missing
+22334at5125	Missing
+22357at5125	Missing
+22382at5125	Missing
+22388at5125	Missing
+22413at5125	Missing
+22448at5125	Complete	27712-Mb.00g041900.m01	528.0	268	https://www.orthodb.org/v10?query=22448at5125	O-methyltransferase
+22459at5125	Missing
+22462at5125	Missing
+22498at5125	Missing
+22499at5125	Missing
+22502at5125	Missing
+22504at5125	Missing
+22506at5125	Complete	27712-Mb.00g011700.m01	722.2	390	https://www.orthodb.org/v10?query=22506at5125	tRNA-dihydrouridine synthase
+22514at5125	Missing
+22519at5125	Missing
+22534at5125	Missing
+22583at5125	Missing
+22591at5125	Missing
+22614at5125	Missing
+22624at5125	Missing
+22627at5125	Missing
+22632at5125	Missing
+22656at5125	Complete	27712-Mb.00g060770.m01	296.4	325	https://www.orthodb.org/v10?query=22656at5125	C7YMF2_NECH7
+22666at5125	Missing
+22672at5125	Complete	27712-Mb.00g029580.m01	602.1	326	https://www.orthodb.org/v10?query=22672at5125	prephenate dehydrogenase
+22690at5125	Missing
+22697at5125	Missing
+22742at5125	Missing
+22782at5125	Missing
+22803at5125	Complete	27712-Mb.00g025320.m01	723.3	447	https://www.orthodb.org/v10?query=22803at5125	ATPase, AAA-type, conserved site
+22804at5125	Missing
+22810at5125	Missing
+22826at5125	Missing
+22834at5125	Missing
+22866at5125	Missing
+22889at5125	Missing
+22920at5125	Missing
+22923at5125	Missing
+22943at5125	Missing
+22957at5125	Missing
+22975at5125	Missing
+23000at5125	Missing
+23017at5125	Missing
+23022at5125	Missing
+23062at5125	Missing
+23068at5125	Missing
+23071at5125	Missing
+23075at5125	Missing
+23111at5125	Complete	27712-Mb.00g068630.m01	441.6	262	https://www.orthodb.org/v10?query=23111at5125	CAP Gly-rich domain
+23129at5125	Missing
+23188at5125	Missing
+23199at5125	Complete	27712-Mb.00g009960.m01	735.4	333	https://www.orthodb.org/v10?query=23199at5125	Serine/threonine-protein kinase hal4
+23201at5125	Missing
+23210at5125	Complete	27712-Mb.00g050770.m01	752.7	418	https://www.orthodb.org/v10?query=23210at5125	WD40-repeat-containing domain
+23220at5125	Complete	27712-Mb.00g013920.m01	444.9	294	https://www.orthodb.org/v10?query=23220at5125	Zn(2)-C6 fungal-type DNA-binding domain
+23259at5125	Missing
+23303at5125	Missing
+23319at5125	Complete	27712-Mb.00g063370.m01	582.3	335	https://www.orthodb.org/v10?query=23319at5125	Major facilitator superfamily
+23325at5125	Complete	27712-Mb.00g049200.m01	766.7	406	https://www.orthodb.org/v10?query=23325at5125	Transcription initiation factor IIF subunit alpha
+23327at5125	Missing
+23366at5125	Missing
+23387at5125	Missing
+23388at5125	Missing
+23409at5125	Complete	27712-Mb.00g028500.m01	658.0	347	https://www.orthodb.org/v10?query=23409at5125	Predicted protein
+23414at5125	Missing
+23418at5125	Missing
+23440at5125	Missing
+23450at5125	Missing
+23466at5125	Missing
+23476at5125	Missing
+23483at5125	Missing
+23489at5125	Missing
+23496at5125	Missing
+23499at5125	Missing
+23513at5125	Missing
+23516at5125	Missing
+23518at5125	Missing
+23519at5125	Missing
+23524at5125	Missing
+23526at5125	Complete	27712-Mb.00g048830.m01	845.3	392	https://www.orthodb.org/v10?query=23526at5125	Succinate--CoA ligase 
+23542at5125	Missing
+23549at5125	Missing
+23574at5125	Missing
+23590at5125	Missing
+23601at5125	Missing
+23606at5125	Missing
+23613at5125	Missing
+23635at5125	Missing
+23653at5125	Missing
+23697at5125	Missing
+23702at5125	Missing
+23710at5125	Missing
+23718at5125	Complete	27712-Mb.00g029360.m01	694.5	351	https://www.orthodb.org/v10?query=23718at5125	Protein phosphatase 2C
+23725at5125	Complete	27712-Mb.00g073450.m01	876.6	784	https://www.orthodb.org/v10?query=23725at5125	Stress response protein NST1
+23727at5125	Missing
+23733at5125	Missing
+23766at5125	Missing
+23768at5125	Missing
+23772at5125	Missing
+23776at5125	Complete	27712-Mb.00g022330.m01	604.7	368	https://www.orthodb.org/v10?query=23776at5125	MINDY deubiquitinase
+23784at5125	Missing
+23788at5125	Complete	27712-Mb.00g005800.m01	917.3	439	https://www.orthodb.org/v10?query=23788at5125	Probable cytosolic iron-sulfur protein assembly protein 1
+23807at5125	Complete	27712-Mb.00g002570.m01	279.8	236	https://www.orthodb.org/v10?query=23807at5125	C7YU64_NECH7
+23840at5125	Complete	27712-Mb.00g053740.m01	663.9	344	https://www.orthodb.org/v10?query=23840at5125	Mannose-6-phosphate isomerase
+23845at5125	Complete	27712-Mb.00g073180.m01	769.7	389	https://www.orthodb.org/v10?query=23845at5125	Mitochondrial chaperone BCS1
+23846at5125	Complete	27712-Mb.00g027430.m01	515.9	300	https://www.orthodb.org/v10?query=23846at5125	sarcosine oxidase
+23852at5125	Missing
+23869at5125	Missing
+23873at5125	Missing
+23889at5125	Missing
+23895at5125	Missing
+23901at5125	Missing
+23905at5125	Missing
+23919at5125	Missing
+23921at5125	Missing
+23928at5125	Missing
+23949at5125	Complete	27712-Mb.00g033230.m01	481.5	300	https://www.orthodb.org/v10?query=23949at5125	mitochondrial ribosomal protein subunit domain-containing protein
+23951at5125	Missing
+23961at5125	Missing
+23987at5125	Missing
+23994at5125	Missing
+24010at5125	Missing
+24028at5125	Complete	27712-Mb.00g034210.m01	804.9	371	https://www.orthodb.org/v10?query=24028at5125	AP-2 complex subunit mu-1
+24034at5125	Missing
+24044at5125	Missing
+24046at5125	Missing
+24049at5125	Complete	27712-Mb.00g045450.m01	584.5	367	https://www.orthodb.org/v10?query=24049at5125	CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase
+24051at5125	Missing
+24057at5125	Missing
+24063at5125	Missing
+24067at5125	Missing
+24080at5125	Missing
+24082at5125	Missing
+24102at5125	Missing
+24105at5125	Missing
+24119at5125	Missing
+24146at5125	Missing
+24150at5125	Missing
+24159at5125	Complete	27712-Mb.00g007620.m01	633.4	351	https://www.orthodb.org/v10?query=24159at5125	formamidase
+24215at5125	Missing
+24218at5125	Complete	27712-Mb.00g032880.m01	472.2	303	https://www.orthodb.org/v10?query=24218at5125	mRNA cleavage and polyadenylation factor CLP1
+24252at5125	Complete	27712-Mb.00g032030.m01	907.9	456	https://www.orthodb.org/v10?query=24252at5125	Sorting nexin Vps5, BAR domain
+24253at5125	Complete	27712-Mb.00g037450.m01	839.2	480	https://www.orthodb.org/v10?query=24253at5125	Ferrichrome-type siderophore transporter
+24256at5125	Missing
+24259at5125	Missing
+24279at5125	Missing
+24287at5125	Missing
+24289at5125	Missing
+24298at5125	Missing
+24341at5125	Missing
+24358at5125	Missing
+24388at5125	Missing
+24393at5125	Missing
+24397at5125	Missing
+24418at5125	Missing
+24421at5125	Missing
+24426at5125	Complete	27712-Mb.00g028640.m01	619.4	382	https://www.orthodb.org/v10?query=24426at5125	Actin family protein
+24452at5125	Missing
+24468at5125	Complete	27712-Mb.00g041530.m01	401.8	319	https://www.orthodb.org/v10?query=24468at5125	Udp-galactose transporter like protein
+24474at5125	Missing
+24487at5125	Missing
+24500at5125	Missing
+24504at5125	Missing
+24550at5125	Missing
+24563at5125	Missing
+24592at5125	Missing
+24600at5125	Complete	27712-Mb.00g017490.m01	589.7	319	https://www.orthodb.org/v10?query=24600at5125	Actin-like protein arp9
+24606at5125	Missing
+24610at5125	Missing
+24624at5125	Missing
+24632at5125	Missing
+24639at5125	Missing
+24645at5125	Missing
+24647at5125	Missing
+24650at5125	Missing
+24654at5125	Complete	27712-Mb.00g048720.m01	784.5	421	https://www.orthodb.org/v10?query=24654at5125	tRNA (uracil-5-)-methyltransferase
+24659at5125	Missing
+24663at5125	Missing
+24674at5125	Complete	27712-Mb.00g042080.m01	371.5	188	https://www.orthodb.org/v10?query=24674at5125	thaumatin family protein
+24675at5125	Complete	27712-Mb.00g008980.m01	629.6	338	https://www.orthodb.org/v10?query=24675at5125	Heat shock protein DnaJ, cysteine-rich domain
+24694at5125	Missing
+24717at5125	Missing
+24722at5125	Missing
+24753at5125	Complete	27712-Mb.00g059230.m01	941.3	497	https://www.orthodb.org/v10?query=24753at5125	peptidyl-prolyl cis-trans isomerase cyp8
+24758at5125	Missing
+24759at5125	Missing
+24768at5125	Missing
+24789at5125	Missing
+24838at5125	Missing
+24854at5125	Missing
+24870at5125	Complete	27712-Mb.00g033910.m01	723.6	317	https://www.orthodb.org/v10?query=24870at5125	26S protease regulatory subunit 6B
+24875at5125	Missing
+24925at5125	Missing
+24943at5125	Missing
+24944at5125	Complete	27712-Mb.00g022910.m01	591.4	416	https://www.orthodb.org/v10?query=24944at5125	ribonuclease Z
+24978at5125	Missing
+24990at5125	Missing
+25046at5125	Missing
+25074at5125	Missing
+25080at5125	Missing
+25084at5125	Missing
+25094at5125	Complete	27712-Mb.00g059550.m01	632.8	333	https://www.orthodb.org/v10?query=25094at5125	cation diffusion facilitator 1
+25104at5125	Complete	27712-Mb.00g067590.m01	543.3	285	https://www.orthodb.org/v10?query=25104at5125	C7YH51_NECH7
+25129at5125	Missing
+25139at5125	Missing
+25141at5125	Missing
+25163at5125	Missing
+25180at5125	Missing
+25210at5125	Missing
+25225at5125	Complete	27712-Mb.00g008000.m01	695.8	351	https://www.orthodb.org/v10?query=25225at5125	GTP-binding protein
+25233at5125	Missing
+25273at5125	Missing
+25277at5125	Missing
+25278at5125	Missing
+25281at5125	Missing
+25302at5125	Missing
+25330at5125	Complete	27712-Mb.00g017270.m01	583.6	292	https://www.orthodb.org/v10?query=25330at5125	Alpha-ketoglutarate-dependent dioxygenase AlkB-like
+25336at5125	Complete	27712-Mb.00g065980.m01	422.6	243	https://www.orthodb.org/v10?query=25336at5125	ubiquitin-conjugating enzyme E2Z
+25352at5125	Missing
+25372at5125	Missing
+25388at5125	Missing
+25392at5125	Missing
+25394at5125	Missing
+25405at5125	Missing
+25419at5125	Missing
+25434at5125	Missing
+25446at5125	Missing
+25453at5125	Missing
+25458at5125	Missing
+25464at5125	Missing
+25466at5125	Missing
+25489at5125	Missing
+25494at5125	Missing
+25497at5125	Missing
+25502at5125	Missing
+25514at5125	Missing
+25527at5125	Missing
+25541at5125	Missing
+25559at5125	Missing
+25587at5125	Missing
+25624at5125	Missing
+25626at5125	Missing
+25656at5125	Complete	27712-Mb.00g029260.m01	680.9	388	https://www.orthodb.org/v10?query=25656at5125	Related to MAP kinase pathway-interacting Ubc2
+25662at5125	Missing
+25673at5125	Missing
+25687at5125	Complete	27712-Mb.00g065130.m01	662.3	347	https://www.orthodb.org/v10?query=25687at5125	RNA 3'-terminal phosphate cyclase
+25713at5125	Complete	27712-Mb.00g024830.m01	724.8	420	https://www.orthodb.org/v10?query=25713at5125	Zinc finger C2H2-type
+25740at5125	Missing
+25753at5125	Missing
+25756at5125	Missing
+25763at5125	Complete	27712-Mb.00g030430.m01	384.1	247	https://www.orthodb.org/v10?query=25763at5125	tat pathway signal sequence
+25773at5125	Missing
+25777at5125	Missing
+25785at5125	Missing
+25797at5125	Complete	27712-Mb.00g001370.m01	624.9	351	https://www.orthodb.org/v10?query=25797at5125	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit WBP1
+25802at5125	Missing
+25806at5125	Missing
+25856at5125	Missing
+25890at5125	Complete	27712-Mb.00g009900.m01	470.9	311	https://www.orthodb.org/v10?query=25890at5125	WHIM1 domain
+25891at5125	Missing
+25900at5125	Complete	27712-Mb.00g031850.m01	537.6	298	https://www.orthodb.org/v10?query=25900at5125	Chitinase 18-7
+25909at5125	Missing
+25931at5125	Missing
+25939at5125	Missing
+25944at5125	Missing
+25945at5125	Missing
+25990at5125	Complete	27712-Mb.00g065650.m01	566.7	310	https://www.orthodb.org/v10?query=25990at5125	Zn(2)-C6 fungal-type DNA-binding domain
+25993at5125	Missing
+25997at5125	Missing
+26010at5125	Missing
+26012at5125	Missing
+26030at5125	Missing
+26041at5125	Missing
+26048at5125	Missing
+26051at5125	Missing
+26091at5125	Missing
+26108at5125	Missing
+26140at5125	Complete	27712-Mb.00g059200.m01	433.6	251	https://www.orthodb.org/v10?query=26140at5125	Protein arginine methyltransferase NDUFAF7
+26146at5125	Complete	27712-Mb.00g067800.m01	698.0	401	https://www.orthodb.org/v10?query=26146at5125	tetratricopeptide repeat domain containing protein
+26151at5125	Missing
+26162at5125	Missing
+26183at5125	Missing
+26192at5125	Missing
+26204at5125	Missing
+26307at5125	Missing
+26308at5125	Missing
+26318at5125	Missing
+26337at5125	Complete	27712-Mb.00g020620.m01	574.9	327	https://www.orthodb.org/v10?query=26337at5125	Mitochondrial import inner membrane translocase subunit TIM50
+26346at5125	Missing
+26378at5125	Missing
+26380at5125	Complete	27712-Mb.00g061780.m01	706.8	364	https://www.orthodb.org/v10?query=26380at5125	Putative nitrogen permease regulator
+26387at5125	Missing
+26400at5125	Missing
+26406at5125	Complete	27712-Mb.00g017600.m01	524.6	379	https://www.orthodb.org/v10?query=26406at5125	Homeodomain-like protein
+26448at5125	Complete	27712-Mb.00g031990.m01	618.1	328	https://www.orthodb.org/v10?query=26448at5125	putative domain YCR061W, C-terminal
+26450at5125	Missing
+26480at5125	Missing
+26514at5125	Missing
+26540at5125	Missing
+26544at5125	Missing
+26557at5125	Complete	27712-Mb.00g025990.m01	615.5	333	https://www.orthodb.org/v10?query=26557at5125	histone deacetylase activity
+26594at5125	Missing
+26624at5125	Missing
+26632at5125	Missing
+26690at5125	Complete	27712-Mb.00g016440.m01	771.7	412	https://www.orthodb.org/v10?query=26690at5125	Heat shock protein DnaJ, cysteine-rich domain
+26695at5125	Missing
+26714at5125	Missing
+26732at5125	Missing
+26736at5125	Missing
+26740at5125	Complete	27712-Mb.00g064160.m01	636.2	284	https://www.orthodb.org/v10?query=26740at5125	cell division control protein 12
+26750at5125	Missing
+26752at5125	Missing
+26754at5125	Complete	27712-Mb.00g007840.m01	672.1	370	https://www.orthodb.org/v10?query=26754at5125	Thiolase
+26779at5125	Complete	27712-Mb.00g029320.m01	250.2	214	https://www.orthodb.org/v10?query=26779at5125	C7Z9G4_NECH7
+26789at5125	Missing
+26811at5125	Missing
+26822at5125	Complete	27712-Mb.00g071730.m01	569.1	272	https://www.orthodb.org/v10?query=26822at5125	Centromere/microtubule binding protein CBF5
+26826at5125	Missing
+26840at5125	Complete	27712-Mb.00g010120.m01	713.1	356	https://www.orthodb.org/v10?query=26840at5125	mRNA-capping enzyme subunit alpha
+26866at5125	Missing
+26873at5125	Complete	27712-Mb.00g003430.m01	773.0	397	https://www.orthodb.org/v10?query=26873at5125	Delta12 fatty acid desaturase
+26877at5125	Missing
+26882at5125	Missing
+26883at5125	Complete	27712-Mb.00g017770.m01	693.8	389	https://www.orthodb.org/v10?query=26883at5125	MFS transporter
+26893at5125	Missing
+26904at5125	Missing
+26907at5125	Missing
+26923at5125	Missing
+26937at5125	Missing
+26946at5125	Missing
+26979at5125	Missing
+27016at5125	Missing
+27019at5125	Missing
+27024at5125	Missing
+27039at5125	Missing
+27056at5125	Missing
+27083at5125	Missing
+27092at5125	Missing
+27094at5125	Missing
+27107at5125	Missing
+27113at5125	Missing
+27123at5125	Missing
+27133at5125	Complete	27712-Mb.00g016840.m01	687.8	340	https://www.orthodb.org/v10?query=27133at5125	Actin cytoskeleton-regulatory complex protein END3
+27143at5125	Missing
+27188at5125	Missing
+27192at5125	Missing
+27196at5125	Complete	27712-Mb.00g061340.m01	571.6	265	https://www.orthodb.org/v10?query=27196at5125	Magnesium transporter
+27199at5125	Missing
+27211at5125	Missing
+27226at5125	Complete	27712-Mb.00g005360.m01	230.6	126	https://www.orthodb.org/v10?query=27226at5125	Zinc finger, RING/FYVE/PHD-type
+27232at5125	Missing
+27247at5125	Complete	27712-Mb.00g069240.m01	458.5	288	https://www.orthodb.org/v10?query=27247at5125	exs
+27253at5125	Complete	27712-Mb.00g023450.m01	492.5	275	https://www.orthodb.org/v10?query=27253at5125	Cytidine deaminase-like protein
+27256at5125	Missing
+27291at5125	Missing
+27310at5125	Missing
+27317at5125	Missing
+27319at5125	Missing
+27323at5125	Complete	27712-Mb.00g013560.m01	497.5	399	https://www.orthodb.org/v10?query=27323at5125	Zinc finger C2H2-type
+27352at5125	Missing
+27375at5125	Missing
+27377at5125	Missing
+27383at5125	Missing
+27428at5125	Complete	27712-Mb.00g047520.m01	632.8	333	https://www.orthodb.org/v10?query=27428at5125	Mannitol-1-phosphate 5-dehydrogenase
+27434at5125	Missing
+27442at5125	Missing
+27520at5125	Missing
+27530at5125	Missing
+27542at5125	Missing
+27572at5125	Missing
+27577at5125	Missing
+27597at5125	Missing
+27606at5125	Missing
+27629at5125	Missing
+27636at5125	Missing
+27659at5125	Missing
+27675at5125	Missing
+27695at5125	Missing
+27696at5125	Missing
+27699at5125	Missing
+27701at5125	Missing
+27780at5125	Complete	27712-Mb.00g042800.m01	668.6	306	https://www.orthodb.org/v10?query=27780at5125	Lipoyl synthase, mitochondrial
+27783at5125	Complete	27712-Mb.00g061650.m01	796.8	391	https://www.orthodb.org/v10?query=27783at5125	Peroxisomal biogenesis factor 2
+27798at5125	Complete	27712-Mb.00g051230.m01	317.9	230	https://www.orthodb.org/v10?query=27798at5125	spx
+27826at5125	Missing
+27881at5125	Missing
+27888at5125	Complete	27712-Mb.00g048410.m01	286.9	196	https://www.orthodb.org/v10?query=27888at5125	endothiapepsin-like protein
+27911at5125	Missing
+27925at5125	Missing
+27933at5125	Missing
+27937at5125	Missing
+27943at5125	Missing
+27990at5125	Complete	27712-Mb.00g068050.m01	556.4	309	https://www.orthodb.org/v10?query=27990at5125	Threonylcarbamoyl-AMP synthase
+28002at5125	Missing
+28020at5125	Missing
+28021at5125	Missing
+28035at5125	Missing
+28048at5125	Missing
+28064at5125	Missing
+28091at5125	Complete	27712-Mb.00g026060.m01	611.1	312	https://www.orthodb.org/v10?query=28091at5125	Thiolase
+28108at5125	Missing
+28113at5125	Missing
+28114at5125	Complete	27712-Mb.00g042720.m01	681.0	382	https://www.orthodb.org/v10?query=28114at5125	Phosphoserine phosphatase
+28121at5125	Complete	27712-Mb.00g067790.m01	786.9	458	https://www.orthodb.org/v10?query=28121at5125	Protein kinase-like domain protein
+28123at5125	Missing
+28130at5125	Complete	27712-Mb.00g073070.m01	536.2	281	https://www.orthodb.org/v10?query=28130at5125	Uroporphyrinogen decarboxylase
+28142at5125	Missing
+28149at5125	Missing
+28155at5125	Missing
+28162at5125	Missing
+28218at5125	Complete	27712-Mb.00g000670.m01	671.1	378	https://www.orthodb.org/v10?query=28218at5125	glutamyl-tRNA amidotransferase, A subunit
+28239at5125	Missing
+28249at5125	Missing
+28257at5125	Missing
+28258at5125	Missing
+28262at5125	Missing
+28281at5125	Missing
+28285at5125	Missing
+28286at5125	Missing
+28296at5125	Missing
+28302at5125	Missing
+28307at5125	Missing
+28345at5125	Missing
+28346at5125	Complete	27712-Mb.00g016690.m01	586.5	378	https://www.orthodb.org/v10?query=28346at5125	Spo7-like protein
+28367at5125	Missing
+28396at5125	Complete	27712-Mb.00g044200.m01	388.2	243	https://www.orthodb.org/v10?query=28396at5125	Gamma-butyrobetaine dioxygenase
+28431at5125	Complete	27712-Mb.00g039660.m01	464.5	337	https://www.orthodb.org/v10?query=28431at5125	Lectin family integral membrane protein
+28438at5125	Missing
+28443at5125	Missing
+28455at5125	Complete	27712-Mb.00g048970.m01	845.7	522	https://www.orthodb.org/v10?query=28455at5125	DnaJ, subfamily C
+28456at5125	Missing
+28462at5125	Missing
+28471at5125	Missing
+28472at5125	Missing
+28488at5125	Missing
+28495at5125	Missing
+28511at5125	Missing
+28528at5125	Missing
+28531at5125	Missing
+28552at5125	Complete	27712-Mb.00g069130.m01	607.0	404	https://www.orthodb.org/v10?query=28552at5125	U2 snRNP auxiliary factor large subunit
+28567at5125	Missing
+28571at5125	Missing
+28574at5125	Missing
+28586at5125	Missing
+28591at5125	Missing
+28613at5125	Missing
+28629at5125	Missing
+28632at5125	Missing
+28644at5125	Missing
+28654at5125	Missing
+28674at5125	Missing
+28680at5125	Missing
+28690at5125	Missing
+28699at5125	Missing
+28704at5125	Missing
+28710at5125	Missing
+28711at5125	Complete	27712-Mb.00g029760.m01	464.0	246	https://www.orthodb.org/v10?query=28711at5125	probable NADH2 dehydrogenase (ubiquinone) 40K chain
+28712at5125	Missing
+28714at5125	Missing
+28730at5125	Complete	27712-Mb.00g064390.m01	376.8	280	https://www.orthodb.org/v10?query=28730at5125	integral membrane family protein
+28734at5125	Complete	27712-Mb.00g050290.m01	513.1	262	https://www.orthodb.org/v10?query=28734at5125	PLC-like phosphodiesterase, TIM beta/alpha-barrel domain protein
+28736at5125	Missing
+28753at5125	Missing
+28758at5125	Missing
+28792at5125	Missing
+28818at5125	Missing
+28824at5125	Missing
+28842at5125	Missing
+28853at5125	Missing
+28868at5125	Missing
+28882at5125	Missing
+28890at5125	Complete	27712-Mb.00g061020.m01	709.8	316	https://www.orthodb.org/v10?query=28890at5125	Probable casein kinase-1 hhp1
+28901at5125	Missing
+28905at5125	Missing
+28909at5125	Missing
+28910at5125	Missing
+28911at5125	Missing
+28919at5125	Complete	27712-Mb.00g050880.m01	597.2	433	https://www.orthodb.org/v10?query=28919at5125	R3H domain
+28945at5125	Missing
+28991at5125	Complete	27712-Mb.00g007160.m01	398.6	364	https://www.orthodb.org/v10?query=28991at5125	only prolin and serin are matching in the corresponding protein
+28997at5125	Missing
+29000at5125	Missing
+29023at5125	Missing
+29032at5125	Complete	27712-Mb.00g058530.m01	605.3	320	https://www.orthodb.org/v10?query=29032at5125	Ubiquitin-like 1-activating enzyme E1 A
+29035at5125	Missing
+29048at5125	Complete	27712-Mb.00g066420.m01	385.8	389	https://www.orthodb.org/v10?query=29048at5125	fungal specific transcription factor domain containing protein
+29053at5125	Missing
+29064at5125	Complete	27712-Mb.00g034800.m01	520.7	298	https://www.orthodb.org/v10?query=29064at5125	Cytochrome b5-like heme/steroid binding domain
+29070at5125	Missing
+29079at5125	Complete	27712-Mb.00g060870.m01	633.5	337	https://www.orthodb.org/v10?query=29079at5125	Regulator of gluconeogenesis Rmd5
+29091at5125	Missing
+29107at5125	Missing
+29139at5125	Missing
+29152at5125	Missing
+29155at5125	Missing
+29158at5125	Missing
+29162at5125	Complete	27712-Mb.00g059700.m01	748.7	410	https://www.orthodb.org/v10?query=29162at5125	pre-mRNA-splicing factor slu7
+29199at5125	Complete	27712-Mb.00g020400.m01	568.1	324	https://www.orthodb.org/v10?query=29199at5125	Acetyl-CoA acetyltransferase
+29205at5125	Missing
+29212at5125	Missing
+29220at5125	Complete	27712-Mb.00g062060.m01	633.4	378	https://www.orthodb.org/v10?query=29220at5125	A/G-specific adenine glycosylase
+29243at5125	Missing
+29261at5125	Missing
+29285at5125	Missing
+29298at5125	Missing
+29305at5125	Missing
+29316at5125	Missing
+29321at5125	Missing
+29327at5125	Missing
+29342at5125	Missing
+29363at5125	Missing
+29375at5125	Missing
+29384at5125	Missing
+29391at5125	Missing
+29394at5125	Missing
+29444at5125	Missing
+29448at5125	Missing
+29485at5125	Missing
+29486at5125	Complete	27712-Mb.00g008800.m01	693.0	374	https://www.orthodb.org/v10?query=29486at5125	Eukaryotic translation initiation factor 3 subunit M
+29489at5125	Missing
+29495at5125	Complete	27712-Mb.00g015000.m01	302.4	161	https://www.orthodb.org/v10?query=29495at5125	WSC domain-containing protein
+29501at5125	Missing
+29540at5125	Missing
+29546at5125	Missing
+29557at5125	Complete	27712-Mb.00g035290.m01	560.2	251	https://www.orthodb.org/v10?query=29557at5125	Deoxyhypusine synthase
+29563at5125	Missing
+29581at5125	Missing
+29590at5125	Complete	27712-Mb.00g018360.m01	458.2	268	https://www.orthodb.org/v10?query=29590at5125	ZIP family zinc transporter
+29646at5125	Missing
+29680at5125	Complete	27712-Mb.00g070940.m01	632.3	294	https://www.orthodb.org/v10?query=29680at5125	mitochondrial import receptor subunit TOM40
+29706at5125	Missing
+29708at5125	Missing
+29714at5125	Missing
+29730at5125	Missing
+29747at5125	Missing
+29748at5125	Missing
+29754at5125	Missing
+29755at5125	Missing
+29758at5125	Complete	27712-Mb.00g030580.m01	564.5	296	https://www.orthodb.org/v10?query=29758at5125	Ribosomal protein S2
+29765at5125	Missing
+29768at5125	Missing
+29769at5125	Missing
+29799at5125	Missing
+29806at5125	Missing
+29808at5125	Complete	27712-Mb.00g016580.m01	567.7	310	https://www.orthodb.org/v10?query=29808at5125	Survival factor 1
+29826at5125	Missing
+29850at5125	Missing
+29871at5125	Complete	27712-Mb.00g008010.m01	455.2	330	https://www.orthodb.org/v10?query=29871at5125	SET domain protein
+29890at5125	Missing
+29894at5125	Missing
+29895at5125	Missing
+29899at5125	Missing
+29909at5125	Missing
+29912at5125	Missing
+29930at5125	Missing
+29940at5125	Missing
+29946at5125	Missing
+29948at5125	Missing
+29983at5125	Complete	27712-Mb.00g073890.m01	279.1	238	https://www.orthodb.org/v10?query=29983at5125	Alpha/Beta hydrolase fold
+29996at5125	Missing
+29997at5125	Missing
+30017at5125	Missing
+30035at5125	Missing
+30098at5125	Missing
+30100at5125	Complete	27712-Mb.00g072820.m01	567.1	343	https://www.orthodb.org/v10?query=30100at5125	V-type proton ATPase subunit C
+30104at5125	Missing
+30121at5125	Missing
+30124at5125	Missing
+30125at5125	Missing
+30133at5125	Missing
+30138at5125	Complete	27712-Mb.00g056270.m01	730.2	400	https://www.orthodb.org/v10?query=30138at5125	UBX domain protein
+30140at5125	Missing
+30145at5125	Missing
+30152at5125	Missing
+30159at5125	Missing
+30162at5125	Complete	27712-Mb.00g048340.m01	610.2	291	https://www.orthodb.org/v10?query=30162at5125	V-type proton ATPase subunit
+30192at5125	Missing
+30224at5125	Missing
+30237at5125	Complete	27712-Mb.00g025810.m01	541.9	298	https://www.orthodb.org/v10?query=30237at5125	3'(2'),5'-bisphosphate nucleotidase
+30271at5125	Missing
+30280at5125	Complete	27712-Mb.00g028190.m01	664.5	348	https://www.orthodb.org/v10?query=30280at5125	Phospho-2-dehydro-3-deoxyheptonate aldolase
+30317at5125	Missing
+30318at5125	Missing
+30387at5125	Missing
+30390at5125	Missing
+30408at5125	Missing
+30410at5125	Missing
+30415at5125	Missing
+30424at5125	Complete	27712-Mb.00g065740.m01	805.2	443	https://www.orthodb.org/v10?query=30424at5125	nucleolar GTP-binding protein 2
+30425at5125	Missing
+30456at5125	Missing
+30457at5125	Missing
+30458at5125	Missing
+30483at5125	Missing
+30524at5125	Complete	27712-Mb.00g047570.m01	724.0	500	https://www.orthodb.org/v10?query=30524at5125	PWI domain
+30531at5125	Missing
+30535at5125	Missing
+30548at5125	Missing
+30558at5125	Missing
+30560at5125	Missing
+30570at5125	Complete	27712-Mb.00g071740.m01	272.3	247	https://www.orthodb.org/v10?query=30570at5125	centromere/microtubule binding protein cbf5-like protein
+30587at5125	Missing
+30605at5125	Complete	27712-Mb.00g026280.m01	542.5	300	https://www.orthodb.org/v10?query=30605at5125	Carboxy-cis,cis-muconate cyclase
+30617at5125	Missing
+30627at5125	Missing
+30653at5125	Missing
+30657at5125	Missing
+30661at5125	Missing
+30696at5125	Missing
+30706at5125	Missing
+30714at5125	Missing
+30731at5125	Missing
+30733at5125	Complete	27712-Mb.00g034090.m01	312.2	350	https://www.orthodb.org/v10?query=30733at5125	Monooxygenase
+30738at5125	Missing
+30767at5125	Missing
+30788at5125	Missing
+30797at5125	Missing
+30807at5125	Missing
+30816at5125	Missing
+30847at5125	Missing
+30850at5125	Missing
+30852at5125	Missing
+30869at5125	Missing
+30880at5125	Missing
+30901at5125	Complete	27712-Mb.00g067240.m01	229.1	141	https://www.orthodb.org/v10?query=30901at5125	glycosyltransferase family 69 protein
+30902at5125	Missing
+30912at5125	Complete	27712-Mb.00g072440.m01	586.2	322	https://www.orthodb.org/v10?query=30912at5125	Cyclin
+30955at5125	Complete	27712-Mb.00g064040.m01	502.6	309	https://www.orthodb.org/v10?query=30955at5125	elongation factor 1-gamma
+30987at5125	Missing
+31004at5125	Missing
+31006at5125	Missing
+31010at5125	Missing
+31014at5125	Missing
+31042at5125	Complete	27712-Mb.00g052340.m01	516.4	264	https://www.orthodb.org/v10?query=31042at5125	WD40-repeat-containing domain
+31047at5125	Missing
+31048at5125	Complete	27712-Mb.00g048030.m01	310.4	170	https://www.orthodb.org/v10?query=31048at5125	Queuosine salvage protein
+31052at5125	Complete	27712-Mb.00g068200.m01	552.3	312	https://www.orthodb.org/v10?query=31052at5125	Dehydrogenase/reductase SDR family member 8
+31057at5125	Missing
+31062at5125	Complete	27712-Mb.00g063580.m01	573.3	301	https://www.orthodb.org/v10?query=31062at5125	cation efflux family protein family
+31066at5125	Missing
+31071at5125	Complete	27712-Mb.00g025180.m01	485.5	331	https://www.orthodb.org/v10?query=31071at5125	GPI mannosyltransferase 2
+31072at5125	Missing
+31079at5125	Missing
+31105at5125	Missing
+31117at5125	Missing
+31140at5125	Missing
+31153at5125	Missing
+31159at5125	Missing
+31169at5125	Missing
+31182at5125	Missing
+31188at5125	Complete	27712-Mb.00g018320.m01	280.3	185	https://www.orthodb.org/v10?query=31188at5125	C7YIN0_NECH7
+31195at5125	Missing
+31220at5125	Missing
+31231at5125	Missing
+31233at5125	Missing
+31243at5125	Missing
+31249at5125	Complete	27712-Mb.00g034260.m01	523.5	302	https://www.orthodb.org/v10?query=31249at5125	Chalcone isomerase, subgroup
+31273at5125	Missing
+31300at5125	Missing
+31315at5125	Complete	27712-Mb.00g014040.m01	446.9	258	https://www.orthodb.org/v10?query=31315at5125	mitochondrial inner membrane protein
+31356at5125	Missing
+31359at5125	Missing
+31368at5125	Missing
+31381at5125	Missing
+31383at5125	Complete	27712-Mb.00g024270.m01	675.7	437	https://www.orthodb.org/v10?query=31383at5125	FF domain protein
+31387at5125	Missing
+31407at5125	Complete	27712-Mb.00g008600.m01	214.6	276	https://www.orthodb.org/v10?query=31407at5125	myo-inositol-1(or 4)-monophosphatase
+31415at5125	Missing
+31433at5125	Missing
+31443at5125	Missing
+31481at5125	Missing
+31507at5125	Missing
+31534at5125	Missing
+31539at5125	Missing
+31549at5125	Missing
+31584at5125	Complete	27712-Mb.00g066630.m01	446.0	239	https://www.orthodb.org/v10?query=31584at5125	Amino acid transporter arg-13
+31585at5125	Missing
+31603at5125	Missing
+31633at5125	Missing
+31641at5125	Complete	27712-Mb.00g061250.m01	572.9	298	https://www.orthodb.org/v10?query=31641at5125	Aspartate-semialdehyde dehydrogenase
+31646at5125	Missing
+31665at5125	Missing
+31692at5125	Missing
+31756at5125	Missing
+31780at5125	Missing
+31785at5125	Complete	27712-Mb.00g011190.m01	531.7	326	https://www.orthodb.org/v10?query=31785at5125	Pheromone receptor
+31789at5125	Missing
+31818at5125	Missing
+31827at5125	Complete	27712-Mb.00g030150.m01	236.2	150	https://www.orthodb.org/v10?query=31827at5125	Ubiquitin carboxyl-terminal hydrolase
+31878at5125	Missing
+31881at5125	Missing
+31883at5125	Complete	27712-Mb.00g033280.m01	676.3	418	https://www.orthodb.org/v10?query=31883at5125	Senescence/spartin-associated
+31894at5125	Missing
+31933at5125	Missing
+31934at5125	Complete	27712-Mb.00g017170.m01	431.0	246	https://www.orthodb.org/v10?query=31934at5125	CCR4-NOT complex subunit 2/3/5, N-terminal domain superfamily
+31943at5125	Missing
+31951at5125	Missing
+31978at5125	Complete	27712-Mb.00g073120.m01	494.8	372	https://www.orthodb.org/v10?query=31978at5125	Mitochondrial glycine transporter
+32036at5125	Missing
+32046at5125	Missing
+32069at5125	Missing
+32076at5125	Missing
+32080at5125	Missing
+32133at5125	Complete	27712-Mb.00g025680.m01	628.8	294	https://www.orthodb.org/v10?query=32133at5125	stomatin family protein
+32177at5125	Missing
+32180at5125	Missing
+32183at5125	Complete	27712-Mb.00g010430.m01	571.8	268	https://www.orthodb.org/v10?query=32183at5125	K Homology domain, type 1
+32184at5125	Missing
+32200at5125	Missing
+32254at5125	Missing
+32259at5125	Missing
+32263at5125	Missing
+32265at5125	Missing
+32278at5125	Complete	27712-Mb.00g028390.m01	499.8	384	https://www.orthodb.org/v10?query=32278at5125	Thiolase
+32284at5125	Missing
+32287at5125	Missing
+32312at5125	Missing
+32313at5125	Missing
+32326at5125	Missing
+32336at5125	Missing
+32356at5125	Missing
+32367at5125	Missing
+32371at5125	Missing
+32372at5125	Missing
+32393at5125	Complete	27712-Mb.00g010160.m01	611.1	352	https://www.orthodb.org/v10?query=32393at5125	Winged helix-like DNA-binding domain superfamily
+32400at5125	Missing
+32412at5125	Complete	27712-Mb.00g034490.m01	557.6	322	https://www.orthodb.org/v10?query=32412at5125	Histidine phosphatase superfamily
+32418at5125	Missing
+32453at5125	Missing
+32462at5125	Complete	27712-Mb.00g015840.m01	586.5	289	https://www.orthodb.org/v10?query=32462at5125	mitochondrial carrier protein
+32514at5125	Missing
+32538at5125	Complete	27712-Mb.00g035730.m01	218.8	395	https://www.orthodb.org/v10?query=32538at5125	C7YPH7_NECH7
+32557at5125	Missing
+32584at5125	Missing
+32588at5125	Missing
+32595at5125	Missing
+32603at5125	Missing
+32617at5125	Missing
+32629at5125	Missing
+32640at5125	Missing
+32667at5125	Missing
+32672at5125	Complete	27712-Mb.00g043020.m01	355.6	158	https://www.orthodb.org/v10?query=32672at5125	NIPSNAP family protein
+32693at5125	Complete	27712-Mb.00g014280.m01	219.0	236	https://www.orthodb.org/v10?query=32693at5125	C7Z6M5_NECH7
+32720at5125	Missing
+32727at5125	Missing
+32755at5125	Missing
+32760at5125	Missing
+32772at5125	Missing
+32790at5125	Missing
+32796at5125	Missing
+32802at5125	Missing
+32821at5125	Missing
+32823at5125	Missing
+32875at5125	Missing
+32918at5125	Missing
+32929at5125	Missing
+32949at5125	Complete	27712-Mb.00g065400.m01	427.7	195	https://www.orthodb.org/v10?query=32949at5125	Rab-GTPase-TBC domain
+32956at5125	Missing
+32991at5125	Complete	27712-Mb.00g030230.m01	326.2	160	https://www.orthodb.org/v10?query=32991at5125	Vacuolar protein sorting-associated protein 74
+33042at5125	Missing
+33052at5125	Missing
+33064at5125	Missing
+33077at5125	Missing
+33098at5125	Missing
+33160at5125	Missing
+33166at5125	Missing
+33178at5125	Missing
+33200at5125	Missing
+33224at5125	Missing
+33243at5125	Missing
+33249at5125	Missing
+33269at5125	Missing
+33285at5125	Missing
+33298at5125	Missing
+33320at5125	Missing
+33358at5125	Missing
+33359at5125	Missing
+33368at5125	Missing
+33399at5125	Complete	27712-Mb.00g035360.m01	648.8	315	https://www.orthodb.org/v10?query=33399at5125	Replication factor C subunit 5
+33411at5125	Missing
+33415at5125	Missing
+33419at5125	Missing
+33445at5125	Missing
+33461at5125	Missing
+33472at5125	Missing
+33486at5125	Missing
+33493at5125	Missing
+33499at5125	Missing
+33508at5125	Missing
+33523at5125	Missing
+33552at5125	Complete	27712-Mb.00g044430.m01	393.0	313	https://www.orthodb.org/v10?query=33552at5125	oxidoreductase, 2-nitropropane dioxygenase family
+33557at5125	Complete	27712-Mb.00g018520.m01	503.7	269	https://www.orthodb.org/v10?query=33557at5125	cell cycle checkpoint protein
+33587at5125	Missing
+33617at5125	Missing
+33626at5125	Missing
+33627at5125	Missing
+33629at5125	Complete	27712-Mb.00g020390.m01	654.6	459	https://www.orthodb.org/v10?query=33629at5125	IQ calmodulin-binding motif protein
+33631at5125	Complete	27712-Mb.00g013480.m01	509.1	348	https://www.orthodb.org/v10?query=33631at5125	LrgB-like protein
+33641at5125	Missing
+33665at5125	Missing
+33675at5125	Missing
+33676at5125	Missing
+33681at5125	Missing
+33726at5125	Missing
+33734at5125	Complete	27712-Mb.00g046180.m01	519.0	346	https://www.orthodb.org/v10?query=33734at5125	Serum paraoxonase/arylesterase family protein
+33742at5125	Complete	27712-Mb.00g023500.m01	488.1	288	https://www.orthodb.org/v10?query=33742at5125	Velvet domain
+33747at5125	Missing
+33748at5125	Missing
+33767at5125	Complete	27712-Mb.00g065240.m01	358.6	204	https://www.orthodb.org/v10?query=33767at5125	ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+33782at5125	Complete	27712-Mb.00g064610.m01	561.0	311	https://www.orthodb.org/v10?query=33782at5125	triacylglycerol lipase FGL2
+33791at5125	Complete	27712-Mb.00g004130.m01	574.6	418	https://www.orthodb.org/v10?query=33791at5125	Protein of unknown function DUF2418
+33794at5125	Complete	27712-Mb.00g016980.m01	423.3	265	https://www.orthodb.org/v10?query=33794at5125	Phosphomevalonate kinase
+33799at5125	Missing
+33812at5125	Missing
+33816at5125	Missing
+33830at5125	Missing
+33836at5125	Missing
+33843at5125	Missing
+33846at5125	Missing
+33853at5125	Missing
+33856at5125	Missing
+33884at5125	Complete	27712-Mb.00g033120.m01	406.5	218	https://www.orthodb.org/v10?query=33884at5125	Very-long-chain 3-oxoacyl-CoA reductase
+33887at5125	Missing
+33892at5125	Missing
+33903at5125	Missing
+33918at5125	Missing
+33930at5125	Complete	27712-Mb.00g025630.m01	482.0	220	https://www.orthodb.org/v10?query=33930at5125	ribose-phosphate pyrophosphokinase II
+33954at5125	Complete	27712-Mb.00g026890.m01	362.6	213	https://www.orthodb.org/v10?query=33954at5125	Zinc finger C2H2 superfamily
+33958at5125	Missing
+33960at5125	Missing
+33961at5125	Missing
+33964at5125	Missing
+33981at5125	Missing
+34010at5125	Complete	27712-Mb.00g064060.m01	619.5	311	https://www.orthodb.org/v10?query=34010at5125	tRNA N6-adenosine threonylcarbamoyltransferase
+34014at5125	Complete	27712-Mb.00g066520.m01	452.6	279	https://www.orthodb.org/v10?query=34014at5125	Inosine/uridine-preferring nucleoside hydrolase
+34034at5125	Missing
+34065at5125	Missing
+34077at5125	Missing
+34085at5125	Complete	27712-Mb.00g068350.m01	408.8	219	https://www.orthodb.org/v10?query=34085at5125	cyclin
+34092at5125	Missing
+34094at5125	Missing
+34095at5125	Missing
+34103at5125	Missing
+34115at5125	Missing
+34147at5125	Missing
+34149at5125	Complete	27712-Mb.00g057000.m01	246.3	321	https://www.orthodb.org/v10?query=34149at5125	TeaA receptor TeaR
+34168at5125	Missing
+34179at5125	Missing
+34225at5125	Missing
+34227at5125	Missing
+34252at5125	Missing
+34288at5125	Missing
+34290at5125	Complete	27712-Mb.00g010810.m01	650.3	394	https://www.orthodb.org/v10?query=34290at5125	Cdc37
+34294at5125	Missing
+34318at5125	Missing
+34334at5125	Missing
+34336at5125	Missing
+34340at5125	Missing
+34353at5125	Missing
+34354at5125	Missing
+34359at5125	Missing
+34360at5125	Missing
+34380at5125	Missing
+34391at5125	Missing
+34395at5125	Missing
+34415at5125	Missing
+34431at5125	Missing
+34442at5125	Missing
+34445at5125	Missing
+34465at5125	Missing
+34501at5125	Complete	27712-Mb.00g009140.m01	382.8	192	https://www.orthodb.org/v10?query=34501at5125	Protein of unknown function DUF5102
+34505at5125	Missing
+34564at5125	Missing
+34566at5125	Missing
+34569at5125	Complete	27712-Mb.00g061110.m01	576.1	298	https://www.orthodb.org/v10?query=34569at5125	Non-structural maintenance of chromosome element 4
+34571at5125	Missing
+34599at5125	Missing
+34619at5125	Complete	27712-Mb.00g043500.m01	485.1	293	https://www.orthodb.org/v10?query=34619at5125	oxidoreductase
+34626at5125	Missing
+34643at5125	Complete	27712-Mb.00g031500.m01	579.2	488	https://www.orthodb.org/v10?query=34643at5125	Zinc finger, CCCH-type
+34644at5125	Missing
+34656at5125	Missing
+34680at5125	Missing
+34686at5125	Missing
+34694at5125	Missing
+34697at5125	Missing
+34710at5125	Complete	27712-Mb.00g061070.m01	155.0	166	https://www.orthodb.org/v10?query=34710at5125	Pal1 cell morphology protein
+34713at5125	Complete	27712-Mb.00g043390.m01	374.5	288	https://www.orthodb.org/v10?query=34713at5125	hem oxygenase-like, multi-helical
+34740at5125	Missing
+34765at5125	Missing
+34774at5125	Missing
+34786at5125	Missing
+34792at5125	Missing
+34803at5125	Missing
+34823at5125	Missing
+34826at5125	Missing
+34832at5125	Complete	27712-Mb.00g002120.m01	566.0	357	https://www.orthodb.org/v10?query=34832at5125	Origin recognition complex subunit 2
+34844at5125	Missing
+34847at5125	Complete	27712-Mb.00g032130.m01	514.6	239	https://www.orthodb.org/v10?query=34847at5125	Succinate--CoA ligase 
+34853at5125	Missing
+34863at5125	Missing
+34865at5125	Missing
+34895at5125	Missing
+34911at5125	Missing
+34928at5125	Missing
+34950at5125	Missing
+35013at5125	Complete	27712-Mb.00g022620.m01	359.1	290	https://www.orthodb.org/v10?query=35013at5125	C7YW22_NECH7
+35021at5125	Missing
+35029at5125	Missing
+35035at5125	Missing
+35066at5125	Missing
+35079at5125	Missing
+35090at5125	Missing
+35103at5125	Complete	27712-Mb.00g064820.m01	582.0	416	https://www.orthodb.org/v10?query=35103at5125	exo-beta-1,3-glucanase
+35131at5125	Complete	27712-Mb.00g044270.m01	580.0	274	https://www.orthodb.org/v10?query=35131at5125	related to ras-related GTPase rag
+35135at5125	Missing
+35150at5125	Missing
+35199at5125	Missing
+35201at5125	Missing
+35233at5125	Missing
+35249at5125	Missing
+35313at5125	Missing
+35315at5125	Missing
+35318at5125	Missing
+35323at5125	Complete	27712-Mb.00g024140.m01	543.5	348	https://www.orthodb.org/v10?query=35323at5125	DNA recombination and repair protein Rad51
+35327at5125	Missing
+35329at5125	Missing
+35351at5125	Missing
+35352at5125	Missing
+35362at5125	Missing
+35371at5125	Missing
+35375at5125	Missing
+35378at5125	Missing
+35398at5125	Missing
+35410at5125	Missing
+35445at5125	Missing
+35471at5125	Missing
+35474at5125	Missing
+35477at5125	Missing
+35495at5125	Missing
+35500at5125	Missing
+35533at5125	Complete	27712-Mb.00g035130.m01	322.6	635	https://www.orthodb.org/v10?query=35533at5125	AT hook, DNA-binding motif
+35536at5125	Missing
+35537at5125	Missing
+35554at5125	Missing
+35555at5125	Missing
+35569at5125	Missing
+35575at5125	Complete	27712-Mb.00g044380.m01	340.7	276	https://www.orthodb.org/v10?query=35575at5125	Aspartic proteinase
+35595at5125	Missing
+35625at5125	Complete	27712-Mb.00g066710.m01	232.3	202	https://www.orthodb.org/v10?query=35625at5125	START-like domain protein
+35643at5125	Complete	27712-Mb.00g061890.m01	219.0	123	https://www.orthodb.org/v10?query=35643at5125	RNA-binding domain superfamily
+35650at5125	Missing
+35663at5125	Missing
+35667at5125	Missing
+35681at5125	Complete	27712-Mb.00g012230.m01	502.7	258	https://www.orthodb.org/v10?query=35681at5125	Zinc finger protein
+35685at5125	Missing
+35699at5125	Missing
+35700at5125	Missing
+35709at5125	Complete	27712-Mb.00g043750.m01	588.8	286	https://www.orthodb.org/v10?query=35709at5125	Pre-mRNA-splicing factor CWC2
+35715at5125	Complete	27712-Mb.00g029540.m01	628.8	330	https://www.orthodb.org/v10?query=35715at5125	Heat shock protein DnaJ, cysteine-rich domain
+35730at5125	Missing
+35743at5125	Missing
+35761at5125	Missing
+35779at5125	Missing
+35796at5125	Missing
+35801at5125	Missing
+35828at5125	Missing
+35833at5125	Missing
+35836at5125	Missing
+35847at5125	Complete	27712-Mb.00g023660.m01	411.8	313	https://www.orthodb.org/v10?query=35847at5125	myocyte-specific enhancer factor 2d
+35868at5125	Missing
+35883at5125	Missing
+35887at5125	Complete	27712-Mb.00g008560.m01	277.7	136	https://www.orthodb.org/v10?query=35887at5125	ATPase GET3
+35890at5125	Complete	27712-Mb.00g010770.m01	444.1	282	https://www.orthodb.org/v10?query=35890at5125	Epoxide hydrolase
+35897at5125	Missing
+35899at5125	Complete	27712-Mb.00g027410.m01	385.2	280	https://www.orthodb.org/v10?query=35899at5125	ergot alkaloid biosynthetic protein B
+35913at5125	Missing
+35923at5125	Missing
+35924at5125	Missing
+35926at5125	Missing
+35927at5125	Missing
+35961at5125	Missing
+35965at5125	Missing
+35967at5125	Missing
+35971at5125	Missing
+35973at5125	Missing
+35974at5125	Missing
+35992at5125	Missing
+35994at5125	Missing
+35997at5125	Missing
+36023at5125	Complete	27712-Mb.00g013410.m01	573.0	307	https://www.orthodb.org/v10?query=36023at5125	Malate/L-lactate dehydrogenase
+36026at5125	Missing
+36035at5125	Missing
+36058at5125	Missing
+36074at5125	Missing
+36077at5125	Missing
+36094at5125	Missing
+36114at5125	Missing
+36158at5125	Missing
+36174at5125	Missing
+36190at5125	Missing
+36211at5125	Complete	27712-Mb.00g045970.m01	568.2	312	https://www.orthodb.org/v10?query=36211at5125	Ribonuclease Nob1, eukaryote
+36213at5125	Missing
+36221at5125	Missing
+36238at5125	Complete	27712-Mb.00g073310.m01	530.6	262	https://www.orthodb.org/v10?query=36238at5125	Inositol oxygenase
+36269at5125	Missing
+36307at5125	Missing
+36311at5125	Missing
+36312at5125	Missing
+36328at5125	Missing
+36329at5125	Complete	27712-Mb.00g048360.m01	543.9	256	https://www.orthodb.org/v10?query=36329at5125	Stomatin family protein
+36364at5125	Missing
+36369at5125	Complete	27712-Mb.00g027890.m01	374.4	332	https://www.orthodb.org/v10?query=36369at5125	Protein BFR2
+36388at5125	Missing
+36460at5125	Missing
+36466at5125	Missing
+36476at5125	Missing
+36483at5125	Missing
+36485at5125	Missing
+36486at5125	Missing
+36493at5125	Complete	27712-Mb.00g049060.m01	438.6	220	https://www.orthodb.org/v10?query=36493at5125	4-hydroxybenzoate polyprenyltransferase, mitochondrial
+36496at5125	Complete	27712-Mb.00g034680.m01	432.0	286	https://www.orthodb.org/v10?query=36496at5125	Zinc finger domain-containing protein
+36503at5125	Missing
+36519at5125	Missing
+36540at5125	Missing
+36543at5125	Missing
+36547at5125	Missing
+36572at5125	Missing
+36597at5125	Complete	27712-Mb.00g002770.m01	327.6	200	https://www.orthodb.org/v10?query=36597at5125	oxidoreductase, 2OG-Fe(II) oxygenase family, putative
+36600at5125	Complete	27712-Mb.00g015170.m01	457.8	263	https://www.orthodb.org/v10?query=36600at5125	alkaline phosphatase
+36610at5125	Missing
+36618at5125	Missing
+36633at5125	Missing
+36663at5125	Missing
+36695at5125	Missing
+36701at5125	Missing
+36710at5125	Missing
+36713at5125	Missing
+36714at5125	Missing
+36748at5125	Missing
+36757at5125	Missing
+36818at5125	Complete	27712-Mb.00g058640.m01	242.5	149	https://www.orthodb.org/v10?query=36818at5125	Branched-chain-amino-acid aminotransferase 2
+36821at5125	Missing
+36841at5125	Missing
+36842at5125	Missing
+36843at5125	Complete	27712-Mb.00g004420.m01	537.5	335	https://www.orthodb.org/v10?query=36843at5125	zinc finger protein gcs1
+36848at5125	Missing
+36858at5125	Missing
+36866at5125	Missing
+36868at5125	Missing
+36884at5125	Missing
+36916at5125	Missing
+36969at5125	Missing
+36986at5125	Missing
+36991at5125	Missing
+37036at5125	Missing
+37071at5125	Missing
+37073at5125	Missing
+37088at5125	Missing
+37091at5125	Complete	27712-Mb.00g005370.m01	507.7	275	https://www.orthodb.org/v10?query=37091at5125	Ribonuclease III domain
+37104at5125	Complete	27712-Mb.00g030260.m01	514.5	298	https://www.orthodb.org/v10?query=37104at5125	Ribosome biogenesis protein
+37113at5125	Complete	27712-Mb.00g018500.m01	453.3	541	https://www.orthodb.org/v10?query=37113at5125	hydroxyproline-rich glycoprotein DZ-HRGP
+37118at5125	Missing
+37158at5125	Complete	27712-Mb.00g056700.m01	87.3	191	https://www.orthodb.org/v10?query=37158at5125	A0A2C5XAB9_9HYPO
+37159at5125	Missing
+37211at5125	Missing
+37216at5125	Complete	27712-Mb.00g003690.m01	328.3	175	https://www.orthodb.org/v10?query=37216at5125	Geranylgeranyl transferase type I beta subunit
+37246at5125	Missing
+37251at5125	Missing
+37256at5125	Missing
+37261at5125	Missing
+37277at5125	Missing
+37300at5125	Missing
+37320at5125	Missing
+37340at5125	Missing
+37342at5125	Missing
+37347at5125	Missing
+37363at5125	Missing
+37378at5125	Complete	27712-Mb.00g059150.m01	433.8	211	https://www.orthodb.org/v10?query=37378at5125	Mitochondrial oxaloacetate transport protein
+37390at5125	Missing
+37405at5125	Missing
+37408at5125	Missing
+37420at5125	Missing
+37433at5125	Missing
+37458at5125	Missing
+37474at5125	Missing
+37479at5125	Missing
+37493at5125	Missing
+37548at5125	Missing
+37585at5125	Complete	27712-Mb.00g063500.m01	484.0	267	https://www.orthodb.org/v10?query=37585at5125	Nucleosome assembly protein
+37586at5125	Missing
+37588at5125	Complete	27712-Mb.00g033880.m01	572.4	316	https://www.orthodb.org/v10?query=37588at5125	YagE family protein
+37611at5125	Missing
+37625at5125	Missing
+37633at5125	Complete	27712-Mb.00g033890.m01	432.1	222	https://www.orthodb.org/v10?query=37633at5125	CRAL-TRIO lipid binding domain
+37647at5125	Complete	27712-Mb.00g039200.m01	527.2	278	https://www.orthodb.org/v10?query=37647at5125	Probable COP9 signalosome subunit 5 CSN5
+37694at5125	Missing
+37700at5125	Missing
+37709at5125	Missing
+37748at5125	Missing
+37776at5125	Missing
+37791at5125	Missing
+37807at5125	Missing
+37813at5125	Missing
+37824at5125	Missing
+37830at5125	Complete	27712-Mb.00g066910.m01	262.7	175	https://www.orthodb.org/v10?query=37830at5125	Protein of unknown function DUF3712
+37849at5125	Missing
+37866at5125	Missing
+37879at5125	Missing
+37887at5125	Complete	27712-Mb.00g023700.m01	477.6	216	https://www.orthodb.org/v10?query=37887at5125	Mitochondrial FOW-1 like protein
+37906at5125	Missing
+37908at5125	Missing
+37916at5125	Missing
+37944at5125	Complete	27712-Mb.00g029240.m01	113.4	64	https://www.orthodb.org/v10?query=37944at5125	N-acetylglucosaminylphosphatidylinositol deacetylase
+37948at5125	Missing
+37955at5125	Complete	27712-Mb.00g047950.m01	562.2	271	https://www.orthodb.org/v10?query=37955at5125	Mitochondrial carrier protein
+37957at5125	Complete	27712-Mb.00g042730.m01	517.7	259	https://www.orthodb.org/v10?query=37957at5125	Phosphoadenosine phosphosulfate reductase
+38002at5125	Missing
+38008at5125	Missing
+38026at5125	Missing
+38038at5125	Complete	27712-Mb.00g040830.m01	545.4	284	https://www.orthodb.org/v10?query=38038at5125	Uracil-DNA glycosylase
+38045at5125	Complete	27712-Mb.00g016100.m01	382.9	267	https://www.orthodb.org/v10?query=38045at5125	C7Z728_NECH7
+38065at5125	Missing
+38090at5125	Missing
+38094at5125	Missing
+38110at5125	Complete	27712-Mb.00g043830.m01	514.5	297	https://www.orthodb.org/v10?query=38110at5125	CobW/HypB/UreG, nucleotide-binding domain
+38123at5125	Missing
+38163at5125	Missing
+38175at5125	Complete	27712-Mb.00g027470.m01	470.4	274	https://www.orthodb.org/v10?query=38175at5125	Cyclin
+38195at5125	Complete	27712-Mb.00g017410.m01	624.2	352	https://www.orthodb.org/v10?query=38195at5125	Ubiquitin domain
+38196at5125	Missing
+38208at5125	Missing
+38235at5125	Missing
+38249at5125	Missing
+38258at5125	Complete	27712-Mb.00g026350.m01	267.8	177	https://www.orthodb.org/v10?query=38258at5125	glycoside hydrolase family 92 protein
+38261at5125	Missing
+38266at5125	Missing
+38269at5125	Missing
+38271at5125	Missing
+38332at5125	Missing
+38340at5125	Missing
+38353at5125	Missing
+38375at5125	Complete	27712-Mb.00g049820.m01	399.0	302	https://www.orthodb.org/v10?query=38375at5125	complex 1 protein (LYR family) domain-containing protein
+38382at5125	Missing
+38383at5125	Missing
+38409at5125	Missing
+38421at5125	Missing
+38428at5125	Complete	27712-Mb.00g008190.m01	418.5	248	https://www.orthodb.org/v10?query=38428at5125	MYG1 protein
+38432at5125	Missing
+38440at5125	Missing
+38472at5125	Missing
+38496at5125	Missing
+38575at5125	Missing
+38590at5125	Missing
+38600at5125	Missing
+38620at5125	Missing
+38631at5125	Missing
+38635at5125	Missing
+38693at5125	Missing
+38748at5125	Missing
+38768at5125	Missing
+38787at5125	Missing
+38824at5125	Missing
+38827at5125	Missing
+38839at5125	Missing
+38879at5125	Complete	27712-Mb.00g025020.m01	525.3	246	https://www.orthodb.org/v10?query=38879at5125	NADH:ubiquinone oxidoreductase, 30kDa subunit
+38894at5125	Missing
+38919at5125	Missing
+38945at5125	Missing
+38946at5125	Missing
+38947at5125	Missing
+38967at5125	Complete	27712-Mb.00g013600.m01	511.6	279	https://www.orthodb.org/v10?query=38967at5125	3-ketodihydrosphingosine reductase, Tsc10
+39020at5125	Missing
+39058at5125	Missing
+39073at5125	Missing
+39094at5125	Missing
+39104at5125	Missing
+39118at5125	Missing
+39141at5125	Missing
+39144at5125	Complete	27712-Mb.00g051470.m01	393.4	291	https://www.orthodb.org/v10?query=39144at5125	Membrane anchor Opy2
+39156at5125	Missing
+39166at5125	Missing
+39230at5125	Missing
+39231at5125	Missing
+39242at5125	Complete	27712-Mb.00g022060.m01	196.4	155	https://www.orthodb.org/v10?query=39242at5125	Enoyl-CoA hydratase/isomerase
+39245at5125	Missing
+39273at5125	Complete	27712-Mb.00g040070.m01	597.8	373	https://www.orthodb.org/v10?query=39273at5125	Plasma membrane phosphatase required for sodium stress response
+39277at5125	Complete	27712-Mb.00g051200.m01	466.3	295	https://www.orthodb.org/v10?query=39277at5125	sugar isomerase, KpsF/GutQ
+39316at5125	Missing
+39318at5125	Missing
+39322at5125	Missing
+39329at5125	Missing
+39361at5125	Missing
+39364at5125	Missing
+39373at5125	Complete	27712-Mb.00g011820.m01	529.2	362	https://www.orthodb.org/v10?query=39373at5125	Zinc finger domain-containing protein, C2H2-type
+39380at5125	Missing
+39382at5125	Missing
+39391at5125	Missing
+39394at5125	Missing
+39396at5125	Missing
+39404at5125	Missing
+39409at5125	Missing
+39410at5125	Missing
+39455at5125	Missing
+39456at5125	Missing
+39464at5125	Complete	27712-Mb.00g035510.m01	512.7	253	https://www.orthodb.org/v10?query=39464at5125	Acetolactate synthase small subunit
+39475at5125	Missing
+39476at5125	Missing
+39479at5125	Missing
+39488at5125	Missing
+39490at5125	Missing
+39511at5125	Missing
+39532at5125	Missing
+39543at5125	Complete	27712-Mb.00g061220.m01	277.0	212	https://www.orthodb.org/v10?query=39543at5125	C7YLU1_NECH7
+39550at5125	Missing
+39552at5125	Missing
+39555at5125	Missing
+39587at5125	Missing
+39590at5125	Missing
+39624at5125	Missing
+39629at5125	Missing
+39674at5125	Missing
+39679at5125	Missing
+39698at5125	Missing
+39704at5125	Complete	27712-Mb.00g038440.m01	46.7	90	https://www.orthodb.org/v10?query=39704at5125	etoposide-induced protein 2.4
+39730at5125	Missing
+39765at5125	Missing
+39787at5125	Complete	27712-Mb.00g008250.m01	341.4	324	https://www.orthodb.org/v10?query=39787at5125	Proteasome subunit alpha type 6
+39811at5125	Missing
+39819at5125	Missing
+39831at5125	Missing
+39833at5125	Missing
+39834at5125	Missing
+39836at5125	Complete	27712-Mb.00g008920.m01	327.7	224	https://www.orthodb.org/v10?query=39836at5125	DnaJ domain protein
+39838at5125	Missing
+39888at5125	Missing
+39937at5125	Missing
+39956at5125	Missing
+39961at5125	Missing
+39963at5125	Missing
+39964at5125	Complete	27712-Mb.00g017760.m01	553.4	322	https://www.orthodb.org/v10?query=39964at5125	Tetratricopeptide-like helical
+40028at5125	Missing
+40039at5125	Missing
+40042at5125	Missing
+40049at5125	Missing
+40059at5125	Missing
+40081at5125	Missing
+40082at5125	Missing
+40087at5125	Missing
+40093at5125	Missing
+40105at5125	Missing
+40174at5125	Missing
+40193at5125	Missing
+40203at5125	Missing
+40207at5125	Missing
+40224at5125	Missing
+40226at5125	Missing
+40235at5125	Missing
+40242at5125	Complete	27712-Mb.00g009250.m01	495.9	275	https://www.orthodb.org/v10?query=40242at5125	extracellular cell wall glucanase Crf1
+40257at5125	Missing
+40273at5125	Missing
+40275at5125	Missing
+40291at5125	Missing
+40359at5125	Missing
+40365at5125	Missing
+40380at5125	Missing
+40394at5125	Missing
+40407at5125	Missing
+40439at5125	Missing
+40485at5125	Missing
+40519at5125	Complete	27712-Mb.00g029420.m01	230.6	145	https://www.orthodb.org/v10?query=40519at5125	Zinc finger, C2H2-type/integrase, DNA-binding protein
+40522at5125	Missing
+40525at5125	Complete	27712-Mb.00g053120.m01	334.4	354	https://www.orthodb.org/v10?query=40525at5125	C7YSD4_NECH7
+40557at5125	Complete	27712-Mb.00g067750.m01	389.1	195	https://www.orthodb.org/v10?query=40557at5125	Surfeit locus 4
+40566at5125	Complete	27712-Mb.00g059940.m01	325.0	175	https://www.orthodb.org/v10?query=40566at5125	SURF1-like protein
+40592at5125	Missing
+40600at5125	Missing
+40604at5125	Missing
+40617at5125	Complete	27712-Mb.00g065660.m01	530.1	270	https://www.orthodb.org/v10?query=40617at5125	Valyl-tRNA synthetase
+40638at5125	Missing
+40683at5125	Complete	27712-Mb.00g051410.m01	374.5	201	https://www.orthodb.org/v10?query=40683at5125	Dienelactone hydrolase
+40684at5125	Missing
+40687at5125	Missing
+40697at5125	Missing
+40711at5125	Missing
+40715at5125	Complete	27712-Mb.00g069440.m01	284.7	157	https://www.orthodb.org/v10?query=40715at5125	RNA cap guanine-N2 methyltransferase
+40756at5125	Missing
+40762at5125	Missing
+40788at5125	Missing
+40813at5125	Missing
+40821at5125	Missing
+40822at5125	Missing
+40828at5125	Missing
+40829at5125	Complete	27712-Mb.00g002270.m01	466.9	357	https://www.orthodb.org/v10?query=40829at5125	chromatin assembly complex, subunit p90
+40844at5125	Missing
+40873at5125	Missing
+40874at5125	Missing
+40878at5125	Missing
+40886at5125	Missing
+40905at5125	Missing
+40909at5125	Missing
+40922at5125	Missing
+40925at5125	Missing
+40936at5125	Missing
+40982at5125	Complete	27712-Mb.00g049310.m01	579.9	411	https://www.orthodb.org/v10?query=40982at5125	Nucleoporin NUP49/NSP49
+40998at5125	Missing
+41018at5125	Complete	27712-Mb.00g064050.m01	363.3	201	https://www.orthodb.org/v10?query=41018at5125	Ribosomal protein S5 domain 2-type fold
+41029at5125	Missing
+41035at5125	Missing
+41038at5125	Missing
+41079at5125	Missing
+41086at5125	Missing
+41090at5125	Missing
+41091at5125	Missing
+41094at5125	Complete	27712-Mb.00g018140.m01	494.3	250	https://www.orthodb.org/v10?query=41094at5125	Probable carnitine/acyl carnitine carrier
+41095at5125	Missing
+41123at5125	Missing
+41170at5125	Missing
+41180at5125	Missing
+41192at5125	Missing
+41213at5125	Missing
+41234at5125	Missing
+41286at5125	Missing
+41296at5125	Missing
+41298at5125	Missing
+41329at5125	Missing
+41331at5125	Missing
+41343at5125	Missing
+41346at5125	Missing
+41373at5125	Missing
+41401at5125	Missing
+41405at5125	Missing
+41406at5125	Missing
+41417at5125	Complete	27712-Mb.00g028450.m01	449.1	220	https://www.orthodb.org/v10?query=41417at5125	ubiquitin-conjugating enzyme
+41443at5125	Missing
+41467at5125	Missing
+41470at5125	Missing
+41481at5125	Missing
+41561at5125	Complete	27712-Mb.00g033950.m01	316.7	214	https://www.orthodb.org/v10?query=41561at5125	Zinc finger, RING/FYVE/PHD-type
+41564at5125	Complete	27712-Mb.00g063360.m01	330.7	246	https://www.orthodb.org/v10?query=41564at5125	Protein of unknown function DUF1769
+41592at5125	Missing
+41595at5125	Complete	27712-Mb.00g052640.m01	503.4	241	https://www.orthodb.org/v10?query=41595at5125	Prohibitin-1
+41598at5125	Complete	27712-Mb.00g021970.m01	330.0	196	https://www.orthodb.org/v10?query=41598at5125	UDP-N-acetylglucosamine transferase subunit ALG14
+41604at5125	Missing
+41609at5125	Missing
+41668at5125	Missing
+41671at5125	Complete	27712-Mb.00g051800.m01	561.3	274	https://www.orthodb.org/v10?query=41671at5125	Mitochondrial carrier domain protein
+41674at5125	Missing
+41681at5125	Missing
+41691at5125	Complete	27712-Mb.00g032870.m01	387.3	294	https://www.orthodb.org/v10?query=41691at5125	Argonaute complex, subunit Arb1
+41692at5125	Missing
+41770at5125	Missing
+41789at5125	Missing
+41792at5125	Missing
+41794at5125	Missing
+41796at5125	Missing
+41805at5125	Missing
+41853at5125	Missing
+41864at5125	Missing
+41926at5125	Missing
+41928at5125	Missing
+41929at5125	Missing
+41930at5125	Missing
+41936at5125	Missing
+41948at5125	Missing
+41962at5125	Missing
+41963at5125	Complete	27712-Mb.00g014030.m01	284.0	154	https://www.orthodb.org/v10?query=41963at5125	Phosphoserine phosphatase
+41970at5125	Missing
+41974at5125	Missing
+41989at5125	Missing
+41990at5125	Missing
+41994at5125	Missing
+42045at5125	Missing
+42054at5125	Missing
+42086at5125	Missing
+42111at5125	Missing
+42115at5125	Missing
+42123at5125	Missing
+42133at5125	Missing
+42140at5125	Missing
+42143at5125	Missing
+42158at5125	Missing
+42175at5125	Missing
+42179at5125	Missing
+42187at5125	Missing
+42196at5125	Missing
+42200at5125	Missing
+42258at5125	Missing
+42297at5125	Missing
+42298at5125	Missing
+42302at5125	Missing
+42319at5125	Missing
+42336at5125	Missing
+42379at5125	Missing
+42382at5125	Missing
+42399at5125	Missing
+42401at5125	Missing
+42416at5125	Missing
+42439at5125	Complete	27712-Mb.00g065450.m01	377.4	251	https://www.orthodb.org/v10?query=42439at5125	Chromosome segregation protein SMC-like
+42446at5125	Missing
+42447at5125	Missing
+42465at5125	Missing
+42466at5125	Complete	27712-Mb.00g065930.m01	324.1	177	https://www.orthodb.org/v10?query=42466at5125	Proteasome subunit beta
+42488at5125	Missing
+42493at5125	Missing
+42504at5125	Missing
+42511at5125	Missing
+42524at5125	Complete	27712-Mb.00g047930.m01	405.1	225	https://www.orthodb.org/v10?query=42524at5125	Glucosamine 6-phosphate N-acetyltransferase
+42531at5125	Missing
+42533at5125	Complete	27712-Mb.00g041980.m01	256.0	174	https://www.orthodb.org/v10?query=42533at5125	phosphopantetheinyl transferase
+42534at5125	Missing
+42537at5125	Missing
+42553at5125	Missing
+42557at5125	Missing
+42603at5125	Missing
+42619at5125	Missing
+42640at5125	Missing
+42643at5125	Missing
+42648at5125	Missing
+42652at5125	Missing
+42670at5125	Missing
+42672at5125	Missing
+42689at5125	Missing
+42700at5125	Missing
+42724at5125	Missing
+42730at5125	Missing
+42732at5125	Missing
+42736at5125	Missing
+42737at5125	Missing
+42741at5125	Missing
+42750at5125	Missing
+42770at5125	Missing
+42774at5125	Missing
+42780at5125	Missing
+42789at5125	Missing
+42793at5125	Missing
+42813at5125	Complete	27712-Mb.00g016570.m01	355.2	206	https://www.orthodb.org/v10?query=42813at5125	Zinc finger, GATA-type
+42833at5125	Missing
+42893at5125	Missing
+42901at5125	Missing
+42916at5125	Missing
+42945at5125	Missing
+42968at5125	Missing
+42988at5125	Missing
+43029at5125	Missing
+43047at5125	Complete	27712-Mb.00g043740.m01	372.3	224	https://www.orthodb.org/v10?query=43047at5125	Urease accessory protein
+43126at5125	Complete	27712-Mb.00g012340.m01	258.2	181	https://www.orthodb.org/v10?query=43126at5125	Mannose-6-phosphate receptor, binding protein
+43131at5125	Missing
+43135at5125	Missing
+43166at5125	Complete	27712-Mb.00g009180.m01	449.4	208	https://www.orthodb.org/v10?query=43166at5125	14-3-3 protein
+43171at5125	Complete	27712-Mb.00g011210.m01	422.9	290	https://www.orthodb.org/v10?query=43171at5125	C7YR34_NECH7
+43177at5125	Complete	27712-Mb.00g006530.m01	339.3	209	https://www.orthodb.org/v10?query=43177at5125	Zinc finger, RING-CH-type
+43202at5125	Complete	27712-Mb.00g008240.m01	451.1	256	https://www.orthodb.org/v10?query=43202at5125	Phytanoyl-CoA dioxygenase family protein
+43205at5125	Missing
+43220at5125	Missing
+43235at5125	Missing
+43242at5125	Missing
+43249at5125	Missing
+43252at5125	Complete	27712-Mb.00g066110.m01	276.5	156	https://www.orthodb.org/v10?query=43252at5125	CS domain
+43274at5125	Complete	27712-Mb.00g030220.m01	610.7	421	https://www.orthodb.org/v10?query=43274at5125	ribosome biogenesis protein Rrp14-C
+43302at5125	Missing
+43305at5125	Missing
+43324at5125	Missing
+43341at5125	Missing
+43368at5125	Complete	27712-Mb.00g059660.m01	388.3	211	https://www.orthodb.org/v10?query=43368at5125	rRNA 2'-O-methyltransferase fibrillarin
+43381at5125	Missing
+43395at5125	Missing
+43403at5125	Missing
+43418at5125	Complete	27712-Mb.00g032360.m01	459.8	271	https://www.orthodb.org/v10?query=43418at5125	Putative lysophosphatidic acid
+43421at5125	Missing
+43438at5125	Complete	27712-Mb.00g051100.m01	477.0	300	https://www.orthodb.org/v10?query=43438at5125	Xylose isomerase
+43450at5125	Missing
+43461at5125	Missing
+43474at5125	Missing
+43484at5125	Missing
+43488at5125	Missing
+43524at5125	Missing
+43532at5125	Missing
+43542at5125	Complete	27712-Mb.00g048330.m01	412.3	258	https://www.orthodb.org/v10?query=43542at5125	Ribosomal protein S15
+43557at5125	Missing
+43558at5125	Missing
+43607at5125	Missing
+43627at5125	Missing
+43630at5125	Complete	27712-Mb.00g027190.m01	271.8	115	https://www.orthodb.org/v10?query=43630at5125	TATA-box binding protein
+43646at5125	Missing
+43647at5125	Missing
+43661at5125	Complete	27712-Mb.00g067550.m01	480.3	251	https://www.orthodb.org/v10?query=43661at5125	Proteasome subunit alpha type
+43670at5125	Missing
+43721at5125	Missing
+43726at5125	Missing
+43741at5125	Missing
+43744at5125	Missing
+43759at5125	Missing
+43793at5125	Missing
+43809at5125	Missing
+43810at5125	Missing
+43827at5125	Missing
+43841at5125	Missing
+43844at5125	Missing
+43894at5125	Missing
+43903at5125	Missing
+43904at5125	Missing
+43921at5125	Complete	27712-Mb.00g051720.m01	448.2	290	https://www.orthodb.org/v10?query=43921at5125	Related to MAG1-3-methyladenine DNA glycosylase
+43941at5125	Missing
+43944at5125	Missing
+43955at5125	Missing
+43957at5125	Missing
+43979at5125	Missing
+43989at5125	Missing
+44017at5125	Missing
+44031at5125	Missing
+44054at5125	Missing
+44063at5125	Missing
+44074at5125	Missing
+44078at5125	Missing
+44101at5125	Missing
+44102at5125	Missing
+44139at5125	Missing
+44171at5125	Missing
+44177at5125	Missing
+44183at5125	Missing
+44188at5125	Missing
+44198at5125	Complete	27712-Mb.00g039240.m01	410.0	392	https://www.orthodb.org/v10?query=44198at5125	RNA recognition motif containing protein
+44201at5125	Missing
+44233at5125	Missing
+44249at5125	Missing
+44258at5125	Missing
+44291at5125	Missing
+44315at5125	Missing
+44316at5125	Missing
+44329at5125	Missing
+44348at5125	Missing
+44364at5125	Missing
+44396at5125	Missing
+44397at5125	Missing
+44404at5125	Complete	27712-Mb.00g024070.m01	379.4	177	https://www.orthodb.org/v10?query=44404at5125	Scaffold protein Nfu/NifU, N-terminal
+44446at5125	Missing
+44450at5125	Missing
+44471at5125	Missing
+44486at5125	Missing
+44489at5125	Missing
+44491at5125	Missing
+44508at5125	Missing
+44517at5125	Missing
+44525at5125	Missing
+44533at5125	Missing
+44534at5125	Missing
+44538at5125	Missing
+44539at5125	Missing
+44564at5125	Missing
+44580at5125	Missing
+44596at5125	Missing
+44604at5125	Missing
+44618at5125	Missing
+44636at5125	Missing
+44648at5125	Missing
+44651at5125	Missing
+44657at5125	Complete	27712-Mb.00g000780.m01	239.5	135	https://www.orthodb.org/v10?query=44657at5125	short-chain dehydrogenase
+44699at5125	Missing
+44713at5125	Missing
+44728at5125	Missing
+44764at5125	Missing
+44768at5125	Missing
+44792at5125	Missing
+44796at5125	Missing
+44806at5125	Missing
+44813at5125	Complete	27712-Mb.00g063720.m01	95.7	88	https://www.orthodb.org/v10?query=44813at5125	protein tyrosine phosphatase activity
+44852at5125	Missing
+44862at5125	Missing
+44863at5125	Missing
+44891at5125	Missing
+44903at5125	Missing
+44915at5125	Complete	27712-Mb.00g041310.m01	355.9	201	https://www.orthodb.org/v10?query=44915at5125	C7YIE2_NECH7
+44930at5125	Missing
+44945at5125	Complete	27712-Mb.00g050160.m01	451.7	289	https://www.orthodb.org/v10?query=44945at5125	Nucleotide-binding, alpha-beta plait
+44954at5125	Complete	27712-Mb.00g017880.m01	341.8	173	https://www.orthodb.org/v10?query=44954at5125	Cysteine dioxygenase
+44989at5125	Missing
+45025at5125	Missing
+45033at5125	Complete	27712-Mb.00g029600.m01	421.4	228	https://www.orthodb.org/v10?query=45033at5125	26S proteasome non-ATPase regulatory subunit 8
+45051at5125	Missing
+45093at5125	Missing
+45104at5125	Missing
+45109at5125	Missing
+45152at5125	Missing
+45153at5125	Missing
+45157at5125	Missing
+45160at5125	Missing
+45166at5125	Missing
+45174at5125	Missing
+45175at5125	Complete	27712-Mb.00g032340.m01	140.9	129	https://www.orthodb.org/v10?query=45175at5125	Esterase-like protein
+45176at5125	Missing
+45186at5125	Complete	27712-Mb.00g017720.m01	402.6	282	https://www.orthodb.org/v10?query=45186at5125	TAP42-like protein
+45187at5125	Missing
+45201at5125	Complete	27712-Mb.00g073080.m01	1911.1	285	https://www.orthodb.org/v10?query=45201at5125	Velvet domain
+45202at5125	Missing
+45220at5125	Missing
+45237at5125	Missing
+45274at5125	Missing
+45296at5125	Missing
+45299at5125	Missing
+45322at5125	Missing
+45331at5125	Missing
+45332at5125	Missing
+45355at5125	Missing
+45366at5125	Missing
+45368at5125	Missing
+45369at5125	Missing
+45370at5125	Missing
+45378at5125	Missing
+45456at5125	Missing
+45469at5125	Missing
+45500at5125	Missing
+45504at5125	Missing
+45515at5125	Complete	27712-Mb.00g029550.m01	419.3	228	https://www.orthodb.org/v10?query=45515at5125	Winged helix-like DNA-binding domain superfamily
+45561at5125	Missing
+45569at5125	Missing
+45571at5125	Missing
+45582at5125	Complete	27712-Mb.00g039690.m01	322.9	205	https://www.orthodb.org/v10?query=45582at5125	Glutathione S-transferase
+45590at5125	Missing
+45593at5125	Complete	27712-Mb.00g010740.m01	384.5	217	https://www.orthodb.org/v10?query=45593at5125	pre-mRNA splicing factor syf2
+45616at5125	Missing
+45647at5125	Complete	27712-Mb.00g043010.m01	355.9	208	https://www.orthodb.org/v10?query=45647at5125	Dihydrofolate reductase
+45689at5125	Missing
+45699at5125	Complete	27712-Mb.00g040880.m01	459.7	257	https://www.orthodb.org/v10?query=45699at5125	Transcription elongation factor S-II
+45703at5125	Missing
+45705at5125	Missing
+45716at5125	Missing
+45736at5125	Missing
+45756at5125	Missing
+45758at5125	Missing
+45790at5125	Complete	27712-Mb.00g023780.m01	433.8	210	https://www.orthodb.org/v10?query=45790at5125	secretion related GTPase SrgD
+45820at5125	Missing
+45822at5125	Missing
+45828at5125	Missing
+45835at5125	Missing
+45843at5125	Missing
+45845at5125	Missing
+45884at5125	Missing
+45906at5125	Missing
+45921at5125	Missing
+45924at5125	Missing
+45935at5125	Missing
+45953at5125	Missing
+45954at5125	Missing
+45956at5125	Missing
+45965at5125	Missing
+45968at5125	Missing
+45974at5125	Missing
+46001at5125	Missing
+46008at5125	Missing
+46055at5125	Missing
+46078at5125	Complete	27712-Mb.00g018460.m01	266.4	150	https://www.orthodb.org/v10?query=46078at5125	related to Y.lipolytica glyoxylate pathway regulator GPR1
+46097at5125	Complete	27712-Mb.00g063980.m01	479.4	254	https://www.orthodb.org/v10?query=46097at5125	Zinc finger protein RTS2
+46111at5125	Missing
+46123at5125	Missing
+46124at5125	Missing
+46141at5125	Missing
+46161at5125	Missing
+46175at5125	Missing
+46195at5125	Missing
+46196at5125	Missing
+46203at5125	Missing
+46206at5125	Missing
+46233at5125	Complete	27712-Mb.00g014450.m01	153.0	84	https://www.orthodb.org/v10?query=46233at5125	Probable Presequence translocated-associated motor subunit PAM17, mitochondrial
+46253at5125	Missing
+46254at5125	Missing
+46269at5125	Missing
+46289at5125	Complete	27712-Mb.00g057860.m01	232.7	247	https://www.orthodb.org/v10?query=46289at5125	C7YYL8_NECH7
+46293at5125	Missing
+46313at5125	Missing
+46316at5125	Missing
+46318at5125	Missing
+46327at5125	Missing
+46341at5125	Complete	27712-Mb.00g015570.m01	334.9	225	https://www.orthodb.org/v10?query=46341at5125	uv-damaged DNA-binding protein
+46346at5125	Missing
+46361at5125	Missing
+46365at5125	Missing
+46370at5125	Missing
+46381at5125	Complete	27712-Mb.00g029510.m01	292.9	183	https://www.orthodb.org/v10?query=46381at5125	Superoxide dismutase copper chaperone
+46397at5125	Complete	27712-Mb.00g007960.m01	345.7	248	https://www.orthodb.org/v10?query=46397at5125	SNARE
+46405at5125	Complete	27712-Mb.00g019790.m01	182.4	153	https://www.orthodb.org/v10?query=46405at5125	U6 snRNA phosphodiesterase
+46416at5125	Missing
+46430at5125	Missing
+46431at5125	Missing
+46440at5125	Missing
+46443at5125	Missing
+46444at5125	Complete	27712-Mb.00g072700.m01	321.2	174	https://www.orthodb.org/v10?query=46444at5125	Monothiol glutaredoxin-4
+46446at5125	Missing
+46455at5125	Missing
+46493at5125	Complete	27712-Mb.00g061910.m01	212.5	128	https://www.orthodb.org/v10?query=46493at5125	Pyridoxine
+46534at5125	Missing
+46538at5125	Missing
+46547at5125	Missing
+46550at5125	Missing
+46561at5125	Missing
+46581at5125	Missing
+46602at5125	Missing
+46642at5125	Complete	27712-Mb.00g064300.m01	226.2	146	https://www.orthodb.org/v10?query=46642at5125	Cystinosin
+46651at5125	Missing
+46673at5125	Complete	27712-Mb.00g052670.m01	151.5	100	https://www.orthodb.org/v10?query=46673at5125	Glycoside hydrolase
+46680at5125	Complete	27712-Mb.00g068440.m01	82.1	75	https://www.orthodb.org/v10?query=46680at5125	Predicted protein
+46681at5125	Missing
+46683at5125	Missing
+46685at5125	Missing
+46752at5125	Missing
+46787at5125	Missing
+46819at5125	Missing
+46830at5125	Missing
+46833at5125	Missing
+46842at5125	Missing
+46847at5125	Complete	27712-Mb.00g067980.m01	338.5	251	https://www.orthodb.org/v10?query=46847at5125	Tetratricopeptide-like helical
+46859at5125	Missing
+46890at5125	Missing
+46895at5125	Missing
+46899at5125	Missing
+46903at5125	Missing
+46913at5125	Missing
+46916at5125	Missing
+46970at5125	Missing
+46974at5125	Missing
+46980at5125	Missing
+47013at5125	Missing
+47023at5125	Missing
+47030at5125	Missing
+47055at5125	Missing
+47058at5125	Complete	27712-Mb.00g060400.m01	375.4	206	https://www.orthodb.org/v10?query=47058at5125	FMN-binding split barrel-related protein
+47092at5125	Missing
+47104at5125	Complete	27712-Mb.00g017450.m01	282.6	169	https://www.orthodb.org/v10?query=47104at5125	Ribosomal protein L47, mitochondrial
+47108at5125	Missing
+47115at5125	Missing
+47121at5125	Missing
+47126at5125	Missing
+47138at5125	Missing
+47165at5125	Missing
+47183at5125	Missing
+47201at5125	Missing
+47243at5125	Missing
+47257at5125	Missing
+47261at5125	Missing
+47267at5125	Missing
+47274at5125	Missing
+47278at5125	Missing
+47288at5125	Missing
+47301at5125	Missing
+47305at5125	Missing
+47307at5125	Missing
+47310at5125	Missing
+47311at5125	Missing
+47329at5125	Missing
+47337at5125	Missing
+47349at5125	Missing
+47354at5125	Missing
+47404at5125	Missing
+47452at5125	Missing
+47489at5125	Missing
+47490at5125	Missing
+47511at5125	Missing
+47527at5125	Missing
+47532at5125	Missing
+47539at5125	Missing
+47574at5125	Missing
+47575at5125	Missing
+47577at5125	Missing
+47605at5125	Missing
+47618at5125	Missing
+47630at5125	Complete	27712-Mb.00g057850.m01	366.8	206	https://www.orthodb.org/v10?query=47630at5125	Mitochondrial import inner membrane translocase subunit tim23
+47646at5125	Missing
+47652at5125	Missing
+47689at5125	Missing
+47703at5125	Missing
+47712at5125	Missing
+47730at5125	Missing
+47739at5125	Missing
+47750at5125	Missing
+47764at5125	Missing
+47838at5125	Missing
+47876at5125	Missing
+47882at5125	Missing
+47902at5125	Missing
+47915at5125	Missing
+47940at5125	Missing
+47946at5125	Missing
+47993at5125	Missing
+48004at5125	Missing
+48005at5125	Complete	27712-Mb.00g034280.m01	527.9	136	https://www.orthodb.org/v10?query=48005at5125	mitochondrial peptidyl-tRNA hydrolase
+48008at5125	Missing
+48035at5125	Missing
+48055at5125	Missing
+48078at5125	Missing
+48135at5125	Complete	27712-Mb.00g068140.m01	404.0	277	https://www.orthodb.org/v10?query=48135at5125	Sec20 domain protein
+48154at5125	Missing
+48160at5125	Missing
+48173at5125	Missing
+48183at5125	Missing
+48239at5125	Missing
+48241at5125	Missing
+48260at5125	Missing
+48265at5125	Missing
+48276at5125	Missing
+48283at5125	Complete	27712-Mb.00g026930.m01	254.6	148	https://www.orthodb.org/v10?query=48283at5125	Phosphatidyl-N-methylethanolamine N-methyltransferase
+48290at5125	Missing
+48298at5125	Missing
+48305at5125	Complete	27712-Mb.00g029340.m01	1106.3	180	https://www.orthodb.org/v10?query=48305at5125	SAS complex, SAS5 subunit/transcription initiation factor IID, subunit 14
+48315at5125	Missing
+48332at5125	Missing
+48333at5125	Missing
+48340at5125	Missing
+48343at5125	Complete	27712-Mb.00g053540.m01	282.1	172	https://www.orthodb.org/v10?query=48343at5125	phosphopantothenoylcysteine decarboxylase
+48396at5125	Missing
+48419at5125	Missing
+48427at5125	Missing
+48444at5125	Missing
+48445at5125	Complete	27712-Mb.00g033330.m01	308.6	205	https://www.orthodb.org/v10?query=48445at5125	Adaptin ear-binding coat-associated protein 2
+48461at5125	Missing
+48470at5125	Missing
+48484at5125	Missing
+48499at5125	Missing
+48505at5125	Complete	27712-Mb.00g024430.m01	215.8	164	https://www.orthodb.org/v10?query=48505at5125	ankyrin repeat domain protein, putative
+48506at5125	Missing
+48527at5125	Missing
+48534at5125	Missing
+48593at5125	Missing
+48607at5125	Missing
+48624at5125	Complete	27712-Mb.00g039710.m01	173.0	141	https://www.orthodb.org/v10?query=48624at5125	Related to MTW1 Determining metaphase spindle length
+48627at5125	Missing
+48640at5125	Missing
+48641at5125	Missing
+48657at5125	Missing
+48680at5125	Complete	27712-Mb.00g018700.m01	220.8	110	https://www.orthodb.org/v10?query=48680at5125	peptide methionine sulfoxide
+48683at5125	Complete	27712-Mb.00g010880.m01	258.5	159	https://www.orthodb.org/v10?query=48683at5125	Protein RER1
+48696at5125	Missing
+48704at5125	Missing
+48709at5125	Missing
+48713at5125	Complete	27712-Mb.00g069650.m01	276.0	165	https://www.orthodb.org/v10?query=48713at5125	HAD superfamily
+48728at5125	Missing
+48767at5125	Missing
+48771at5125	Complete	27712-Mb.00g057990.m01	275.1	151	https://www.orthodb.org/v10?query=48771at5125	Probable VPS21-GTP-binding protein
+48785at5125	Missing
+48795at5125	Missing
+48821at5125	Missing
+48828at5125	Missing
+48835at5125	Missing
+48871at5125	Missing
+48875at5125	Missing
+48888at5125	Complete	27712-Mb.00g061350.m01	155.5	114	https://www.orthodb.org/v10?query=48888at5125	Tetraspanin
+48912at5125	Missing
+48921at5125	Missing
+48922at5125	Missing
+48950at5125	Missing
+48972at5125	Missing
+48984at5125	Missing
+48992at5125	Missing
+48997at5125	Missing
+49002at5125	Missing
+49005at5125	Missing
+49009at5125	Missing
+49053at5125	Missing
+49061at5125	Missing
+49097at5125	Missing
+49104at5125	Missing
+49123at5125	Missing
+49133at5125	Missing
+49191at5125	Missing
+49201at5125	Missing
+49224at5125	Missing
+49229at5125	Missing
+49230at5125	Missing
+49246at5125	Complete	27712-Mb.00g015470.m01	476.0	363	https://www.orthodb.org/v10?query=49246at5125	H/ACA ribonucleoprotein complex non-core subunit NAF1
+49286at5125	Missing
+49312at5125	Missing
+49356at5125	Complete	27712-Mb.00g011510.m01	414.3	309	https://www.orthodb.org/v10?query=49356at5125	Coiled-coil domain-containing protein 55
+49363at5125	Missing
+49402at5125	Missing
+49403at5125	Missing
+49412at5125	Missing
+49423at5125	Missing
+49461at5125	Missing
+49463at5125	Missing
+49481at5125	Missing
+49498at5125	Complete	27712-Mb.00g031140.m01	326.8	230	https://www.orthodb.org/v10?query=49498at5125	ammecr1 family protein
+49502at5125	Missing
+49517at5125	Missing
+49525at5125	Missing
+49558at5125	Missing
+49567at5125	Complete	27712-Mb.00g035580.m01	353.9	228	https://www.orthodb.org/v10?query=49567at5125	Sde2 N-terminal domain
+49568at5125	Complete	27712-Mb.00g050300.m01	189.5	134	https://www.orthodb.org/v10?query=49568at5125	integral membrane protein
+49585at5125	Missing
+49615at5125	Missing
+49617at5125	Missing
+49623at5125	Missing
+49628at5125	Missing
+49644at5125	Missing
+49659at5125	Missing
+49683at5125	Missing
+49699at5125	Missing
+49733at5125	Complete	27712-Mb.00g055750.m01	150.3	74	https://www.orthodb.org/v10?query=49733at5125	Glucosamine 6-phosphate N-acetyltransferase
+49740at5125	Complete	27712-Mb.00g073260.m01	324.0	160	https://www.orthodb.org/v10?query=49740at5125	PPPDE putative peptidase domain
+49751at5125	Missing
+49758at5125	Missing
+49787at5125	Complete	27712-Mb.00g028900.m01	153.0	145	https://www.orthodb.org/v10?query=49787at5125	cell cycle control protein
+49808at5125	Missing
+49832at5125	Missing
+49833at5125	Missing
+49836at5125	Missing
+49865at5125	Missing
+49911at5125	Missing
+49923at5125	Missing
+49941at5125	Missing
+49962at5125	Missing
+49971at5125	Missing
+49982at5125	Missing
+49998at5125	Complete	27712-Mb.00g006590.m01	253.5	285	https://www.orthodb.org/v10?query=49998at5125	Stc1 domain-containing protein
+50000at5125	Missing
+50003at5125	Missing
+50018at5125	Missing
+50030at5125	Missing
+50032at5125	Missing
+50037at5125	Missing
+50050at5125	Missing
+50054at5125	Complete	27712-Mb.00g027980.m01	395.7	297	https://www.orthodb.org/v10?query=50054at5125	predicted protein
+50066at5125	Missing
+50082at5125	Missing
+50084at5125	Missing
+50111at5125	Complete	27712-Mb.00g042390.m01	229.4	157	https://www.orthodb.org/v10?query=50111at5125	Octanoyltransferase
+50113at5125	Missing
+50121at5125	Missing
+50142at5125	Complete	27712-Mb.00g075130.m01	149.9	72	https://www.orthodb.org/v10?query=50142at5125	Mitotic spindle checkpoint component mad2
+50143at5125	Missing
+50164at5125	Missing
+50198at5125	Missing
+50202at5125	Missing
+50209at5125	Missing
+50214at5125	Missing
+50223at5125	Missing
+50236at5125	Missing
+50245at5125	Missing
+50247at5125	Complete	27712-Mb.00g052490.m01	180.6	125	https://www.orthodb.org/v10?query=50247at5125	Zinc finger, CCHC-type
+50279at5125	Missing
+50308at5125	Missing
+50316at5125	Missing
+50335at5125	Missing
+50349at5125	Missing
+50369at5125	Missing
+50370at5125	Missing
+50374at5125	Missing
+50383at5125	Missing
+50406at5125	Missing
+50460at5125	Missing
+50477at5125	Missing
+50488at5125	Missing
+50505at5125	Missing
+50552at5125	Complete	27712-Mb.00g013950.m01	443.2	359	https://www.orthodb.org/v10?query=50552at5125	Transcription regulator HTH, APSES-type DNA-binding domain protein
+50571at5125	Missing
+50581at5125	Missing
+50582at5125	Missing
+50591at5125	Missing
+50594at5125	Missing
+50606at5125	Missing
+50611at5125	Complete	27712-Mb.00g012530.m01	108.9	82	https://www.orthodb.org/v10?query=50611at5125	Flavin-binding monooxygenase-like protein
+50614at5125	Missing
+50634at5125	Missing
+50650at5125	Missing
+50657at5125	Missing
+50659at5125	Complete	27712-Mb.00g051110.m01	67.5	65	https://www.orthodb.org/v10?query=50659at5125	UDP-N-acetylglucosamine transferase subunit ALG13
+50662at5125	Missing
+50667at5125	Missing
+50674at5125	Missing
+50691at5125	Missing
+50708at5125	Missing
+50715at5125	Missing
+50716at5125	Missing
+50717at5125	Complete	27712-Mb.00g068520.m01	20.3	23	https://www.orthodb.org/v10?query=50717at5125	Gamma-glutamylcyclotransferase
+50722at5125	Missing
+50724at5125	Missing
+50741at5125	Missing
+50758at5125	Missing
+50775at5125	Missing
+50776at5125	Missing
+50780at5125	Missing
+50781at5125	Complete	27712-Mb.00g051320.m01	344.1	203	https://www.orthodb.org/v10?query=50781at5125	Immunoglobulin E-set
+50785at5125	Missing
+50789at5125	Missing
+50790at5125	Missing
+50799at5125	Missing
+50859at5125	Missing
+50872at5125	Missing
+50879at5125	Missing
+50898at5125	Complete	27712-Mb.00g023370.m01	272.9	166	https://www.orthodb.org/v10?query=50898at5125	mitochondrion organization and biogenesis protein
+50925at5125	Missing
+50931at5125	Missing
+50942at5125	Missing
+50968at5125	Missing
+50987at5125	Missing
+51009at5125	Missing
+51013at5125	Missing
+51014at5125	Complete	27712-Mb.00g049410.m01	205.6	184	https://www.orthodb.org/v10?query=51014at5125	allergen Asp F4-like protein
+51018at5125	Missing
+51021at5125	Missing
+51024at5125	Missing
+51044at5125	Missing
+51046at5125	Missing
+51048at5125	Missing
+51050at5125	Missing
+51076at5125	Missing
+51080at5125	Missing
+51142at5125	Missing
+51157at5125	Missing
+51159at5125	Missing
+51187at5125	Missing
+51188at5125	Complete	27712-Mb.00g044170.m01	186.2	133	https://www.orthodb.org/v10?query=51188at5125	Ankyrin repeat-containing domain
+51210at5125	Missing
+51243at5125	Missing
+51259at5125	Missing
+51307at5125	Complete	27712-Mb.00g019590.m01	251.2	117	https://www.orthodb.org/v10?query=51307at5125	Nuclear movement protein nudC
+51316at5125	Missing
+51319at5125	Complete	27712-Mb.00g000650.m01	190.8	184	https://www.orthodb.org/v10?query=51319at5125	Ribonucleotide reductase inhibitor
+51353at5125	Missing
+51357at5125	Missing
+51360at5125	Missing
+51373at5125	Complete	27712-Mb.00g066620.m01	311.0	166	https://www.orthodb.org/v10?query=51373at5125	Related to SHR3-endoplasmatic reticulum membrane protein
+51374at5125	Missing
+51410at5125	Missing
+51417at5125	Missing
+51427at5125	Missing
+51434at5125	Missing
+51440at5125	Missing
+51451at5125	Complete	27712-Mb.00g033110.m01	221.5	149	https://www.orthodb.org/v10?query=51451at5125	Transmembrane domain-containing protein
+51460at5125	Missing
+51501at5125	Missing
+51508at5125	Missing
+51513at5125	Missing
+51529at5125	Complete	27712-Mb.00g023300.m01	223.7	186	https://www.orthodb.org/v10?query=51529at5125	axonemal dynein light chain domain-containing protein
+51537at5125	Missing
+51539at5125	Complete	27712-Mb.00g010940.m01	358.9	232	https://www.orthodb.org/v10?query=51539at5125	DnaJ domain
+51548at5125	Complete	27712-Mb.00g014540.m01	255.1	151	https://www.orthodb.org/v10?query=51548at5125	Nuclear transport factor 2
+51550at5125	Missing
+51585at5125	Missing
+51624at5125	Missing
+51628at5125	Complete	27712-Mb.00g027380.m01	159.3	120	https://www.orthodb.org/v10?query=51628at5125	PAS domain
+51631at5125	Complete	27712-Mb.00g006500.m01	279.0	171	https://www.orthodb.org/v10?query=51631at5125	Peptidyl-tRNA hydrolase 2
+51654at5125	Missing
+51680at5125	Missing
+51686at5125	Missing
+51714at5125	Missing
+51719at5125	Complete	27712-Mb.00g050790.m01	212.6	119	https://www.orthodb.org/v10?query=51719at5125	GAF domain nucleotide-binding protein
+51722at5125	Missing
+51726at5125	Missing
+51744at5125	Missing
+51765at5125	Missing
+51776at5125	Missing
+51782at5125	Missing
+51807at5125	Missing
+51817at5125	Missing
+51843at5125	Missing
+51859at5125	Missing
+51882at5125	Missing
+51892at5125	Missing
+51901at5125	Missing
+51902at5125	Missing
+51990at5125	Missing
+51998at5125	Complete	27712-Mb.00g030470.m01	217.1	141	https://www.orthodb.org/v10?query=51998at5125	Probable NADH2 dehydrogenase (Ubiquinone) 21.3K chain
+52006at5125	Missing
+52007at5125	Missing
+52014at5125	Missing
+52022at5125	Missing
+52029at5125	Missing
+52042at5125	Missing
+52048at5125	Missing
+52056at5125	Missing
+52057at5125	Missing
+52063at5125	Missing
+52066at5125	Missing
+52075at5125	Missing
+52076at5125	Missing
+52077at5125	Missing
+52110at5125	Complete	27712-Mb.00g048540.m01	226.0	124	https://www.orthodb.org/v10?query=52110at5125	Small GTPase superfamily
+52112at5125	Missing
+52116at5125	Missing
+52122at5125	Missing
+52131at5125	Missing
+52143at5125	Missing
+52151at5125	Missing
+52173at5125	Complete	27712-Mb.00g018010.m01	276.5	152	https://www.orthodb.org/v10?query=52173at5125	Cyclin-like protein
+52217at5125	Missing
+52218at5125	Complete	27712-Mb.00g010530.m01	218.3	153	https://www.orthodb.org/v10?query=52218at5125	NADH dehydrogenase 
+52236at5125	Missing
+52238at5125	Missing
+52243at5125	Complete	27712-Mb.00g009930.m01	210.5	107	https://www.orthodb.org/v10?query=52243at5125	Cell cycle control protein cwf14
+52255at5125	Missing
+52267at5125	Missing
+52268at5125	Missing
+52270at5125	Missing
+52281at5125	Missing
+52283at5125	Missing
+52298at5125	Missing
+52301at5125	Missing
+52302at5125	Missing
+52339at5125	Missing
+52342at5125	Missing
+52353at5125	Missing
+52363at5125	Complete	27712-Mb.00g058590.m01	83.2	63	https://www.orthodb.org/v10?query=52363at5125	C7Z0G4_NECH7
+52367at5125	Missing
+52383at5125	Missing
+52392at5125	Complete	27712-Mb.00g063570.m01	258.9	212	https://www.orthodb.org/v10?query=52392at5125	C7YTF9_NECH7
+52422at5125	Missing
+52428at5125	Missing
+52430at5125	Missing
+52431at5125	Missing
+52443at5125	Missing
+52447at5125	Missing
+52453at5125	Missing
+52474at5125	Missing
+52475at5125	Missing
+52476at5125	Missing
+52499at5125	Missing
+52507at5125	Missing
+52509at5125	Complete	27712-Mb.00g050720.m01	245.4	333	https://www.orthodb.org/v10?query=52509at5125	Collagen triple helix repeat (20 copies) domain-containing protein
+52532at5125	Missing
+52535at5125	Missing
+52553at5125	Missing
+52561at5125	Missing
+52573at5125	Missing
+52591at5125	Missing
+52607at5125	Missing
+52612at5125	Missing
+52625at5125	Missing
+52639at5125	Complete	27712-Mb.00g052750.m01	202.1	117	https://www.orthodb.org/v10?query=52639at5125	D-aminoacyl-tRNA deacylase
+52646at5125	Missing
+52666at5125	Missing
+52698at5125	Missing
+52712at5125	Missing
+52718at5125	Missing
+52721at5125	Missing
+52735at5125	Missing
+52757at5125	Complete	27712-Mb.00g010490.m01	376.6	432	https://www.orthodb.org/v10?query=52757at5125	Related to AGA1 A-agglutinin anchor subunit
+52765at5125	Missing
+52794at5125	Missing
+52820at5125	Complete	27712-Mb.00g045540.m01	153.4	74	https://www.orthodb.org/v10?query=52820at5125	Thymidylate kinase
+52838at5125	Complete	27712-Mb.00g000700.m01	152.4	136	https://www.orthodb.org/v10?query=52838at5125	C7YSF1_NECH7
+52849at5125	Missing
+52850at5125	Missing
+52863at5125	Complete	27712-Mb.00g042150.m01	175.5	85	https://www.orthodb.org/v10?query=52863at5125	Ubiquitin-conjugating enzyme E2 13
+52872at5125	Missing
+52889at5125	Complete	27712-Mb.00g035110.m01	160.5	103	https://www.orthodb.org/v10?query=52889at5125	DNA double-strand break repair and VJ recombination XRCC4
+52910at5125	Missing
+52932at5125	Missing
+52981at5125	Missing
+52990at5125	Missing
+52992at5125	Missing
+52999at5125	Complete	27712-Mb.00g008450.m01	182.8	109	https://www.orthodb.org/v10?query=52999at5125	A0A0B4I939_9HYPO
+53008at5125	Missing
+53018at5125	Complete	27712-Mb.00g007540.m01	228.3	164	https://www.orthodb.org/v10?query=53018at5125	Intermembrane space import and assembly protein 40
+53033at5125	Missing
+53046at5125	Missing
+53050at5125	Missing
+53065at5125	Missing
+53097at5125	Missing
+53102at5125	Missing
+53106at5125	Missing
+53110at5125	Missing
+53112at5125	Missing
+53155at5125	Missing
+53157at5125	Missing
+53169at5125	Complete	27712-Mb.00g014200.m01	298.0	218	https://www.orthodb.org/v10?query=53169at5125	Tetratricopeptide-like helical
+53260at5125	Missing
+53264at5125	Missing
+53275at5125	Missing
+53305at5125	Missing
+53312at5125	Missing
+53326at5125	Missing
+53336at5125	Missing
+53363at5125	Missing
+53370at5125	Missing
+53371at5125	Missing
+53414at5125	Missing
+53417at5125	Missing
+53420at5125	Missing
+53431at5125	Complete	27712-Mb.00g029500.m01	274.8	136	https://www.orthodb.org/v10?query=53431at5125	Ribosomal protein L13
+53441at5125	Missing
+53500at5125	Missing
+53528at5125	Complete	27712-Mb.00g039730.m01	199.2	112	https://www.orthodb.org/v10?query=53528at5125	probable IgE-dependent histamine-releasing factor
+53529at5125	Missing
+53530at5125	Missing
+53535at5125	Missing
+53536at5125	Missing
+53537at5125	Missing
+53541at5125	Missing
+53554at5125	Missing
+53562at5125	Missing
+53566at5125	Missing
+53582at5125	Missing
+53583at5125	Missing
+53591at5125	Complete	27712-Mb.00g026760.m01	250.3	155	https://www.orthodb.org/v10?query=53591at5125	Pre-rRNA-processing protein TSR2
+53598at5125	Missing
+53605at5125	Missing
+53613at5125	Missing
+53627at5125	Missing
+53639at5125	Missing
+53642at5125	Missing
+53674at5125	Missing
+53677at5125	Missing
+53689at5125	Missing
+53696at5125	Complete	27712-Mb.00g017530.m01	207.0	108	https://www.orthodb.org/v10?query=53696at5125	Acetyltransferase
+53697at5125	Missing
+53714at5125	Missing
+53715at5125	Missing
+53730at5125	Missing
+53744at5125	Complete	27712-Mb.00g048820.m01	282.0	145	https://www.orthodb.org/v10?query=53744at5125	SNF7 family protein
+53745at5125	Missing
+53746at5125	Missing
+53752at5125	Missing
+53797at5125	Missing
+53802at5125	Missing
+53810at5125	Missing
+53821at5125	Missing
+53831at5125	Missing
+53836at5125	Missing
+53865at5125	Missing
+53876at5125	Missing
+53883at5125	Missing
+53887at5125	Missing
+53943at5125	Missing
+53956at5125	Complete	27712-Mb.00g046400.m01	367.7	171	https://www.orthodb.org/v10?query=53956at5125	Signal peptidase complex catalytic subunit SEC11
+53986at5125	Missing
+53987at5125	Complete	27712-Mb.00g033050.m01	376.7	325	https://www.orthodb.org/v10?query=53987at5125	C7YYC1_NECH7
+54007at5125	Missing
+54026at5125	Missing
+54028at5125	Missing
+54037at5125	Missing
+54043at5125	Missing
+54053at5125	Missing
+54085at5125	Missing
+54095at5125	Missing
+54101at5125	Complete	27712-Mb.00g069700.m01	175.5	154	https://www.orthodb.org/v10?query=54101at5125	Breast carcinoma amplified sequence 2
+54104at5125	Complete	27712-Mb.00g063680.m01	168.1	108	https://www.orthodb.org/v10?query=54104at5125	cyclase/dehydrase family protein
+54119at5125	Missing
+54148at5125	Missing
+54160at5125	Missing
+54170at5125	Missing
+54174at5125	Missing
+54186at5125	Complete	27712-Mb.00g023550.m01	176.1	135	https://www.orthodb.org/v10?query=54186at5125	cyclin-dependent protein kinase regulator pho80
+54188at5125	Missing
+54194at5125	Missing
+54196at5125	Missing
+54235at5125	Missing
+54241at5125	Missing
+54244at5125	Missing
+54245at5125	Missing
+54247at5125	Missing
+54250at5125	Missing
+54261at5125	Missing
+54324at5125	Missing
+54330at5125	Missing
+54345at5125	Missing
+54359at5125	Missing
+54367at5125	Missing
+54383at5125	Missing
+54389at5125	Missing
+54406at5125	Missing
+54436at5125	Missing
+54481at5125	Missing
+54483at5125	Missing
+54495at5125	Missing
+54508at5125	Missing
+54528at5125	Missing
+54535at5125	Missing
+54556at5125	Missing
+54589at5125	Missing
+54600at5125	Missing
+54606at5125	Missing
+54650at5125	Missing
+54677at5125	Complete	27712-Mb.00g009690.m01	183.8	123	https://www.orthodb.org/v10?query=54677at5125	Zinc finger, CCHC-type
+54695at5125	Complete	27712-Mb.00g025670.m01	99.0	48	https://www.orthodb.org/v10?query=54695at5125	Ubiquitin-conjugating enzyme variant MMS2
+54713at5125	Missing
+54731at5125	Missing
+54754at5125	Missing
+54760at5125	Missing
+54764at5125	Missing
+54765at5125	Missing
+54782at5125	Missing
+54795at5125	Missing
+54796at5125	Missing
+54804at5125	Missing
+54806at5125	Missing
+54818at5125	Missing
+54824at5125	Missing
+54842at5125	Missing
+54860at5125	Missing
+54889at5125	Missing
+54897at5125	Missing
+54904at5125	Missing
+54925at5125	Missing
+54934at5125	Missing
+54962at5125	Missing
+54969at5125	Complete	27712-Mb.00g002070.m01	242.8	229	https://www.orthodb.org/v10?query=54969at5125	DUF1665 domain-containing protein
+54975at5125	Missing
+55057at5125	Missing
+55077at5125	Missing
+55088at5125	Missing
+55093at5125	Missing
+55103at5125	Missing
+55105at5125	Missing
+55109at5125	Missing
+55118at5125	Missing
+55141at5125	Missing
+55146at5125	Missing
+55174at5125	Missing
+55175at5125	Missing
+55178at5125	Missing
+55180at5125	Missing
+55182at5125	Missing
+55215at5125	Missing
+55218at5125	Complete	27712-Mb.00g072100.m01	237.8	122	https://www.orthodb.org/v10?query=55218at5125	PRO41 protein
+55229at5125	Missing
+55263at5125	Missing
+55273at5125	Missing
+55287at5125	Missing
+55299at5125	Missing
+55303at5125	Missing
+55308at5125	Missing
+55325at5125	Missing
+55335at5125	Missing
+55371at5125	Missing
+55381at5125	Missing
+55399at5125	Missing
+55434at5125	Missing
+55439at5125	Missing
+55440at5125	Missing
+55441at5125	Complete	27712-Mb.00g023580.m01	315.0	212	https://www.orthodb.org/v10?query=55441at5125	Anaphase-promoting complex, subunit 15/MND2
+55460at5125	Missing
+55481at5125	Complete	27712-Mb.00g009940.m01	119.5	73	https://www.orthodb.org/v10?query=55481at5125	probable NADH2 dehydrogenase (ubiquinone)
+55497at5125	Missing
+55500at5125	Missing
+55506at5125	Missing
+55542at5125	Missing
+55557at5125	Missing
+55565at5125	Missing
+55581at5125	Missing
+55591at5125	Missing
+55600at5125	Missing
+55605at5125	Missing
+55618at5125	Missing
+55641at5125	Missing
+55663at5125	Complete	27712-Mb.00g045520.m01	200.4	129	https://www.orthodb.org/v10?query=55663at5125	Predicted protein
+55675at5125	Missing
+55681at5125	Missing
+55687at5125	Missing
+55688at5125	Missing
+55693at5125	Missing
+55699at5125	Missing
+55700at5125	Missing
+55720at5125	Missing
+55743at5125	Missing
+55752at5125	Missing
+55757at5125	Missing
+55759at5125	Missing
+55766at5125	Missing
+55771at5125	Complete	27712-Mb.00g016270.m01	174.2	101	https://www.orthodb.org/v10?query=55771at5125	conserved fungal protein
+55789at5125	Missing
+55801at5125	Missing
+55809at5125	Missing
+55811at5125	Missing
+55812at5125	Missing
+55813at5125	Missing
+55819at5125	Missing
+55838at5125	Missing
+55840at5125	Missing
+55872at5125	Missing
+55901at5125	Missing
+55902at5125	Missing
+55904at5125	Missing
+55906at5125	Missing
+55928at5125	Missing
+55945at5125	Missing
+55959at5125	Missing
+55976at5125	Complete	27712-Mb.00g053530.m01	171.0	86	https://www.orthodb.org/v10?query=55976at5125	Glutaredoxin
+55997at5125	Missing
+56000at5125	Missing
+56004at5125	Missing
+56014at5125	Missing
+56019at5125	Missing
+56043at5125	Missing
+56072at5125	Missing
+56109at5125	Missing
+56115at5125	Missing
+56117at5125	Missing
+56119at5125	Missing
+56122at5125	Missing
+56160at5125	Missing
+56168at5125	Complete	27712-Mb.00g061360.m01	183.6	118	https://www.orthodb.org/v10?query=56168at5125	low affinity copper transporter
+56196at5125	Missing
+56221at5125	Missing
+56225at5125	Missing
+56234at5125	Missing
+56241at5125	Missing
+56269at5125	Missing
+56285at5125	Missing
+56292at5125	Missing
+56313at5125	Missing
+56320at5125	Missing
+56325at5125	Missing
+56355at5125	Missing
+56399at5125	Missing
+56403at5125	Missing
+56408at5125	Missing
+56417at5125	Complete	27712-Mb.00g000300.m01	143.1	79	https://www.orthodb.org/v10?query=56417at5125	Mitochondrial 40S ribosomal protein MRP2
+56420at5125	Missing
+56421at5125	Missing
+56432at5125	Missing
+56443at5125	Missing
+56457at5125	Missing
+56460at5125	Missing
+56483at5125	Missing
+56485at5125	Missing
+56491at5125	Missing
+56494at5125	Missing
+56519at5125	Missing
+56526at5125	Missing
+56536at5125	Missing
+56546at5125	Complete	27712-Mb.00g067640.m01	234.3	154	https://www.orthodb.org/v10?query=56546at5125	Predicted protein
+56583at5125	Missing
+56610at5125	Missing
+56629at5125	Complete	27712-Mb.00g013670.m01	129.1	82	https://www.orthodb.org/v10?query=56629at5125	integral membrane protein
+56635at5125	Missing
+56642at5125	Missing
+56653at5125	Missing
+56664at5125	Missing
+56671at5125	Missing
+56684at5125	Missing
+56691at5125	Missing
+56698at5125	Missing
+56708at5125	Missing
+56724at5125	Missing
+56735at5125	Missing
+56738at5125	Missing
+56752at5125	Missing
+56770at5125	Missing
+56784at5125	Missing
+56806at5125	Missing
+56829at5125	Missing
+56860at5125	Missing
+56872at5125	Missing
+56902at5125	Missing
+56908at5125	Missing
+56922at5125	Missing
+56931at5125	Missing
+56950at5125	Missing
+56968at5125	Missing
+57012at5125	Missing
+57052at5125	Missing
+57101at5125	Missing
+57128at5125	Missing
+57147at5125	Missing
+57165at5125	Missing
+57204at5125	Missing
+57210at5125	Missing
+57237at5125	Missing
+57251at5125	Missing
+57252at5125	Missing
+57277at5125	Missing
+57278at5125	Missing
+57288at5125	Missing
+57293at5125	Missing
+57324at5125	Missing
+57369at5125	Missing
+57371at5125	Missing
+57419at5125	Missing
+57439at5125	Missing
+57449at5125	Missing
+57470at5125	Missing
+57490at5125	Missing
+57494at5125	Missing
+57498at5125	Complete	27712-Mb.00g058820.m01	216.1	133	https://www.orthodb.org/v10?query=57498at5125	mfs-type transporter
+57522at5125	Missing
+57532at5125	Missing
+57544at5125	Missing
+57550at5125	Missing
+57600at5125	Missing
+57604at5125	Missing
+57613at5125	Missing
+57614at5125	Complete	27712-Mb.00g006870.m01	147.1	137	https://www.orthodb.org/v10?query=57614at5125	FMP21-like protein
+57632at5125	Missing
+57656at5125	Missing
+57669at5125	Missing
+57671at5125	Missing
+57693at5125	Missing
+57701at5125	Missing
+57716at5125	Missing
+57739at5125	Missing
+57746at5125	Missing
+57764at5125	Missing
+57780at5125	Missing
+57787at5125	Missing
+57792at5125	Missing
+57794at5125	Missing
+57818at5125	Complete	27712-Mb.00g072190.m01	169.5	208	https://www.orthodb.org/v10?query=57818at5125	MYB-like protein
+57830at5125	Missing
+57835at5125	Missing
+57838at5125	Missing
+57855at5125	Complete	27712-Mb.00g048510.m01	227.1	124	https://www.orthodb.org/v10?query=57855at5125	related to Hsp90 associated co-chaperone
+57858at5125	Missing
+57890at5125	Missing
+57925at5125	Missing
+57954at5125	Missing
+57970at5125	Missing
+57987at5125	Missing
+57999at5125	Missing
+58012at5125	Missing
+58015at5125	Missing
+58022at5125	Missing
+58033at5125	Missing
+58049at5125	Missing
+58062at5125	Missing
+58076at5125	Missing
+58116at5125	Missing
+58123at5125	Missing
+58146at5125	Missing
+58182at5125	Missing
+58191at5125	Missing
+58221at5125	Missing
+58286at5125	Missing
+58321at5125	Missing
+58347at5125	Missing
+58354at5125	Missing
+58392at5125	Missing
+58398at5125	Missing
+58433at5125	Complete	27712-Mb.00g031880.m01	192.7	97	https://www.orthodb.org/v10?query=58433at5125	40S ribosomal protein S26
+58436at5125	Missing
+58441at5125	Missing
+58474at5125	Missing
+58482at5125	Missing
+58485at5125	Missing
+58488at5125	Missing
+58490at5125	Missing
+58496at5125	Missing
+58497at5125	Complete	27712-Mb.00g023730.m01	97.3	80	https://www.orthodb.org/v10?query=58497at5125	MARVEL-like domain protein
+58502at5125	Missing
+58513at5125	Missing
+58515at5125	Missing
+58572at5125	Missing
+58580at5125	Missing
+58628at5125	Missing
+58641at5125	Missing
+58656at5125	Missing
+58689at5125	Missing
+58693at5125	Missing
+58698at5125	Missing
+58709at5125	Missing
+58714at5125	Missing
+58717at5125	Missing
+58720at5125	Complete	27712-Mb.00g012250.m01	38.0	54	https://www.orthodb.org/v10?query=58720at5125	BolA protein
+58722at5125	Missing
+58730at5125	Missing
+58740at5125	Missing
+58745at5125	Missing
+58761at5125	Missing
+58791at5125	Missing
+58793at5125	Missing
+58799at5125	Missing
+58817at5125	Missing
+58829at5125	Missing
+58845at5125	Missing
+58849at5125	Complete	27712-Mb.00g048400.m01	164.3	135	https://www.orthodb.org/v10?query=58849at5125	spc7 protein
+58869at5125	Missing
+58873at5125	Missing
+58876at5125	Missing
+58879at5125	Missing
+58983at5125	Missing
+59036at5125	Complete	27712-Mb.00g043760.m01	100.8	85	https://www.orthodb.org/v10?query=59036at5125	Spo12-like protein
+59039at5125	Missing
+59064at5125	Missing
+59077at5125	Missing
+59117at5125	Complete	27712-Mb.00g068420.m01	64.7	34	https://www.orthodb.org/v10?query=59117at5125	LSM domain, eukaryotic/archaea-type
+59126at5125	Missing
+59127at5125	Missing
+59131at5125	Missing
+59137at5125	Missing
+59215at5125	Missing
+59238at5125	Missing
+59245at5125	Missing
+59250at5125	Missing
+59261at5125	Missing
+59262at5125	Missing
+59299at5125	Missing
+59388at5125	Missing
+59395at5125	Missing
+59399at5125	Complete	27712-Mb.00g051290.m01	141.8	71	https://www.orthodb.org/v10?query=59399at5125	U1 small nuclear ribonucleoprotein C
+59419at5125	Missing
+59455at5125	Missing
+59464at5125	Missing
+59468at5125	Missing
+59488at5125	Missing
+59492at5125	Missing
+59529at5125	Missing
+59539at5125	Complete	27712-Mb.00g072220.m01	28.8	25	https://www.orthodb.org/v10?query=59539at5125	Vacuolar ATPase assembly integral membrane protein VMA21
+59647at5125	Missing
+59666at5125	Missing
+59684at5125	Missing
+59726at5125	Missing
+59749at5125	Missing
+59762at5125	Missing
+59769at5125	Missing
+59791at5125	Missing
+59823at5125	Missing
+59857at5125	Complete	27712-Mb.00g042570.m01	141.2	79	https://www.orthodb.org/v10?query=59857at5125	probable synaptobrevin (v-SNARE) homolog
+59862at5125	Missing
+59870at5125	Missing
+59871at5125	Missing
+59881at5125	Missing
+59899at5125	Missing
+59929at5125	Missing
+59940at5125	Missing
+59949at5125	Missing
+60002at5125	Missing
+60038at5125	Missing
+60078at5125	Missing
+60125at5125	Missing
+60154at5125	Missing
+60247at5125	Missing
+60272at5125	Missing
+60306at5125	Missing
+60346at5125	Missing
+60380at5125	Missing
+60434at5125	Complete	27712-Mb.00g057450.m01	93.2	58	https://www.orthodb.org/v10?query=60434at5125	Probable ribosomal protein P2
+60600at5125	Missing
+60640at5125	Missing
+60678at5125	Missing
+60798at5125	Missing
+60879at5125	Missing
+60931at5125	Missing
+61030at5125	Missing
+61111at5125	Missing
+61327at5125	Missing

@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.2 
+# The lineage dataset is: hypocreales_odb10 (Creation date: 2019-11-20, number of species: 50, number of BUSCOs: 4494)
+# Summarized benchmarking in BUSCO notation for file /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Epichloe_festucae/Epichloe_festucaeAA.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:97.6%[S:97.5%,D:0.1%],F:0.6%,M:1.8%,n:4494	   
+	4386	Complete BUSCOs (C)			   
+	4381	Complete and single-copy BUSCOs (S)	   
+	5	Complete and duplicated BUSCOs (D)	   
+	28	Fragmented BUSCOs (F)			   
+	80	Missing BUSCOs (M)			   
+	4494	Total BUSCO groups searched		   

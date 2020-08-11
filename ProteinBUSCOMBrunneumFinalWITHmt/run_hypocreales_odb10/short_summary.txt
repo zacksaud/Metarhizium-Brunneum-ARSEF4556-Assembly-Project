@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.2 
+# The lineage dataset is: hypocreales_odb10 (Creation date: 2019-11-20, number of species: 50, number of BUSCOs: 4494)
+# Summarized benchmarking in BUSCO notation for file /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/MbrunneumProteins.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:99.1%[S:98.8%,D:0.3%],F:0.4%,M:0.5%,n:4494	   
+	4455	Complete BUSCOs (C)			   
+	4441	Complete and single-copy BUSCOs (S)	   
+	14	Complete and duplicated BUSCOs (D)	   
+	18	Fragmented BUSCOs (F)			   
+	21	Missing BUSCOs (M)			   
+	4494	Total BUSCO groups searched		   

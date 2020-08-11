@@ -1,0 +1,14 @@
+# BUSCO version is: 4.0.2 
+# The lineage dataset is: hypocreales_odb10 (Creation date: 2019-11-20, number of species: 50, number of BUSCOs: 4494)
+# Summarized benchmarking in BUSCO notation for file /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Cordyceps_militaris/Cordyceps_militarisGMarkAA.fasta
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.0%[S:95.7%,D:0.3%],F:1.8%,M:2.2%,n:4494	   
+	4315	Complete BUSCOs (C)			   
+	4301	Complete and single-copy BUSCOs (S)	   
+	14	Complete and duplicated BUSCOs (D)	   
+	79	Fragmented BUSCOs (F)			   
+	100	Missing BUSCOs (M)			   
+	4494	Total BUSCO groups searched		   

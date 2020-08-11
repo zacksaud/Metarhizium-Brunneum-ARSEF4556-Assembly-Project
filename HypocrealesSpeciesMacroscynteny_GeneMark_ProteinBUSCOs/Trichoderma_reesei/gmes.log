@@ -1,0 +1,278 @@
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:38 2020] /home/zack/gmes_linux_64/probuild --reformat_fasta --uppercase --allow_x --letters_per_line 60 --out data/dna.fna --label _dna --trace info/dna.trace --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/T.fna  --mask_soft 1000 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:39 2020] /home/zack/gmes_linux_64/probuild  --seq data/dna.fna  --allow_x  --stat info/dna.general  --details
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:40 2020] /home/zack/gmes_linux_64/probuild  --seq data/dna.fna  --allow_x  --stat_fasta info/dna.multi_fasta
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:40 2020] /home/zack/gmes_linux_64/probuild  --seq data/dna.fna  --allow_x  --substring_n_distr info/dna.gap_distr
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:41 2020] /home/zack/gmes_linux_64/gc_distr.pl --in data/dna.fna  --out info/dna.gc.csv  --w 1000,8000
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:42 2020] /home/zack/gmes_linux_64/probuild  --seq /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/data/dna.fna  --split dna.fa  --max_contig 5000000 --min_contig 50000 --letters_per_line 100 --split_at_n 5000 --split_at_x 5000 --allow_x --x_to_n  --trace ../../info/training.trace 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:43 2020] /home/zack/gmes_linux_64/probuild --seq data/training.fna --stat info/training.general --allow_x  --GC_PRECISION 0  --details
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:43 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section ES_ini --def /home/zack/gmes_linux_64/heu_dir/heu_05_gcode_1_gc_51.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:43 2020] ln -sf  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_ini/es_ini.mod  run/ini.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:13:43 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:07 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_ini/es_ini.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_A_1/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_A --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:08 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:09 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:09 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_A --def prev.mod  --out ES_A_1.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:09 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:36 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_A_1/ES_A_1.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_A_2/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_A --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:38 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:38 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_A --def prev.mod  --out ES_A_2.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:14:38 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:05 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_A_2/ES_A_2.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_B_1/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_B --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_0    --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020]  cat  GT.mat > donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:06 2020]  cat  AG.mat > acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_1    --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_2    --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020]  mv donor.mat     GT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:07 2020]  mv acceptor.mat  AG.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:08 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:08 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section intron_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:08 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section initial_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:09 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section internal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:09 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section terminal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:09 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section single_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:09 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_B --def prev.mod  --out ES_B_1.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:09 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:34 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_B_1/ES_B_1.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_1/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:35 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_C --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:35 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:35 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_0    --phase 0  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  GT.mat > donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  AG.mat > acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_1    --phase 1  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_2    --phase 2  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  mv donor.mat     GT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  mv acceptor.mat  AG.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_0  --phase 0  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:36 2020]  cat  GC.mat > donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_1  --phase 1  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:37 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:37 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_2  --phase 2  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:37 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:37 2020]  mv donor_GC.mat GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:37 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:38 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section intron_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:38 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section initial_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:38 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section internal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section terminal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section single_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020]  cat AG_SHORT.mat >  acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020]  mv acceptor_short.mat  AG_SHORT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:15:39 2020] /home/zack/gmes_linux_64/bp_seq_select.pl --seq_in bp_region.seq --seq_out gibbs.seq  --max_seq 4000  --bp_region_length  50  --min_bp_region_length 40 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:45 2020] /home/zack/gmes_linux_64/Gibbs3  gibbs.seq  9 -n -r -o gibbs.out -nopt -m -w 0.001 -Z  -s 1 -P /home/zack/gmes_linux_64/prior.bp -F
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:45 2020] /home/zack/gmes_linux_64/parse_gibbs.pl --seq gibbs.seq  --gibbs gibbs.out --motif_seq bp.seq  --spacer_len spacer.len  --spacer_seq spacer.seq  --tr transition_bp.mod  
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:45 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section branch_point --format BRANCH 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:45 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section spacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:46 2020] /home/zack/gmes_linux_64/scan_for_bp.pl --seq_in bp_region.seq  --gibbs_in gibbs.out  --pos_out prespacer.len 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:46 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section prespacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:46 2020] /home/zack/gmes_linux_64/probuild --non spacer.seq --mkmod_non spacer.mkch   --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 6 --ORDM 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:46 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_C --def prev.mod  --out ES_C_1.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:16:46 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:23 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_1/ES_C_1.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_2/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:24 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_C --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:24 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:24 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:24 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:24 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:24 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_0    --phase 0  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  GT.mat > donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  AG.mat > acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_1    --phase 1  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_2    --phase 2  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  mv donor.mat     GT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  mv acceptor.mat  AG.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_0  --phase 0  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  GC.mat > donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_1  --phase 1  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_2  --phase 2  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:25 2020]  mv donor_GC.mat GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:26 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:26 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section intron_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:27 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section initial_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:27 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section internal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section terminal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section single_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020]  cat AG_SHORT.mat >  acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020]  mv acceptor_short.mat  AG_SHORT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:19:28 2020] /home/zack/gmes_linux_64/bp_seq_select.pl --seq_in bp_region.seq --seq_out gibbs.seq  --max_seq 4000  --bp_region_length  50  --min_bp_region_length 40 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:23 2020] /home/zack/gmes_linux_64/Gibbs3  gibbs.seq  9 -n -r -o gibbs.out -nopt -m -w 0.001 -Z  -s 1 -P /home/zack/gmes_linux_64/prior.bp -F
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:23 2020] /home/zack/gmes_linux_64/parse_gibbs.pl --seq gibbs.seq  --gibbs gibbs.out --motif_seq bp.seq  --spacer_len spacer.len  --spacer_seq spacer.seq  --tr transition_bp.mod  
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:23 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section branch_point --format BRANCH 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:23 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section spacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:23 2020] /home/zack/gmes_linux_64/scan_for_bp.pl --seq_in bp_region.seq  --gibbs_in gibbs.out  --pos_out prespacer.len 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:24 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section prespacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:24 2020] /home/zack/gmes_linux_64/probuild --non spacer.seq --mkmod_non spacer.mkch   --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 6 --ORDM 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:24 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_C --def prev.mod  --out ES_C_2.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:20:24 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:09 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_2/ES_C_2.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_3/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_C --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_0    --phase 0  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020]  cat  GT.mat > donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020]  cat  AG.mat > acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:10 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_1    --phase 1  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_2    --phase 2  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  mv donor.mat     GT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  mv acceptor.mat  AG.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_0  --phase 0  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  GC.mat > donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_1  --phase 1  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_2  --phase 2  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:11 2020]  mv donor_GC.mat GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:12 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:12 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section intron_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:13 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section initial_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:13 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section internal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:13 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section terminal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section single_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020]  cat AG_SHORT.mat >  acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020]  mv acceptor_short.mat  AG_SHORT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:23:14 2020] /home/zack/gmes_linux_64/bp_seq_select.pl --seq_in bp_region.seq --seq_out gibbs.seq  --max_seq 4000  --bp_region_length  50  --min_bp_region_length 40 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:13 2020] /home/zack/gmes_linux_64/Gibbs3  gibbs.seq  9 -n -r -o gibbs.out -nopt -m -w 0.001 -Z  -s 1 -P /home/zack/gmes_linux_64/prior.bp -F
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:13 2020] /home/zack/gmes_linux_64/parse_gibbs.pl --seq gibbs.seq  --gibbs gibbs.out --motif_seq bp.seq  --spacer_len spacer.len  --spacer_seq spacer.seq  --tr transition_bp.mod  
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section branch_point --format BRANCH 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:14 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section spacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:14 2020] /home/zack/gmes_linux_64/scan_for_bp.pl --seq_in bp_region.seq  --gibbs_in gibbs.out  --pos_out prespacer.len 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:15 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section prespacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:15 2020] /home/zack/gmes_linux_64/probuild --non spacer.seq --mkmod_non spacer.mkch   --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 6 --ORDM 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:15 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_C --def prev.mod  --out ES_C_3.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:24:15 2020] 10 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:11 2020] ln -sf /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_3/ES_C_3.mod  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_4/prev.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/parse_set.pl --section ES_C --cfg  /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --v
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section start_ATG   --format INI
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAA    --format TERM_TAA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TAG    --format TERM_TAG
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section stop_TGA    --format TERM_TGA
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_0    --phase 0  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020]  cat  GT.mat > donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020]  cat  AG.mat > acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:12 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_1    --phase 1  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section donor_GT    --format DONOR_2    --phase 2  --quiet
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_AG --format ACCEPTOR_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  GT.mat >> donor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  AG.mat >> acceptor.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  mv donor.mat     GT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  mv acceptor.mat  AG.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_0  --phase 0  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  GC.mat > donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_1  --phase 1  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl  --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg  --section donor_GC  --format DONOR_GC_2  --phase 2  --force
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  cat  GC.mat >> donor_GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:13 2020]  mv donor_GC.mat GC.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:14 2020] /home/zack/gmes_linux_64/probuild --cod cod.seq --non non.seq --mkmod_euk mkch    --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 8 --revcomp_non  --ORDM 5 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:14 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section intron_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:15 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section initial_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:15 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section internal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:15 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section terminal_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section single_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_0 --phase 0 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020]  cat AG_SHORT.mat >  acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_1 --phase 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section acceptor_short_AG --format ACC_BP_2 --phase 2 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020]  cat AG_SHORT.mat >> acceptor_short.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020]  mv acceptor_short.mat  AG_SHORT.mat 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:27:16 2020] /home/zack/gmes_linux_64/bp_seq_select.pl --seq_in bp_region.seq --seq_out gibbs.seq  --max_seq 4000  --bp_region_length  50  --min_bp_region_length 40 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:24 2020] /home/zack/gmes_linux_64/Gibbs3  gibbs.seq  9 -n -r -o gibbs.out -nopt -m -w 0.001 -Z  -s 1 -P /home/zack/gmes_linux_64/prior.bp -F
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:24 2020] /home/zack/gmes_linux_64/parse_gibbs.pl --seq gibbs.seq  --gibbs gibbs.out --motif_seq bp.seq  --spacer_len spacer.len  --spacer_seq spacer.seq  --tr transition_bp.mod  
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:24 2020] /home/zack/gmes_linux_64/make_nt_freq_mat.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section branch_point --format BRANCH 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:24 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section spacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:25 2020] /home/zack/gmes_linux_64/scan_for_bp.pl --seq_in bp_region.seq  --gibbs_in gibbs.out  --pos_out prespacer.len 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:25 2020] /home/zack/gmes_linux_64/histogram.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section prespacer_DUR
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:25 2020] /home/zack/gmes_linux_64/probuild --non spacer.seq --mkmod_non spacer.mkch   --MKCHAIN_L_MARGING 0  --MKCHAIN_R_MARGING 0  --MKCHAIN_PSEUDOCOUNTS 1  --MKCHAIN_PRECISION 6 --ORDM 1 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:25 2020] /home/zack/gmes_linux_64/build_mod.pl --cfg /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run.cfg --section ES_C --def prev.mod  --out ES_C_4.mod 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:25 2020] cp /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/run/ES_C_4/ES_C_4.mod /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/gmhmm.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:25 2020] cp /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/gmhmm.mod output/gmhmm.mod
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:26 2020] /home/zack/gmes_linux_64/probuild  --seq /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/data/dna.fna  --split dna.fa  --max_contig 5000000 --min_contig 500 --letters_per_line 100 --split_at_n 5000 --split_at_x 5000 --allow_x --x_to_n  --trace ../../info/prediction.trace 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:28:26 2020] 12 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:15 2020] 12 contigs in training
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:15 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_1.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:15 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_2.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:15 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_3.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:15 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_4.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_5.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_6.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_7.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_8.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_9.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_10.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_11.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/hmm_to_gtf.pl  --in /home/zack/Desktop/OtherSordarioMyceteFungi/Hypocreales/Trichoderma_reesei/output/gmhmm/dna.fa_12.out  --app  --out genemark.gtf  --min 120 
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] /home/zack/gmes_linux_64/reformat_gff.pl --out genemark.gtf.tmp --trace info/dna.trace --in genemark.gtf  --back
+/home/zack/gmes_linux_64/gmes_petap.pl : [Sun Jul 26 16:31:16 2020] mv genemark.gtf.tmp genemark.gtf

@@ -1,0 +1,16 @@
+INFO:busco.run_BUSCO	***** Start a BUSCO v4.0.2 analysis, current time: 07/29/2020 18:17:07 *****
+DEBUG:busco.ConfigManager	Getting config file
+ERROR:busco.run_BUSCO	Please specify a BUSCO config file using either (i) an environment variable by entering 'export BUSCO_CONFIG_FILE=/path/to/config.ini' or (ii) using the command line flag --config /path/to/config.ini
+DEBUG:busco.run_BUSCO	Please specify a BUSCO config file using either (i) an environment variable by entering 'export BUSCO_CONFIG_FILE=/path/to/config.ini' or (ii) using the command line flag --config /path/to/config.ini
+Traceback (most recent call last):
+  File "/home/zack/.local/lib/python3.6/site-packages/busco/run_BUSCO.py", line 166, in run_BUSCO
+    config_manager = BuscoConfigManager(params)
+  File "/home/zack/.local/lib/python3.6/site-packages/busco/ConfigManager.py", line 18, in __init__
+    self.get_config_file()
+  File "/home/zack/.local/lib/python3.6/site-packages/busco/BuscoLogger.py", line 55, in wrapped_func
+    self.retval = func(*args, **kwargs)
+  File "/home/zack/.local/lib/python3.6/site-packages/busco/ConfigManager.py", line 38, in get_config_file
+    raise SystemExit("Please specify a BUSCO config file using either "
+SystemExit: Please specify a BUSCO config file using either (i) an environment variable by entering 'export BUSCO_CONFIG_FILE=/path/to/config.ini' or (ii) using the command line flag --config /path/to/config.ini
+ERROR:busco.run_BUSCO	BUSCO analysis failed !
+ERROR:busco.run_BUSCO	Check the logs, read the user guide, and check the BUSCO issue board on https://gitlab.com/ezlab/busco/issues
